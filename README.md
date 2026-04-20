@@ -38,6 +38,11 @@
 - `components/_template.md`
   - 单组件详情模板
   - 包含使用场景、Figma 绑定、代码绑定、变体、代码片段、使用方式
+- `src/`
+  - TypeScript 解析器骨架
+  - 后续用于统一读取 `rules.md`、`tokens.md`、`components/*.md`
+- `package.json` / `tsconfig.json`
+  - 解析器和校验器的本地工程配置
 
 ## 维护原则
 
@@ -55,3 +60,13 @@
 - 组件库 MCP
 - 组件库文档站
 - 其他内部工具或同步脚本
+
+## Parser Scaffold
+
+当前仓库已预留一层 TypeScript 解析器骨架，用于后续：
+
+1. 统一解析 Markdown + YAML 结构化数据
+2. 校验文档结构是否符合约定
+3. 导出统一 JSON 给下游系统消费
+
+当前阶段只创建文件骨架，不提前写死业务解析逻辑。

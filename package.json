@@ -1,0 +1,20 @@
+{
+  "name": "@team3/design-system-source",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Single source of truth parser scaffold for design system rules, tokens, and component entries.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.3"
+  }
+}

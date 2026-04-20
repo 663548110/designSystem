@@ -8,9 +8,9 @@ component:
   semantic_name: Tag
   status: placeholder
   owners: []
-  consumers:
-    - 设计侧
-    - 编码侧
+  consumer_role_ids:
+    - design_side
+    - code_side
 ```
 
 ## Figma Binding
@@ -76,32 +76,44 @@ properties:
 
 ## Code Snippets
 
-```dart
-// TODO: add minimal usage snippet for tag
-```
-
-```dart
-// TODO: add composition usage snippet for tag
+```yaml
+code_snippets:
+  - snippet_id: minimal
+    title: Minimal Usage
+    intent: minimal
+    language: dart
+    description: 展示组件最小可用形态
+    code: |
+      // TODO: add minimal usage snippet for tag
+  - snippet_id: composition
+    title: Composition Example
+    intent: composition
+    language: dart
+    description: 展示组件在典型页面结构中的组合方式
+    code: |
+      // TODO: add composition usage snippet for tag
 ```
 
 ## Consumer Hints
 
 ```yaml
 consumer_hints:
-  设计侧:
+  design_side:
+    display_name: 设计侧
     preferred_variant: REPLACE_ME
     key_fields: []
-    systems:
-      - Figma设计智能体
-  编码侧:
+    system_ids:
+      - figma_design_agent
+  code_side:
+    display_name: 编码侧
     preferred_import: package:rdesign_flutter/rdesign_flutter.dart
     preferred_props: []
     expose_examples: true
     expose_variants: true
-    systems:
-      - 组件库 MCP
-      - 组件库文档站
-      - 相关代码工具
+    system_ids:
+      - component_library_mcp
+      - component_library_docs
+      - code_tooling
     render_sections:
       - usage_scenarios
       - usage_way

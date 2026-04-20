@@ -10,9 +10,9 @@
 4. 为后续自动同步和工具解析预留稳定结构
 
 角色约定：
-- `设计侧`：设计侧消费者
-  - `Figma设计智能体`：给虾设计 / Figma 生成流程使用
-- `编码侧`：给组件库 MCP、组件库文档站及相关代码工具使用
+- `design_side`（设计侧）：设计侧消费者
+  - `figma_design_agent`（Figma设计智能体）：给虾设计 / Figma 生成流程使用
+- `code_side`（编码侧）：给组件库 MCP、组件库文档站及相关代码工具使用
 
 ## 单一数据源约束
 
@@ -57,12 +57,13 @@
 4. 组件导航不重复维护组件详情字段
 5. 工具优先解析结构化 YAML 代码块
 6. Markdown 自然语言用于补充解释，不作为唯一机读来源
+7. machine id 与中文展示文案分离，机读字段优先使用稳定 id
 
 ## 预留消费方
 
-- `设计侧`
-  - `Figma设计智能体`
-- `编码侧`
+- `design_side`（设计侧）
+  - `figma_design_agent`（Figma设计智能体）
+- `code_side`（编码侧）
   - 组件库 MCP
   - 组件库文档站
   - 相关代码工具
@@ -129,6 +130,12 @@ type DesignSystemSnapshot = {
 - 组件库 MCP 读取结构化组件事实
 - 文档站读取渲染所需字段
 
+额外约定：
+- 消费者角色和系统一律使用 machine id，例如 `design_side`、`figma_design_agent`
+- 中文名称通过 `display_name` 提供给展示层
+- `tokens.entries` 承载真实 token 条目
+- `components[*].sections.code_snippets` 承载可机读代码片段
+
 ### Usage Principle
 
 消费侧应遵守这些原则：
@@ -137,6 +144,7 @@ type DesignSystemSnapshot = {
 2. 不同消费侧只读取自己需要的 section
 3. 不要在消费端写回源文档
 4. 组件清单应来自 `components/*.md` 的解析结果，而不是手工维护第二份列表
+5. machine id 用于 parser / schema / export，中文展示名仅用于人类阅读和渲染
 
 ### Current Status
 
@@ -146,3 +154,12 @@ type DesignSystemSnapshot = {
 - 模块边界已定义
 - 文件加载路径已定义
 - 真实 Markdown/YAML 解析逻辑后续再完善
+
+## Structured Data Contract
+
+结构化 YAML 目前遵守这些约定：
+
+1. 稳定机读字段优先使用 machine id，例如 `design_side`、`code_side`
+2. 中文展示名通过 `display_name` 提供，不直接作为协议主键
+3. token 的真实条目将统一记录在 `tokens.md` 的 `## Token Entries`
+4. 组件示例代码若需要被工具消费，必须写入 `code_snippets[*].code`

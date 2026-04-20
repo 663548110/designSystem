@@ -22,14 +22,14 @@ rule_set:
   status: draft
   owners: []
   source_of_truth: true
-  consumers:
-    - 设计侧
-    - 编码侧
+  consumer_role_ids:
+    - design_side
+    - code_side
 ```
 
 字段说明：
 - `source_of_truth`: 是否作为唯一人工维护规则源
-- `consumers`: 预期消费这份规则的角色
+- `consumer_role_ids`: 预期消费这份规则的角色 id
 
 ## Purpose
 
@@ -62,6 +62,32 @@ single_source_policy:
 - 组件事实只维护在 `components/*.md`
 - token 真相只维护在 `tokens.md`
 - 下游系统只能消费，不应反向成为第二数据源
+
+## Consumer Registry
+
+```yaml
+consumer_registry:
+  roles:
+    - role_id: design_side
+      display_name: 设计侧
+      systems:
+        - system_id: figma_design_agent
+          display_name: Figma设计智能体
+    - role_id: code_side
+      display_name: 编码侧
+      systems:
+        - system_id: component_library_mcp
+          display_name: 组件库 MCP
+        - system_id: component_library_docs
+          display_name: 组件库文档站
+        - system_id: code_tooling
+          display_name: 相关代码工具
+```
+
+执行原则：
+- `role_id` / `system_id` 是稳定机读主键
+- `display_name` 只负责展示，不应作为 parser 主键
+- 其他文件引用消费者时，应优先复用这里定义的 id
 
 ## Authority Order
 
@@ -127,19 +153,21 @@ code_rules:
 
 ```yaml
 consumer_contract:
-  设计侧:
-    systems:
-      - Figma设计智能体
+  design_side:
+    display_name: 设计侧
+    system_ids:
+      - figma_design_agent
     read_from:
       - rules.md
       - tokens.md
       - components/*.md
     write_back: false
-  编码侧:
-    systems:
-      - 组件库 MCP
-      - 组件库文档站
-      - 相关代码工具
+  code_side:
+    display_name: 编码侧
+    system_ids:
+      - component_library_mcp
+      - component_library_docs
+      - code_tooling
     read_from:
       - rules.md
       - tokens.md
@@ -165,6 +193,8 @@ tooling_rules:
     - do_not_require_parsers_to_scrape_navigation_lists_for_truth
   output_requirements:
     - preserve stable identifiers
+    - preserve stable consumer role ids and system ids
+    - preserve display_name for human rendering
     - preserve source file references
     - allow future generation of mcp datasets and docs pages
 ```

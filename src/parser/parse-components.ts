@@ -3,7 +3,8 @@ import type { ComponentDocument } from '../types.js';
 export function parseComponentDocument(filePath: string, rawMarkdown: string): ComponentDocument {
   void filePath;
   void rawMarkdown;
-  // TODO: Extract component metadata, bindings, variants, snippets, and consumer hints.
+  // TODO: Parse single-key YAML blocks into typed component sections, validate
+  // `code_snippets` structure, and normalize consumer hints keyed by consumer role id.
   throw new Error('TODO: implement parseComponentDocument');
 }
 

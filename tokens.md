@@ -10,7 +10,7 @@
 
 1. 先看 `token_sources`，确认各类 token 的权威来源
 2. 再看 `token_entry_template`，理解单条 token 该怎么写
-3. 真正录入 token 时，按同一结构往后补，不要发明新字段
+3. 真正录入 token 时，只在 `## Token Entries` 里追加，不要发明新字段
 
 ## Token Sources
 
@@ -55,7 +55,7 @@ token_entry_template:
   notes: []
   fallback:
     allowed: false
-    value: REPLACE_ME
+    value: null
 ```
 
 字段建议：
@@ -86,25 +86,55 @@ mapping_rules:
 
 ```yaml
 consumer_notes:
-  设计侧:
+  design_side:
+    display_name: 设计侧
     uses:
       - semantic token selection
       - figma variable or style mapping
-    systems:
-      - Figma设计智能体
-  编码侧:
+    system_ids:
+      - figma_design_agent
+  code_side:
+    display_name: 编码侧
     uses:
       - runtime token source path
       - semantic token binding
       - token truth lookup
       - runtime and figma source lookup
-    systems:
-      - 组件库 MCP
-      - 组件库文档站
-      - 相关代码工具
+    system_ids:
+      - component_library_mcp
+      - component_library_docs
+      - code_tooling
 ```
 
 这节只说明“哪类角色会怎么用”，不在这里写消费实现。
+
+## Token Entries
+
+真实 token 条目只允许写在这一节，并且必须放在 `token_entries` YAML block 里。
+
+```yaml
+token_entries:
+  - token_id: REPLACE_ME
+    semantic_name: REPLACE_ME
+    category: REPLACE_ME
+    runtime_source:
+      kind: REPLACE_ME
+      name: REPLACE_ME
+      path: REPLACE_ME
+    figma_source:
+      kind: REPLACE_ME
+      key: REPLACE_ME
+      name: REPLACE_ME
+    notes: []
+    fallback:
+      allowed: false
+      value: null
+```
+
+维护约定：
+- parser 只把这一节里的 `token_entries` 当作真实数据
+- `token_entry_template` 只做模板，不算真实条目
+- 允许后续按 `### Color`、`### Spacing` 之类子标题继续分块，但机读以 `token_entries` 为准
 
 ## Recommended Recording Order
 
@@ -123,6 +153,6 @@ consumer_notes:
 ## Update Checklist
 
 - 新增 token 类别时，先更新 `token_sources`
-- 新增具体 token 时，按 `token_entry_template` 结构补充
+- 新增具体 token 时，只改 `## Token Entries`
 - 如果 Figma 或代码来源变了，优先改本文件
 - 不要把具体组件用法写进这里，组件用法写到 `components/*.md`

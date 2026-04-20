@@ -1,5 +1,18 @@
 # Shared Rules
 
+这份文件是设计系统的全局规则入口。
+
+- 主要消费者：AI、工具、同步脚本
+- 次要消费者：人类维护者
+- 写法原则：**结构化 YAML 为准，简短说明为辅**
+
+## How To Read
+
+1. 先读 `authority_order`
+2. 再读 `figma_rules` 或 `code_rules`
+3. 需要看下游集成时，再读 `consumer_contract`
+4. 组件和 token 的具体事实，不写在这里，分别去 `components/*.md` 和 `tokens.md`
+
 ## Rule Metadata
 
 ```yaml
@@ -17,6 +30,10 @@ rule_set:
     - internal_tooling
 ```
 
+字段说明：
+- `source_of_truth`: 是否作为唯一人工维护规则源
+- `consumers`: 预期消费这份规则的系统
+
 ## Purpose
 
 ```yaml
@@ -30,6 +47,10 @@ purpose:
     - do not store duplicated code API docs that can be derived elsewhere
 ```
 
+理解方式：
+- 这里定义“为什么存在”
+- 不要把具体组件事实写进这一节
+
 ## Single Source Policy
 
 ```yaml
@@ -39,6 +60,11 @@ single_source_policy:
   duplicate_manual_sources_for_components: false
   duplicate_manual_sources_for_tokens: false
 ```
+
+执行原则：
+- 组件事实只维护在 `components/*.md`
+- token 真相只维护在 `tokens.md`
+- 下游系统只能消费，不应反向成为第二数据源
 
 ## Authority Order
 
@@ -51,6 +77,13 @@ authority_order:
   - file_local_usage
   - visual_guesswork
 ```
+
+优先级解释：
+- 先看组件条目
+- 再看 token 真相
+- 再看本文件中的全局约束
+- 只有明确记录过的 runtime override 才能覆盖文档默认值
+- `visual_guesswork` 永远最后
 
 ## Figma Rules
 
@@ -68,6 +101,11 @@ figma_rules:
     - create custom nodes only when no component entry exists
 ```
 
+这部分回答：
+- Figma 侧应该先看什么
+- 什么时候允许画 primitives
+- 组件条目如何约束 Figma 生成
+
 ## Code Rules
 
 ```yaml
@@ -83,7 +121,12 @@ code_rules:
     - changes to component usage contract must update component docs first
 ```
 
-## Consumer Integration Contract
+这部分回答：
+- 代码侧优先复用什么
+- token 应该从哪里来
+- 什么时候必须先改文档再改代码
+
+## Consumer Contract
 
 ```yaml
 consumer_contract:
@@ -113,6 +156,10 @@ consumer_contract:
     write_back: false
 ```
 
+使用方式：
+- 这节定义“谁读什么”
+- 不定义“怎么实现”，实现放在各自消费适配器里
+
 ## Tooling Rules
 
 ```yaml
@@ -130,3 +177,15 @@ tooling_rules:
     - preserve source file references
     - allow future generation of mcp datasets and docs pages
 ```
+
+面向工具的约束：
+- YAML 是主数据
+- prose 只是补充说明
+- 工具不应依赖“人类阅读顺序”做解析
+
+## Update Checklist
+
+- 改全局优先级时，更新 `authority_order`
+- 改消费关系时，更新 `consumer_contract`
+- 改具体组件时，不要改这里，去改 `components/*.md`
+- 改 token 真相时，不要改这里，去改 `tokens.md`

@@ -70,3 +70,73 @@
 3. 导出统一 JSON 给下游系统消费
 
 当前阶段只创建文件骨架，不提前写死业务解析逻辑。
+
+## Parser Usage
+
+当前解析器以“编程方式调用”为主，入口文件是：
+
+- `src/index.ts`
+
+当前对外暴露的主要能力：
+
+- `loadDesignSystem(options)`
+  - 读取整个设计系统文档目录
+  - 返回一份完整的 `DesignSystemSnapshot`
+- `parseRulesDocument(filePath, rawMarkdown)`
+  - 解析 `rules.md`
+- `parseTokensDocument(filePath, rawMarkdown)`
+  - 解析 `tokens.md`
+- `parseComponentDocument(filePath, rawMarkdown)`
+  - 解析单个组件文档
+- `extractYamlBlocks(markdown)`
+  - 从 Markdown 中提取结构化 YAML block
+
+### Recommended Entry
+
+推荐统一从 `loadDesignSystem()` 进入，而不是在消费端各自手工拼文件读取逻辑。
+
+```ts
+import { loadDesignSystem } from './src/index.js';
+
+const snapshot = await loadDesignSystem({
+  rootDir: '/path/to/design-system-repo'
+});
+```
+
+### Output Shape
+
+`loadDesignSystem()` 的目标输出是一份统一快照：
+
+```ts
+type DesignSystemSnapshot = {
+  rootDir: string;
+  rules: RulesDocument | null;
+  tokens: TokensDocument | null;
+  components: ComponentDocument[];
+};
+```
+
+这份快照用于：
+
+- Figma 侧读取规则、token 和组件绑定
+- 代码侧读取 code binding、usage 和 snippet
+- 组件库 MCP 读取结构化组件事实
+- 文档站读取渲染所需字段
+
+### Usage Principle
+
+消费侧应遵守这些原则：
+
+1. 优先读取统一快照，不要自己重复解析 Markdown
+2. 不同消费侧只读取自己需要的 section
+3. 不要在消费端写回源文档
+4. 组件清单应来自 `components/*.md` 的解析结果，而不是手工维护第二份列表
+
+### Current Status
+
+当前解析器仍处于骨架阶段：
+
+- 类型已定义
+- 模块边界已定义
+- 文件加载路径已定义
+- 真实 Markdown/YAML 解析逻辑后续再完善

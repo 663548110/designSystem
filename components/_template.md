@@ -9,10 +9,8 @@ component:
   status: draft
   owners: []
   consumers:
-    - figma_generation
-    - code_implementation
-    - component_library_mcp
-    - documentation_site
+    - design_side
+    - code_side
 ```
 
 ## Figma Binding
@@ -90,16 +88,21 @@ properties:
 
 ```yaml
 consumer_hints:
-  figma_generation:
+  design_side:
     preferred_variant: REPLACE_ME
     key_fields: []
-  code_implementation:
+    systems:
+      - xia_design
+      - figma_generation
+  code_side:
     preferred_import: REPLACE_ME
     preferred_props: []
-  component_library_mcp:
     expose_examples: true
     expose_variants: true
-  documentation_site:
+    systems:
+      - component_library_mcp
+      - documentation_site
+      - code_tooling
     render_sections:
       - usage_scenarios
       - usage_way

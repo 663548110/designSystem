@@ -86,25 +86,26 @@ mapping_rules:
 
 ```yaml
 consumer_notes:
-  figma_generation:
+  design_side:
     uses:
       - semantic token selection
       - figma variable or style mapping
-  code_implementation:
+    systems:
+      - xia_design
+      - figma_generation
+  code_side:
     uses:
       - runtime token source path
       - semantic token binding
-  component_library_mcp:
-    uses:
       - token truth lookup
       - runtime and figma source lookup
-  documentation_site:
-    uses:
-      - token tables
-      - source references
+    systems:
+      - component_library_mcp
+      - documentation_site
+      - code_tooling
 ```
 
-这节只说明“谁会怎么用”，不在这里写消费实现。
+这节只说明“哪类角色会怎么用”，不在这里写消费实现。
 
 ## Recommended Recording Order
 

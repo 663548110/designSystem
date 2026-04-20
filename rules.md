@@ -23,16 +23,13 @@ rule_set:
   owners: []
   source_of_truth: true
   consumers:
-    - figma_generation
-    - code_implementation
-    - component_library_mcp
-    - documentation_site
-    - internal_tooling
+    - design_side
+    - code_side
 ```
 
 字段说明：
 - `source_of_truth`: 是否作为唯一人工维护规则源
-- `consumers`: 预期消费这份规则的系统
+- `consumers`: 预期消费这份规则的角色
 
 ## Purpose
 
@@ -130,25 +127,20 @@ code_rules:
 
 ```yaml
 consumer_contract:
-  component_library_mcp:
+  design_side:
+    systems:
+      - xia_design
+      - figma_generation
     read_from:
       - rules.md
       - tokens.md
       - components/*.md
     write_back: false
-  documentation_site:
-    read_from:
-      - rules.md
-      - tokens.md
-      - components/*.md
-    write_back: false
-  figma_generation:
-    read_from:
-      - rules.md
-      - tokens.md
-      - components/*.md
-    write_back: false
-  code_implementation:
+  code_side:
+    systems:
+      - component_library_mcp
+      - documentation_site
+      - code_tooling
     read_from:
       - rules.md
       - tokens.md
@@ -157,7 +149,7 @@ consumer_contract:
 ```
 
 使用方式：
-- 这节定义“谁读什么”
+- 这节定义“哪类角色读什么”
 - 不定义“怎么实现”，实现放在各自消费适配器里
 
 ## Tooling Rules

@@ -1,9 +1,6 @@
 export type ConsumerName =
-  | 'figma_generation'
-  | 'code_implementation'
-  | 'component_library_mcp'
-  | 'documentation_site'
-  | 'internal_tooling';
+  | 'design_side'
+  | 'code_side';
 
 export interface ParsedDocumentBase {
   filePath: string;

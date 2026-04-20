@@ -30,7 +30,28 @@ token_mapping:
     value: REPLACE_ME
 ```
 
+## Consumer Notes
+
+```yaml
+consumer_notes:
+  figma_generation:
+    uses:
+      - semantic token selection
+      - figma variable or style mapping
+  code_implementation:
+    uses:
+      - runtime token source path
+      - semantic token binding
+  component_library_mcp:
+    uses:
+      - token truth lookup
+      - runtime and figma source lookup
+  documentation_site:
+    uses:
+      - token tables
+      - source references
+```
+
 ## Notes
 
 - [待补充]
-

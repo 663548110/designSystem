@@ -86,7 +86,7 @@ mapping_rules:
 
 ```yaml
 consumer_notes:
-  design_side:
+  figma-design-agent:
     uses:
       - semantic token selection
       - figma variable or style mapping

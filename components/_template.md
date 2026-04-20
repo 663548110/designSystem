@@ -9,7 +9,7 @@ component:
   status: draft
   owners: []
   consumers:
-    - design_side
+    - figma-design-agent
     - code_side
 ```
 
@@ -88,7 +88,7 @@ properties:
 
 ```yaml
 consumer_hints:
-  design_side:
+  figma-design-agent:
     preferred_variant: REPLACE_ME
     key_fields: []
     systems:

@@ -86,13 +86,12 @@ mapping_rules:
 
 ```yaml
 consumer_notes:
-  figma-design-agent:
+  design_side:
     uses:
       - semantic token selection
       - figma variable or style mapping
     systems:
-      - xia_design
-      - figma_generation
+      - figma-design-agent
   code_side:
     uses:
       - runtime token source path

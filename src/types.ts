@@ -1,5 +1,5 @@
 export type ConsumerName =
-  | 'figma-design-agent'
+  | 'design_side'
   | 'code_side';
 
 export interface ParsedDocumentBase {

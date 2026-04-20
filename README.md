@@ -10,7 +10,8 @@
 4. 为后续自动同步和工具解析预留稳定结构
 
 角色约定：
-- `figma-design-agent`：给虾设计 / Figma 生成流程使用
+- `design_side`：设计侧消费者
+  - `figma-design-agent`：给虾设计 / Figma 生成流程使用
 - 编码侧：给组件库 MCP、组件库文档站及相关代码工具使用
 
 ## 单一数据源约束
@@ -59,9 +60,8 @@
 
 ## 预留消费方
 
-- `figma-design-agent`
-  - 虾设计
-  - Figma 生成流程
+- `design_side`
+  - `figma-design-agent`
 - 编码侧
   - 组件库 MCP
   - 组件库文档站

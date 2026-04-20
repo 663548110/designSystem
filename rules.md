@@ -23,7 +23,7 @@ rule_set:
   owners: []
   source_of_truth: true
   consumers:
-    - figma-design-agent
+    - design_side
     - code_side
 ```
 
@@ -127,10 +127,9 @@ code_rules:
 
 ```yaml
 consumer_contract:
-  figma-design-agent:
+  design_side:
     systems:
-      - xia_design
-      - figma_generation
+      - figma-design-agent
     read_from:
       - rules.md
       - tokens.md

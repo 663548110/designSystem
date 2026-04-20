@@ -1,6 +1,6 @@
 export type ConsumerName =
-  | 'design_side'
-  | 'code_side';
+  | '设计侧'
+  | '编码侧';
 
 export interface ParsedDocumentBase {
   filePath: string;

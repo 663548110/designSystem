@@ -86,22 +86,22 @@ mapping_rules:
 
 ```yaml
 consumer_notes:
-  design_side:
+  设计侧:
     uses:
       - semantic token selection
       - figma variable or style mapping
     systems:
-      - figma-design-agent
-  code_side:
+      - Figma设计智能体
+  编码侧:
     uses:
       - runtime token source path
       - semantic token binding
       - token truth lookup
       - runtime and figma source lookup
     systems:
-      - component_library_mcp
-      - documentation_site
-      - code_tooling
+      - 组件库 MCP
+      - 组件库文档站
+      - 相关代码工具
 ```
 
 这节只说明“哪类角色会怎么用”，不在这里写消费实现。

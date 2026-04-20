@@ -9,8 +9,8 @@ component:
   status: draft
   owners: []
   consumers:
-    - design_side
-    - code_side
+    - 设计侧
+    - 编码侧
 ```
 
 ## Figma Binding
@@ -88,20 +88,20 @@ properties:
 
 ```yaml
 consumer_hints:
-  design_side:
+  设计侧:
     preferred_variant: REPLACE_ME
     key_fields: []
     systems:
-      - figma-design-agent
-  code_side:
+      - Figma设计智能体
+  编码侧:
     preferred_import: REPLACE_ME
     preferred_props: []
     expose_examples: true
     expose_variants: true
     systems:
-      - component_library_mcp
-      - documentation_site
-      - code_tooling
+      - 组件库 MCP
+      - 组件库文档站
+      - 相关代码工具
     render_sections:
       - usage_scenarios
       - usage_way

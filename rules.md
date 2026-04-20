@@ -23,8 +23,8 @@ rule_set:
   owners: []
   source_of_truth: true
   consumers:
-    - design_side
-    - code_side
+    - 设计侧
+    - 编码侧
 ```
 
 字段说明：
@@ -127,19 +127,19 @@ code_rules:
 
 ```yaml
 consumer_contract:
-  design_side:
+  设计侧:
     systems:
-      - figma-design-agent
+      - Figma设计智能体
     read_from:
       - rules.md
       - tokens.md
       - components/*.md
     write_back: false
-  code_side:
+  编码侧:
     systems:
-      - component_library_mcp
-      - documentation_site
-      - code_tooling
+      - 组件库 MCP
+      - 组件库文档站
+      - 相关代码工具
     read_from:
       - rules.md
       - tokens.md

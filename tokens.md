@@ -31,34 +31,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/3"
       Dark:
         value: "#00014D"
+        css: "#00014D"
         flutter: "0xFF00014D"
         source: "rd/brand-color/1"
       "SL Light":
         value: "#7CE5D9"
+        css: "#7CE5D9"
         flutter: "0xFF7CE5D9"
         source: "rd/brand-color/3"
       "SL Dark":
         value: "#002E2E"
+        css: "#002E2E"
         flutter: "0xFF002E2E"
         source: "rd/brand-color/1"
       "SL Orange Light":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "rd/brand-color/3"
       "SL Orange Dark":
         value: "#4D2100"
+        css: "#4D2100"
         flutter: "0xFF4D2100"
         source: "rd/brand-color/1"
       "Mrj Light":
         value: "#D7C9FF"
+        css: "#D7C9FF"
         flutter: "0xFFD7C9FF"
         source: "rd/brand-color/3"
       "Mrj Dark":
         value: "#261D61"
+        css: "#261D61"
         flutter: "0xFF261D61"
         source: "rd/brand-color/1"
     notes:
@@ -81,34 +89,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
     notes:
@@ -131,34 +147,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       Dark:
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "rd/gray-color/10"
       "SL Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "SL Dark":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "rd/gray-color/10"
       "SL Orange Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "SL Orange Dark":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "rd/gray-color/10"
       "Mrj Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "Mrj Dark":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "rd/gray-color/10"
     notes:
@@ -181,34 +205,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/gray-color/2"
       Dark:
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "SL Light":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/gray-color/2"
       "SL Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "SL Orange Light":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/gray-color/2"
       "SL Orange Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "Mrj Light":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/gray-color/2"
       "Mrj Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
     notes:
@@ -231,34 +263,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       Dark:
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "rd/gray-color/13"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       "SL Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "rd/gray-color/13"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       "SL Orange Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "rd/gray-color/13"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       "Mrj Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "rd/gray-color/13"
     notes:
@@ -281,34 +321,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       Dark:
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Orange Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "Mrj Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
     notes:
@@ -331,34 +379,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFFCC"
+        css: "#FFFFFFCC"
         flutter: "0xCCFFFFFF"
         source: "direct"
       Dark:
         value: "#242424CC"
+        css: "#242424CC"
         flutter: "0xCC242424"
         source: "direct"
       "SL Light":
         value: "#FFFFFFCC"
+        css: "#FFFFFFCC"
         flutter: "0xCCFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#242424CC"
+        css: "#242424CC"
         flutter: "0xCC242424"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFFCC"
+        css: "#FFFFFFCC"
         flutter: "0xCCFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#242424CC"
+        css: "#242424CC"
         flutter: "0xCC242424"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#242424CC"
+        css: "#242424CC"
         flutter: "0xCC242424"
         source: "direct"
     notes:
@@ -381,34 +437,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       Dark:
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "rd/gray-color/14"
       "SL Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       "SL Dark":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "rd/gray-color/14"
       "SL Orange Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       "SL Orange Dark":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "rd/gray-color/14"
       "Mrj Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       "Mrj Dark":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "rd/gray-color/14"
     notes:
@@ -431,34 +495,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       Dark:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Dark":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Orange Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Orange Dark":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "Mrj Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "Mrj Dark":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
     notes:
@@ -481,34 +553,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       Dark:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "SL Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "SL Dark":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "SL Orange Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "SL Orange Dark":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "Mrj Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
       "Mrj Dark":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/gray-color/6"
     notes:
@@ -531,34 +611,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       Dark:
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "SL Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       "SL Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "SL Orange Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       "SL Orange Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
       "Mrj Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/gray-color/1"
       "Mrj Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "rd/gray-color/12"
     notes:
@@ -581,34 +669,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Orange Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "Mrj Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
     notes:
@@ -631,34 +727,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       Dark:
         value: "#FFFFFF00"
+        css: "#FFFFFF00"
         flutter: "0x00FFFFFF"
         source: "direct"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF00"
+        css: "#FFFFFF00"
         flutter: "0x00FFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF00"
+        css: "#FFFFFF00"
         flutter: "0x00FFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF00"
+        css: "#FFFFFF00"
         flutter: "0x00FFFFFF"
         source: "direct"
     notes:
@@ -681,34 +785,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
     notes:
@@ -731,34 +843,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
     notes:
@@ -781,34 +901,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       Dark:
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
       "SL Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
       "SL Orange Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Orange Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
       "Mrj Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "Mrj Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
     notes:
@@ -831,34 +959,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color/6"
       Dark:
         value: "#6B5EF5"
+        css: "#6B5EF5"
         flutter: "0xFF6B5EF5"
         source: "rd/brand-color/6"
       "SL Light":
         value: "#0BC7B9"
+        css: "#0BC7B9"
         flutter: "0xFF0BC7B9"
         source: "rd/brand-color/6"
       "SL Dark":
         value: "#2FD4C6"
+        css: "#2FD4C6"
         flutter: "0xFF2FD4C6"
         source: "rd/brand-color/6"
       "SL Orange Light":
         value: "#E0A558"
+        css: "#E0A558"
         flutter: "0xFFE0A558"
         source: "rd/brand-color/6"
       "SL Orange Dark":
         value: "#E6B872"
+        css: "#E6B872"
         flutter: "0xFFE6B872"
         source: "rd/brand-color/6"
       "Mrj Light":
         value: "#8F73FB"
+        css: "#8F73FB"
         flutter: "0xFF8F73FB"
         source: "rd/brand-color/6"
       "Mrj Dark":
         value: "#A991FF"
+        css: "#A991FF"
         flutter: "0xFFA991FF"
         source: "rd/brand-color/6"
     notes:
@@ -881,34 +1017,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "direct"
       Dark:
         value: "#00014D"
+        css: "#00014D"
         flutter: "0xFF00014D"
         source: "direct"
       "SL Light":
         value: "#EDFCFA"
+        css: "#EDFCFA"
         flutter: "0xFFEDFCFA"
         source: "direct"
       "SL Dark":
         value: "#002E2E"
+        css: "#002E2E"
         flutter: "0xFF002E2E"
         source: "direct"
       "SL Orange Light":
         value: "#FFF9E8"
+        css: "#FFF9E8"
         flutter: "0xFFFFF9E8"
         source: "direct"
       "SL Orange Dark":
         value: "#4D2100"
+        css: "#4D2100"
         flutter: "0xFF4D2100"
         source: "direct"
       "Mrj Light":
         value: "#F3EFFE"
+        css: "#F3EFFE"
         flutter: "0xFFF3EFFE"
         source: "direct"
       "Mrj Dark":
         value: "#261D61"
+        css: "#261D61"
         flutter: "0xFF261D61"
         source: "direct"
     notes:
@@ -931,34 +1075,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#170068"
+        css: "#170068"
         flutter: "0xFF170068"
         source: "direct"
       Dark:
         value: "#F1F1FF"
+        css: "#F1F1FF"
         flutter: "0xFFF1F1FF"
         source: "direct"
       "SL Light":
         value: "#002E2E"
+        css: "#002E2E"
         flutter: "0xFF002E2E"
         source: "direct"
       "SL Dark":
         value: "#EDFCFA"
+        css: "#EDFCFA"
         flutter: "0xFFEDFCFA"
         source: "direct"
       "SL Orange Light":
         value: "#4D2100"
+        css: "#4D2100"
         flutter: "0xFF4D2100"
         source: "direct"
       "SL Orange Dark":
         value: "#FFF9E8"
+        css: "#FFF9E8"
         flutter: "0xFFFFF9E8"
         source: "direct"
       "Mrj Light":
         value: "#261D61"
+        css: "#261D61"
         flutter: "0xFF261D61"
         source: "direct"
       "Mrj Dark":
         value: "#F3EFFE"
+        css: "#F3EFFE"
         flutter: "0xFFF3EFFE"
         source: "direct"
     notes:
@@ -981,34 +1133,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E6ECFF"
+        css: "#E6ECFF"
         flutter: "0xFFE6ECFF"
         source: "direct"
       Dark:
         value: "#0A0876"
+        css: "#0A0876"
         flutter: "0xFF0A0876"
         source: "direct"
       "SL Light":
         value: "#C2F2EC"
+        css: "#C2F2EC"
         flutter: "0xFFC2F2EC"
         source: "direct"
       "SL Dark":
         value: "#005453"
+        css: "#005453"
         flutter: "0xFF005453"
         source: "direct"
       "SL Orange Light":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "direct"
       "SL Orange Dark":
         value: "#713B0B"
+        css: "#713B0B"
         flutter: "0xFF713B0B"
         source: "direct"
       "Mrj Light":
         value: "#ECE5FF"
+        css: "#ECE5FF"
         flutter: "0xFFECE5FF"
         source: "direct"
       "Mrj Dark":
         value: "#382A87"
+        css: "#382A87"
         flutter: "0xFF382A87"
         source: "direct"
     notes:
@@ -1031,34 +1191,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "direct"
       Dark:
         value: "#1E179F"
+        css: "#1E179F"
         flutter: "0xFF1E179F"
         source: "direct"
       "SL Light":
         value: "#7CE5D9"
+        css: "#7CE5D9"
         flutter: "0xFF7CE5D9"
         source: "direct"
       "SL Dark":
         value: "#007A76"
+        css: "#007A76"
         flutter: "0xFF007A76"
         source: "direct"
       "SL Orange Light":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "direct"
       "SL Orange Dark":
         value: "#965A1E"
+        css: "#965A1E"
         flutter: "0xFF965A1E"
         source: "direct"
       "Mrj Light":
         value: "#D7C9FF"
+        css: "#D7C9FF"
         flutter: "0xFFD7C9FF"
         source: "direct"
       "Mrj Dark":
         value: "#513EAD"
+        css: "#513EAD"
         flutter: "0xFF513EAD"
         source: "direct"
     notes:
@@ -1081,34 +1249,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#AEBBFF"
+        css: "#AEBBFF"
         flutter: "0xFFAEBBFF"
         source: "direct"
       Dark:
         value: "#3A2DC9"
+        css: "#3A2DC9"
         flutter: "0xFF3A2DC9"
         source: "direct"
       "SL Light":
         value: "#55E0D2"
+        css: "#55E0D2"
         flutter: "0xFF55E0D2"
         source: "direct"
       "SL Dark":
         value: "#02A199"
+        css: "#02A199"
         flutter: "0xFF02A199"
         source: "direct"
       "SL Orange Light":
         value: "#ECCA8E"
+        css: "#ECCA8E"
         flutter: "0xFFECCA8E"
         source: "direct"
       "SL Orange Dark":
         value: "#BB7E37"
+        css: "#BB7E37"
         flutter: "0xFFBB7E37"
         source: "direct"
       "Mrj Light":
         value: "#C0ADFF"
+        css: "#C0ADFF"
         flutter: "0xFFC0ADFF"
         source: "direct"
       "Mrj Dark":
         value: "#6E57D4"
+        css: "#6E57D4"
         flutter: "0xFF6E57D4"
         source: "direct"
     notes:
@@ -1131,34 +1307,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#8994FF"
+        css: "#8994FF"
         flutter: "0xFF8994FF"
         source: "direct"
       Dark:
         value: "#584AF2"
+        css: "#584AF2"
         flutter: "0xFF584AF2"
         source: "direct"
       "SL Light":
         value: "#2FD4C6"
+        css: "#2FD4C6"
         flutter: "0xFF2FD4C6"
         source: "direct"
       "SL Dark":
         value: "#0BC7B9"
+        css: "#0BC7B9"
         flutter: "0xFF0BC7B9"
         source: "direct"
       "SL Orange Light":
         value: "#E6B872"
+        css: "#E6B872"
         flutter: "0xFFE6B872"
         source: "direct"
       "SL Orange Dark":
         value: "#E0A558"
+        css: "#E0A558"
         flutter: "0xFFE0A558"
         source: "direct"
       "Mrj Light":
         value: "#A991FF"
+        css: "#A991FF"
         flutter: "0xFFA991FF"
         source: "direct"
       "Mrj Dark":
         value: "#8F73FB"
+        css: "#8F73FB"
         flutter: "0xFF8F73FB"
         source: "direct"
     notes:
@@ -1181,34 +1365,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "direct"
       Dark:
         value: "#6B5EF5"
+        css: "#6B5EF5"
         flutter: "0xFF6B5EF5"
         source: "direct"
       "SL Light":
         value: "#0BC7B9"
+        css: "#0BC7B9"
         flutter: "0xFF0BC7B9"
         source: "direct"
       "SL Dark":
         value: "#2FD4C6"
+        css: "#2FD4C6"
         flutter: "0xFF2FD4C6"
         source: "direct"
       "SL Orange Light":
         value: "#E0A558"
+        css: "#E0A558"
         flutter: "0xFFE0A558"
         source: "direct"
       "SL Orange Dark":
         value: "#E6B872"
+        css: "#E6B872"
         flutter: "0xFFE6B872"
         source: "direct"
       "Mrj Light":
         value: "#8F73FB"
+        css: "#8F73FB"
         flutter: "0xFF8F73FB"
         source: "direct"
       "Mrj Dark":
         value: "#A991FF"
+        css: "#A991FF"
         flutter: "0xFFA991FF"
         source: "direct"
     notes:
@@ -1231,34 +1423,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "direct"
       Dark:
         value: "#8882F7"
+        css: "#8882F7"
         flutter: "0xFF8882F7"
         source: "direct"
       "SL Light":
         value: "#02A199"
+        css: "#02A199"
         flutter: "0xFF02A199"
         source: "direct"
       "SL Dark":
         value: "#55E0D2"
+        css: "#55E0D2"
         flutter: "0xFF55E0D2"
         source: "direct"
       "SL Orange Light":
         value: "#BB7E37"
+        css: "#BB7E37"
         flutter: "0xFFBB7E37"
         source: "direct"
       "SL Orange Dark":
         value: "#ECCA8E"
+        css: "#ECCA8E"
         flutter: "0xFFECCA8E"
         source: "direct"
       "Mrj Light":
         value: "#6E57D4"
+        css: "#6E57D4"
         flutter: "0xFF6E57D4"
         source: "direct"
       "Mrj Dark":
         value: "#C0ADFF"
+        css: "#C0ADFF"
         flutter: "0xFFC0ADFF"
         source: "direct"
     notes:
@@ -1281,34 +1481,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#360ABD"
+        css: "#360ABD"
         flutter: "0xFF360ABD"
         source: "direct"
       Dark:
         value: "#AAA6FA"
+        css: "#AAA6FA"
         flutter: "0xFFAAA6FA"
         source: "direct"
       "SL Light":
         value: "#007A76"
+        css: "#007A76"
         flutter: "0xFF007A76"
         source: "direct"
       "SL Dark":
         value: "#7CE5D9"
+        css: "#7CE5D9"
         flutter: "0xFF7CE5D9"
         source: "direct"
       "SL Orange Light":
         value: "#965A1E"
+        css: "#965A1E"
         flutter: "0xFF965A1E"
         source: "direct"
       "SL Orange Dark":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "direct"
       "Mrj Light":
         value: "#513EAD"
+        css: "#513EAD"
         flutter: "0xFF513EAD"
         source: "direct"
       "Mrj Dark":
         value: "#D7C9FF"
+        css: "#D7C9FF"
         flutter: "0xFFD7C9FF"
         source: "direct"
     notes:
@@ -1331,34 +1539,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#250092"
+        css: "#250092"
         flutter: "0xFF250092"
         source: "direct"
       Dark:
         value: "#CBCBFC"
+        css: "#CBCBFC"
         flutter: "0xFFCBCBFC"
         source: "direct"
       "SL Light":
         value: "#005453"
+        css: "#005453"
         flutter: "0xFF005453"
         source: "direct"
       "SL Dark":
         value: "#C2F2EC"
+        css: "#C2F2EC"
         flutter: "0xFFC2F2EC"
         source: "direct"
       "SL Orange Light":
         value: "#713B0B"
+        css: "#713B0B"
         flutter: "0xFF713B0B"
         source: "direct"
       "SL Orange Dark":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "direct"
       "Mrj Light":
         value: "#382A87"
+        css: "#382A87"
         flutter: "0xFF382A87"
         source: "direct"
       "Mrj Dark":
         value: "#ECE5FF"
+        css: "#ECE5FF"
         flutter: "0xFFECE5FF"
         source: "direct"
     notes:
@@ -1381,34 +1597,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/7"
       Dark:
         value: "#8882F7"
+        css: "#8882F7"
         flutter: "0xFF8882F7"
         source: "rd/brand-color/7"
       "SL Light":
         value: "#02A199"
+        css: "#02A199"
         flutter: "0xFF02A199"
         source: "rd/brand-color/7"
       "SL Dark":
         value: "#55E0D2"
+        css: "#55E0D2"
         flutter: "0xFF55E0D2"
         source: "rd/brand-color/7"
       "SL Orange Light":
         value: "#BB7E37"
+        css: "#BB7E37"
         flutter: "0xFFBB7E37"
         source: "rd/brand-color/7"
       "SL Orange Dark":
         value: "#ECCA8E"
+        css: "#ECCA8E"
         flutter: "0xFFECCA8E"
         source: "rd/brand-color/7"
       "Mrj Light":
         value: "#6E57D4"
+        css: "#6E57D4"
         flutter: "0xFF6E57D4"
         source: "rd/brand-color/7"
       "Mrj Dark":
         value: "#C0ADFF"
+        css: "#C0ADFF"
         flutter: "0xFFC0ADFF"
         source: "rd/brand-color/7"
     notes:
@@ -1431,34 +1655,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/3"
       Dark:
         value: "#1E179F"
+        css: "#1E179F"
         flutter: "0xFF1E179F"
         source: "rd/brand-color/3"
       "SL Light":
         value: "#7CE5D9"
+        css: "#7CE5D9"
         flutter: "0xFF7CE5D9"
         source: "rd/brand-color/3"
       "SL Dark":
         value: "#007A76"
+        css: "#007A76"
         flutter: "0xFF007A76"
         source: "rd/brand-color/3"
       "SL Orange Light":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "rd/brand-color/3"
       "SL Orange Dark":
         value: "#965A1E"
+        css: "#965A1E"
         flutter: "0xFF965A1E"
         source: "rd/brand-color/3"
       "Mrj Light":
         value: "#D7C9FF"
+        css: "#D7C9FF"
         flutter: "0xFFD7C9FF"
         source: "rd/brand-color/3"
       "Mrj Dark":
         value: "#513EAD"
+        css: "#513EAD"
         flutter: "0xFF513EAD"
         source: "rd/brand-color/3"
     notes:
@@ -1481,34 +1713,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/1"
       Dark:
         value: "#00014D"
+        css: "#00014D"
         flutter: "0xFF00014D"
         source: "rd/brand-color/1"
       "SL Light":
         value: "#EDFCFA"
+        css: "#EDFCFA"
         flutter: "0xFFEDFCFA"
         source: "rd/brand-color/1"
       "SL Dark":
         value: "#002E2E"
+        css: "#002E2E"
         flutter: "0xFF002E2E"
         source: "rd/brand-color/1"
       "SL Orange Light":
         value: "#FFF9E8"
+        css: "#FFF9E8"
         flutter: "0xFFFFF9E8"
         source: "rd/brand-color/1"
       "SL Orange Dark":
         value: "#4D2100"
+        css: "#4D2100"
         flutter: "0xFF4D2100"
         source: "rd/brand-color/1"
       "Mrj Light":
         value: "#F3EFFE"
+        css: "#F3EFFE"
         flutter: "0xFFF3EFFE"
         source: "rd/brand-color/1"
       "Mrj Dark":
         value: "#261D61"
+        css: "#261D61"
         flutter: "0xFF261D61"
         source: "rd/brand-color/1"
     notes:
@@ -1531,34 +1771,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/1"
       Dark:
         value: "#00014D"
+        css: "#00014D"
         flutter: "0xFF00014D"
         source: "rd/brand-color/1"
       "SL Light":
         value: "#EDFCFA"
+        css: "#EDFCFA"
         flutter: "0xFFEDFCFA"
         source: "rd/brand-color/1"
       "SL Dark":
         value: "#002E2E"
+        css: "#002E2E"
         flutter: "0xFF002E2E"
         source: "rd/brand-color/1"
       "SL Orange Light":
         value: "#FFF9E8"
+        css: "#FFF9E8"
         flutter: "0xFFFFF9E8"
         source: "rd/brand-color/1"
       "SL Orange Dark":
         value: "#4D2100"
+        css: "#4D2100"
         flutter: "0xFF4D2100"
         source: "rd/brand-color/1"
       "Mrj Light":
         value: "#F3EFFE"
+        css: "#F3EFFE"
         flutter: "0xFFF3EFFE"
         source: "rd/brand-color/1"
       "Mrj Dark":
         value: "#261D61"
+        css: "#261D61"
         flutter: "0xFF261D61"
         source: "rd/brand-color/1"
     notes:
@@ -1581,34 +1829,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E6ECFF"
+        css: "#E6ECFF"
         flutter: "0xFFE6ECFF"
         source: "rd/brand-color/2"
       Dark:
         value: "#0A0876"
+        css: "#0A0876"
         flutter: "0xFF0A0876"
         source: "rd/brand-color/2"
       "SL Light":
         value: "#C2F2EC"
+        css: "#C2F2EC"
         flutter: "0xFFC2F2EC"
         source: "rd/brand-color/2"
       "SL Dark":
         value: "#005453"
+        css: "#005453"
         flutter: "0xFF005453"
         source: "rd/brand-color/2"
       "SL Orange Light":
         value: "#F9EAC9"
+        css: "#F9EAC9"
         flutter: "0xFFF9EAC9"
         source: "rd/brand-color/2"
       "SL Orange Dark":
         value: "#713B0B"
+        css: "#713B0B"
         flutter: "0xFF713B0B"
         source: "rd/brand-color/2"
       "Mrj Light":
         value: "#ECE5FF"
+        css: "#ECE5FF"
         flutter: "0xFFECE5FF"
         source: "rd/brand-color/2"
       "Mrj Dark":
         value: "#382A87"
+        css: "#382A87"
         flutter: "0xFF382A87"
         source: "rd/brand-color/2"
     notes:
@@ -1631,34 +1887,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       Dark:
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
     notes:
@@ -1681,34 +1945,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
     notes:
@@ -1731,34 +2003,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       Dark:
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "SL Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "SL Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "SL Orange Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "SL Orange Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "Mrj Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "Mrj Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
     notes:
@@ -1781,34 +2061,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       Dark:
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
     notes:
@@ -1831,34 +2119,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       Dark:
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
       "SL Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
       "SL Orange Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "SL Orange Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
       "Mrj Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
       "Mrj Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
     notes:
@@ -1881,34 +2177,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
     notes:
@@ -1931,34 +2235,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
       Dark:
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "rd/error-color/6"
       "SL Light":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
       "SL Dark":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "rd/error-color/6"
       "SL Orange Light":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
       "SL Orange Dark":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "rd/error-color/6"
       "Mrj Light":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
       "Mrj Dark":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "rd/error-color/6"
     notes:
@@ -1981,34 +2293,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "direct"
       Dark:
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "direct"
       "SL Light":
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "direct"
       "SL Dark":
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "direct"
       "SL Orange Light":
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "direct"
       "SL Orange Dark":
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "direct"
       "Mrj Light":
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "direct"
       "Mrj Dark":
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "direct"
     notes:
@@ -2031,34 +2351,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#400404"
+        css: "#400404"
         flutter: "0xFF400404"
         source: "direct"
       Dark:
         value: "#FFE0E0"
+        css: "#FFE0E0"
         flutter: "0xFFFFE0E0"
         source: "direct"
       "SL Light":
         value: "#400404"
+        css: "#400404"
         flutter: "0xFF400404"
         source: "direct"
       "SL Dark":
         value: "#FFE0E0"
+        css: "#FFE0E0"
         flutter: "0xFFFFE0E0"
         source: "direct"
       "SL Orange Light":
         value: "#400404"
+        css: "#400404"
         flutter: "0xFF400404"
         source: "direct"
       "SL Orange Dark":
         value: "#FFE0E0"
+        css: "#FFE0E0"
         flutter: "0xFFFFE0E0"
         source: "direct"
       "Mrj Light":
         value: "#400404"
+        css: "#400404"
         flutter: "0xFF400404"
         source: "direct"
       "Mrj Dark":
         value: "#FFE0E0"
+        css: "#FFE0E0"
         flutter: "0xFFFFE0E0"
         source: "direct"
     notes:
@@ -2081,34 +2409,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "direct"
       Dark:
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "direct"
       "SL Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "direct"
       "SL Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "direct"
       "SL Orange Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "direct"
       "SL Orange Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "direct"
       "Mrj Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "direct"
       "Mrj Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "direct"
     notes:
@@ -2131,34 +2467,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "direct"
       Dark:
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "direct"
       "SL Light":
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "direct"
       "SL Dark":
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "direct"
       "SL Orange Light":
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "direct"
       "SL Orange Dark":
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "direct"
       "Mrj Light":
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "direct"
       "Mrj Dark":
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "direct"
     notes:
@@ -2181,34 +2525,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       Dark:
         value: "#8B1A1A"
+        css: "#8B1A1A"
         flutter: "0xFF8B1A1A"
         source: "direct"
       "SL Light":
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       "SL Dark":
         value: "#8B1A1A"
+        css: "#8B1A1A"
         flutter: "0xFF8B1A1A"
         source: "direct"
       "SL Orange Light":
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       "SL Orange Dark":
         value: "#8B1A1A"
+        css: "#8B1A1A"
         flutter: "0xFF8B1A1A"
         source: "direct"
       "Mrj Light":
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       "Mrj Dark":
         value: "#8B1A1A"
+        css: "#8B1A1A"
         flutter: "0xFF8B1A1A"
         source: "direct"
     notes:
@@ -2231,34 +2583,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       Dark:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       "SL Light":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       "SL Dark":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       "SL Orange Light":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       "SL Orange Dark":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       "Mrj Light":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       "Mrj Dark":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
     notes:
@@ -2281,34 +2641,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       Dark:
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       "SL Light":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       "SL Dark":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       "SL Orange Light":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       "SL Orange Dark":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
       "Mrj Light":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "direct"
       "Mrj Dark":
         value: "#F54040"
+        css: "#F54040"
         flutter: "0xFFF54040"
         source: "direct"
     notes:
@@ -2331,34 +2699,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "direct"
       Dark:
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       "SL Light":
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "direct"
       "SL Dark":
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       "SL Orange Light":
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "direct"
       "SL Orange Dark":
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
       "Mrj Light":
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "direct"
       "Mrj Dark":
         value: "#FF7373"
+        css: "#FF7373"
         flutter: "0xFFFF7373"
         source: "direct"
     notes:
@@ -2381,34 +2757,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#8C0C0C"
+        css: "#8C0C0C"
         flutter: "0xFF8C0C0C"
         source: "direct"
       Dark:
         value: "#FF9999"
+        css: "#FF9999"
         flutter: "0xFFFF9999"
         source: "direct"
       "SL Light":
         value: "#8C0C0C"
+        css: "#8C0C0C"
         flutter: "0xFF8C0C0C"
         source: "direct"
       "SL Dark":
         value: "#FF9999"
+        css: "#FF9999"
         flutter: "0xFFFF9999"
         source: "direct"
       "SL Orange Light":
         value: "#8C0C0C"
+        css: "#8C0C0C"
         flutter: "0xFF8C0C0C"
         source: "direct"
       "SL Orange Dark":
         value: "#FF9999"
+        css: "#FF9999"
         flutter: "0xFFFF9999"
         source: "direct"
       "Mrj Light":
         value: "#8C0C0C"
+        css: "#8C0C0C"
         flutter: "0xFF8C0C0C"
         source: "direct"
       "Mrj Dark":
         value: "#FF9999"
+        css: "#FF9999"
         flutter: "0xFFFF9999"
         source: "direct"
     notes:
@@ -2431,34 +2815,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#650808"
+        css: "#650808"
         flutter: "0xFF650808"
         source: "direct"
       Dark:
         value: "#FFBFBF"
+        css: "#FFBFBF"
         flutter: "0xFFFFBFBF"
         source: "direct"
       "SL Light":
         value: "#650808"
+        css: "#650808"
         flutter: "0xFF650808"
         source: "direct"
       "SL Dark":
         value: "#FFBFBF"
+        css: "#FFBFBF"
         flutter: "0xFFFFBFBF"
         source: "direct"
       "SL Orange Light":
         value: "#650808"
+        css: "#650808"
         flutter: "0xFF650808"
         source: "direct"
       "SL Orange Dark":
         value: "#FFBFBF"
+        css: "#FFBFBF"
         flutter: "0xFFFFBFBF"
         source: "direct"
       "Mrj Light":
         value: "#650808"
+        css: "#650808"
         flutter: "0xFF650808"
         source: "direct"
       "Mrj Dark":
         value: "#FFBFBF"
+        css: "#FFBFBF"
         flutter: "0xFFFFBFBF"
         source: "direct"
     notes:
@@ -2481,34 +2873,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
       Dark:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/5"
       "SL Light":
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
       "SL Dark":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/5"
       "SL Orange Light":
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
       "SL Orange Dark":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/5"
       "Mrj Light":
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
       "Mrj Dark":
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/5"
     notes:
@@ -2531,34 +2931,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
       Dark:
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "rd/error-color/3"
       "SL Light":
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
       "SL Dark":
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "rd/error-color/3"
       "SL Orange Light":
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
       "SL Orange Dark":
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "rd/error-color/3"
       "Mrj Light":
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
       "Mrj Dark":
         value: "#5C1010"
+        css: "#5C1010"
         flutter: "0xFF5C1010"
         source: "rd/error-color/3"
     notes:
@@ -2581,34 +2989,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       Dark:
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
       "SL Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       "SL Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
       "SL Orange Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       "SL Orange Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
       "Mrj Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       "Mrj Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
     notes:
@@ -2631,34 +3047,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
       Dark:
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "rd/error-color/1"
       "SL Light":
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
       "SL Dark":
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "rd/error-color/1"
       "SL Orange Light":
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
       "SL Orange Dark":
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "rd/error-color/1"
       "Mrj Light":
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
       "Mrj Dark":
         value: "#1A0000"
+        css: "#1A0000"
         flutter: "0xFF1A0000"
         source: "rd/error-color/1"
     notes:
@@ -2681,34 +3105,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       Dark:
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
       "SL Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       "SL Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
       "SL Orange Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       "SL Orange Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
       "Mrj Light":
         value: "#FFD6D6"
+        css: "#FFD6D6"
         flutter: "0xFFFFD6D6"
         source: "rd/error-color/2"
       "Mrj Dark":
         value: "#3D0A0A"
+        css: "#3D0A0A"
         flutter: "0xFF3D0A0A"
         source: "rd/error-color/2"
     notes:
@@ -2731,34 +3163,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       Dark:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       "SL Light":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       "SL Dark":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       "SL Orange Light":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       "SL Orange Dark":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       "Mrj Light":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
       "Mrj Dark":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "direct"
     notes:
@@ -2781,34 +3221,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       Dark:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Dark":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Orange Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Orange Dark":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "Mrj Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "Mrj Dark":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
     notes:
@@ -2831,34 +3279,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       Dark:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "SL Light":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "SL Dark":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "SL Orange Light":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "SL Orange Dark":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "Mrj Light":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "Mrj Dark":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
     notes:
@@ -2881,34 +3337,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       Dark:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       "SL Light":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       "SL Dark":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       "SL Orange Light":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       "SL Orange Dark":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       "Mrj Light":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
       "Mrj Dark":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "direct"
     notes:
@@ -2931,34 +3395,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       Dark:
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "direct"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "direct"
     notes:
@@ -2981,34 +3453,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       Dark:
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       "SL Light":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "direct"
     notes:
@@ -3031,34 +3511,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       Dark:
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       "SL Light":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "direct"
     notes:
@@ -3081,34 +3569,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       Dark:
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       "SL Light":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "direct"
     notes:
@@ -3131,34 +3627,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       Dark:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "SL Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "SL Dark":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "SL Orange Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "SL Orange Dark":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "Mrj Light":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
       "Mrj Dark":
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
     notes:
@@ -3181,34 +3685,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       Dark:
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       "SL Light":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       "SL Dark":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       "SL Orange Light":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       "SL Orange Dark":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       "Mrj Light":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
       "Mrj Dark":
         value: "#4B4B4B"
+        css: "#4B4B4B"
         flutter: "0xFF4B4B4B"
         source: "direct"
     notes:
@@ -3231,34 +3743,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       Dark:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "SL Light":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "SL Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "SL Orange Light":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "SL Orange Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "Mrj Light":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
       "Mrj Dark":
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
     notes:
@@ -3281,34 +3801,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       Dark:
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "SL Light":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "SL Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "SL Orange Light":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "SL Orange Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "Mrj Light":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
       "Mrj Dark":
         value: "#2C2C2C"
+        css: "#2C2C2C"
         flutter: "0xFF2C2C2C"
         source: "direct"
     notes:
@@ -3331,34 +3859,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       Dark:
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Light":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Orange Light":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "SL Orange Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "Mrj Light":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
       "Mrj Dark":
         value: "#242424"
+        css: "#242424"
         flutter: "0xFF242424"
         source: "direct"
     notes:
@@ -3381,34 +3917,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       Dark:
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       "SL Light":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       "SL Dark":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       "SL Orange Light":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       "SL Orange Dark":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       "Mrj Light":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
       "Mrj Dark":
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "direct"
     notes:
@@ -3431,34 +3975,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       Dark:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       "SL Light":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       "SL Dark":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       "SL Orange Light":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       "SL Orange Dark":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       "Mrj Light":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
       "Mrj Dark":
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "direct"
     notes:
@@ -3481,34 +4033,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       Dark:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "SL Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "SL Dark":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "SL Orange Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "SL Orange Dark":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "Mrj Light":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
       "Mrj Dark":
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "direct"
     notes:
@@ -3531,34 +4091,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       Dark:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       "SL Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       "SL Dark":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       "SL Orange Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       "SL Orange Dark":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       "Mrj Light":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
       "Mrj Dark":
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "direct"
     notes:
@@ -3581,34 +4149,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       Dark:
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       "SL Light":
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       "SL Dark":
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       "SL Orange Light":
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       "SL Orange Dark":
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       "Mrj Light":
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
       "Mrj Dark":
         value: "#C5C5C5"
+        css: "#C5C5C5"
         flutter: "0xFFC5C5C5"
         source: "direct"
     notes:
@@ -3631,34 +4207,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       Dark:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       "SL Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       "SL Dark":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       "SL Orange Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       "SL Orange Dark":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       "Mrj Light":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
       "Mrj Dark":
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "direct"
     notes:
@@ -3681,34 +4265,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       Dark:
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       "SL Light":
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       "SL Dark":
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       "SL Orange Light":
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       "SL Orange Dark":
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       "Mrj Light":
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
       "Mrj Dark":
         value: "#8B8B8B"
+        css: "#8B8B8B"
         flutter: "0xFF8B8B8B"
         source: "direct"
     notes:
@@ -3731,34 +4323,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       Dark:
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       "SL Light":
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       "SL Dark":
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       "SL Orange Light":
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       "SL Orange Dark":
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       "Mrj Light":
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
       "Mrj Dark":
         value: "#777777"
+        css: "#777777"
         flutter: "0xFF777777"
         source: "direct"
     notes:
@@ -3781,34 +4381,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       Dark:
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       "SL Light":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       "SL Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       "SL Orange Light":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       "SL Orange Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       "Mrj Light":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
       "Mrj Dark":
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "direct"
     notes:
@@ -3831,34 +4439,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       Dark:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "SL Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "SL Dark":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "SL Orange Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "SL Orange Dark":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "Mrj Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "Mrj Dark":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
     notes:
@@ -3881,34 +4497,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "direct"
       Dark:
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "direct"
       "SL Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "direct"
       "SL Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "direct"
       "SL Orange Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "direct"
       "SL Orange Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "direct"
       "Mrj Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "direct"
       "Mrj Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "direct"
     notes:
@@ -3931,34 +4555,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#04165C"
+        css: "#04165C"
         flutter: "0xFF04165C"
         source: "direct"
       Dark:
         value: "#D6E6FF"
+        css: "#D6E6FF"
         flutter: "0xFFD6E6FF"
         source: "direct"
       "SL Light":
         value: "#04165C"
+        css: "#04165C"
         flutter: "0xFF04165C"
         source: "direct"
       "SL Dark":
         value: "#D6E6FF"
+        css: "#D6E6FF"
         flutter: "0xFFD6E6FF"
         source: "direct"
       "SL Orange Light":
         value: "#04165C"
+        css: "#04165C"
         flutter: "0xFF04165C"
         source: "direct"
       "SL Orange Dark":
         value: "#D6E6FF"
+        css: "#D6E6FF"
         flutter: "0xFFD6E6FF"
         source: "direct"
       "Mrj Light":
         value: "#04165C"
+        css: "#04165C"
         flutter: "0xFF04165C"
         source: "direct"
       "Mrj Dark":
         value: "#D6E6FF"
+        css: "#D6E6FF"
         flutter: "0xFFD6E6FF"
         source: "direct"
     notes:
@@ -3981,34 +4613,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "direct"
       Dark:
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "direct"
       "SL Light":
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "direct"
       "SL Dark":
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "direct"
       "SL Orange Light":
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "direct"
       "SL Orange Dark":
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "direct"
       "Mrj Light":
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "direct"
       "Mrj Dark":
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "direct"
     notes:
@@ -4031,34 +4671,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "direct"
       Dark:
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "direct"
       "SL Light":
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "direct"
       "SL Dark":
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "direct"
       "SL Orange Light":
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "direct"
       "Mrj Light":
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "direct"
       "Mrj Dark":
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "direct"
     notes:
@@ -4081,34 +4729,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       Dark:
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "direct"
       "SL Light":
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       "SL Dark":
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "direct"
       "SL Orange Light":
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       "SL Orange Dark":
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "direct"
       "Mrj Light":
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       "Mrj Dark":
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "direct"
     notes:
@@ -4131,34 +4787,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4F7CFF"
+        css: "#4F7CFF"
         flutter: "0xFF4F7CFF"
         source: "direct"
       Dark:
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       "SL Light":
         value: "#4F7CFF"
+        css: "#4F7CFF"
         flutter: "0xFF4F7CFF"
         source: "direct"
       "SL Dark":
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       "SL Orange Light":
         value: "#4F7CFF"
+        css: "#4F7CFF"
         flutter: "0xFF4F7CFF"
         source: "direct"
       "SL Orange Dark":
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       "Mrj Light":
         value: "#4F7CFF"
+        css: "#4F7CFF"
         flutter: "0xFF4F7CFF"
         source: "direct"
       "Mrj Dark":
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
     notes:
@@ -4181,34 +4845,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       Dark:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       "SL Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       "SL Dark":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       "SL Orange Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       "SL Orange Dark":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       "Mrj Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
       "Mrj Dark":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "direct"
     notes:
@@ -4231,34 +4903,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       Dark:
         value: "#5580FF"
+        css: "#5580FF"
         flutter: "0xFF5580FF"
         source: "direct"
       "SL Light":
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       "SL Dark":
         value: "#5580FF"
+        css: "#5580FF"
         flutter: "0xFF5580FF"
         source: "direct"
       "SL Orange Light":
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       "SL Orange Dark":
         value: "#5580FF"
+        css: "#5580FF"
         flutter: "0xFF5580FF"
         source: "direct"
       "Mrj Light":
         value: "#1A45D4"
+        css: "#1A45D4"
         flutter: "0xFF1A45D4"
         source: "direct"
       "Mrj Dark":
         value: "#5580FF"
+        css: "#5580FF"
         flutter: "0xFF5580FF"
         source: "direct"
     notes:
@@ -4281,34 +4961,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#1034AA"
+        css: "#1034AA"
         flutter: "0xFF1034AA"
         source: "direct"
       Dark:
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       "SL Light":
         value: "#1034AA"
+        css: "#1034AA"
         flutter: "0xFF1034AA"
         source: "direct"
       "SL Dark":
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       "SL Orange Light":
         value: "#1034AA"
+        css: "#1034AA"
         flutter: "0xFF1034AA"
         source: "direct"
       "SL Orange Dark":
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
       "Mrj Light":
         value: "#1034AA"
+        css: "#1034AA"
         flutter: "0xFF1034AA"
         source: "direct"
       "Mrj Dark":
         value: "#7A9EFF"
+        css: "#7A9EFF"
         flutter: "0xFF7A9EFF"
         source: "direct"
     notes:
@@ -4331,34 +5019,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#092480"
+        css: "#092480"
         flutter: "0xFF092480"
         source: "direct"
       Dark:
         value: "#AAC2FF"
+        css: "#AAC2FF"
         flutter: "0xFFAAC2FF"
         source: "direct"
       "SL Light":
         value: "#092480"
+        css: "#092480"
         flutter: "0xFF092480"
         source: "direct"
       "SL Dark":
         value: "#AAC2FF"
+        css: "#AAC2FF"
         flutter: "0xFFAAC2FF"
         source: "direct"
       "SL Orange Light":
         value: "#092480"
+        css: "#092480"
         flutter: "0xFF092480"
         source: "direct"
       "SL Orange Dark":
         value: "#AAC2FF"
+        css: "#AAC2FF"
         flutter: "0xFFAAC2FF"
         source: "direct"
       "Mrj Light":
         value: "#092480"
+        css: "#092480"
         flutter: "0xFF092480"
         source: "direct"
       "Mrj Dark":
         value: "#AAC2FF"
+        css: "#AAC2FF"
         flutter: "0xFFAAC2FF"
         source: "direct"
     notes:
@@ -4381,34 +5077,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       Dark:
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "rd/information-color/4"
       "SL Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "SL Dark":
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "rd/information-color/4"
       "SL Orange Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "SL Orange Dark":
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "rd/information-color/4"
       "Mrj Light":
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color/6"
       "Mrj Dark":
         value: "#102690"
+        css: "#102690"
         flutter: "0xFF102690"
         source: "rd/information-color/4"
     notes:
@@ -4431,34 +5135,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "rd/information-color/3"
       Dark:
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "rd/information-color/3"
       "SL Light":
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "rd/information-color/3"
       "SL Dark":
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "rd/information-color/3"
       "SL Orange Light":
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "rd/information-color/3"
       "SL Orange Dark":
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "rd/information-color/3"
       "Mrj Light":
         value: "#AABFFF"
+        css: "#AABFFF"
         flutter: "0xFFAABFFF"
         source: "rd/information-color/3"
       "Mrj Dark":
         value: "#0A1D72"
+        css: "#0A1D72"
         flutter: "0xFF0A1D72"
         source: "rd/information-color/3"
     notes:
@@ -4481,34 +5193,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       Dark:
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
       "SL Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       "SL Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
       "SL Orange Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       "SL Orange Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
       "Mrj Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       "Mrj Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
     notes:
@@ -4531,34 +5251,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       Dark:
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
       "SL Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       "SL Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
       "SL Orange Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       "SL Orange Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
       "Mrj Light":
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/1"
       "Mrj Dark":
         value: "#020B2E"
+        css: "#020B2E"
         flutter: "0xFF020B2E"
         source: "rd/information-color/1"
     notes:
@@ -4581,34 +5309,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "rd/information-color/2"
       Dark:
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "rd/information-color/2"
       "SL Light":
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "rd/information-color/2"
       "SL Dark":
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "rd/information-color/2"
       "SL Orange Light":
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "rd/information-color/2"
       "SL Orange Dark":
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "rd/information-color/2"
       "Mrj Light":
         value: "#D6E4FF"
+        css: "#D6E4FF"
         flutter: "0xFFD6E4FF"
         source: "rd/information-color/2"
       "Mrj Dark":
         value: "#050F4A"
+        css: "#050F4A"
         flutter: "0xFF050F4A"
         source: "rd/information-color/2"
     notes:
@@ -4631,34 +5367,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       Dark:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "SL Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Dark":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "SL Orange Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Orange Dark":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
       "Mrj Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "Mrj Dark":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "direct"
     notes:
@@ -4681,34 +5425,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFFF5"
+        css: "#FFFFFFF5"
         flutter: "0xF5FFFFFF"
         source: "direct"
       Dark:
         value: "#242424F5"
+        css: "#242424F5"
         flutter: "0xF5242424"
         source: "direct"
       "SL Light":
         value: "#FFFFFFF5"
+        css: "#FFFFFFF5"
         flutter: "0xF5FFFFFF"
         source: "direct"
       "SL Dark":
         value: "#242424F5"
+        css: "#242424F5"
         flutter: "0xF5242424"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFFF5"
+        css: "#FFFFFFF5"
         flutter: "0xF5FFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#242424F5"
+        css: "#242424F5"
         flutter: "0xF5242424"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFFF5"
+        css: "#FFFFFFF5"
         flutter: "0xF5FFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#242424F5"
+        css: "#242424F5"
         flutter: "0xF5242424"
         source: "direct"
     notes:
@@ -4731,34 +5483,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF99"
+        css: "#FFFFFF99"
         flutter: "0x99FFFFFF"
         source: "direct"
       Dark:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Light":
         value: "#FFFFFF99"
+        css: "#FFFFFF99"
         flutter: "0x99FFFFFF"
         source: "direct"
       "SL Dark":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF99"
+        css: "#FFFFFF99"
         flutter: "0x99FFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF99"
+        css: "#FFFFFF99"
         flutter: "0x99FFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "direct"
     notes:
@@ -4781,34 +5541,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       Dark:
         value: "#333333"
+        css: "#333333"
         flutter: "0xFF333333"
         source: "direct"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Dark":
         value: "#333333"
+        css: "#333333"
         flutter: "0xFF333333"
         source: "direct"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "SL Orange Dark":
         value: "#333333"
+        css: "#333333"
         flutter: "0xFF333333"
         source: "direct"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
       "Mrj Dark":
         value: "#333333"
+        css: "#333333"
         flutter: "0xFF333333"
         source: "direct"
     notes:
@@ -4831,34 +5599,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       Dark:
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
       "SL Light":
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
     notes:
@@ -4881,34 +5657,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#0000004D"
+        css: "#0000004D"
         flutter: "0x4D000000"
         source: "direct"
       Dark:
         value: "#FFFFFF4D"
+        css: "#FFFFFF4D"
         flutter: "0x4DFFFFFF"
         source: "direct"
       "SL Light":
         value: "#0000004D"
+        css: "#0000004D"
         flutter: "0x4D000000"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF4D"
+        css: "#FFFFFF4D"
         flutter: "0x4DFFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#0000004D"
+        css: "#0000004D"
         flutter: "0x4D000000"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF4D"
+        css: "#FFFFFF4D"
         flutter: "0x4DFFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#0000004D"
+        css: "#0000004D"
         flutter: "0x4D000000"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF4D"
+        css: "#FFFFFF4D"
         flutter: "0x4DFFFFFF"
         source: "direct"
     notes:
@@ -4931,34 +5715,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color/5"
       Dark:
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "rd/success-color/5"
       "SL Light":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color/5"
       "SL Dark":
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "rd/success-color/5"
       "SL Orange Light":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color/5"
       "SL Orange Dark":
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "rd/success-color/5"
       "Mrj Light":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color/5"
       "Mrj Dark":
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "rd/success-color/5"
     notes:
@@ -4981,34 +5773,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       Dark:
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "direct"
       "SL Light":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       "SL Dark":
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "direct"
       "SL Orange Light":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       "SL Orange Dark":
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "direct"
       "Mrj Light":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       "Mrj Dark":
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "direct"
     notes:
@@ -5031,34 +5831,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#002515"
+        css: "#002515"
         flutter: "0xFF002515"
         source: "direct"
       Dark:
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       "SL Light":
         value: "#002515"
+        css: "#002515"
         flutter: "0xFF002515"
         source: "direct"
       "SL Dark":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       "SL Orange Light":
         value: "#002515"
+        css: "#002515"
         flutter: "0xFF002515"
         source: "direct"
       "SL Orange Dark":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
       "Mrj Light":
         value: "#002515"
+        css: "#002515"
         flutter: "0xFF002515"
         source: "direct"
       "Mrj Dark":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "direct"
     notes:
@@ -5081,34 +5889,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       Dark:
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "direct"
       "SL Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       "SL Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "direct"
       "SL Orange Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       "SL Orange Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "direct"
       "Mrj Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       "Mrj Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "direct"
     notes:
@@ -5131,34 +5947,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       Dark:
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "direct"
       "SL Light":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       "SL Dark":
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "direct"
       "SL Orange Light":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       "SL Orange Dark":
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "direct"
       "Mrj Light":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       "Mrj Dark":
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "direct"
     notes:
@@ -5181,34 +6005,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       Dark:
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "direct"
       "SL Light":
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       "SL Dark":
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "direct"
       "SL Orange Light":
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       "SL Orange Dark":
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "direct"
       "Mrj Light":
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       "Mrj Dark":
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "direct"
     notes:
@@ -5231,34 +6063,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       Dark:
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "direct"
       "SL Light":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       "SL Dark":
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "direct"
       "SL Orange Light":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       "SL Orange Dark":
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "direct"
       "Mrj Light":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       "Mrj Dark":
         value: "#008A3A"
+        css: "#008A3A"
         flutter: "0xFF008A3A"
         source: "direct"
     notes:
@@ -5281,34 +6121,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "direct"
       Dark:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       "SL Light":
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "direct"
       "SL Dark":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       "SL Orange Light":
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "direct"
       "SL Orange Dark":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
       "Mrj Light":
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "direct"
       "Mrj Dark":
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "direct"
     notes:
@@ -5331,34 +6179,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#006C45"
+        css: "#006C45"
         flutter: "0xFF006C45"
         source: "direct"
       Dark:
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       "SL Light":
         value: "#006C45"
+        css: "#006C45"
         flutter: "0xFF006C45"
         source: "direct"
       "SL Dark":
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       "SL Orange Light":
         value: "#006C45"
+        css: "#006C45"
         flutter: "0xFF006C45"
         source: "direct"
       "SL Orange Dark":
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
       "Mrj Light":
         value: "#006C45"
+        css: "#006C45"
         flutter: "0xFF006C45"
         source: "direct"
       "Mrj Dark":
         value: "#56C08D"
+        css: "#56C08D"
         flutter: "0xFF56C08D"
         source: "direct"
     notes:
@@ -5381,34 +6237,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#005334"
+        css: "#005334"
         flutter: "0xFF005334"
         source: "direct"
       Dark:
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       "SL Light":
         value: "#005334"
+        css: "#005334"
         flutter: "0xFF005334"
         source: "direct"
       "SL Dark":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       "SL Orange Light":
         value: "#005334"
+        css: "#005334"
         flutter: "0xFF005334"
         source: "direct"
       "SL Orange Dark":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
       "Mrj Light":
         value: "#005334"
+        css: "#005334"
         flutter: "0xFF005334"
         source: "direct"
       "Mrj Dark":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "direct"
     notes:
@@ -5431,34 +6295,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#003B23"
+        css: "#003B23"
         flutter: "0xFF003B23"
         source: "direct"
       Dark:
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       "SL Light":
         value: "#003B23"
+        css: "#003B23"
         flutter: "0xFF003B23"
         source: "direct"
       "SL Dark":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       "SL Orange Light":
         value: "#003B23"
+        css: "#003B23"
         flutter: "0xFF003B23"
         source: "direct"
       "SL Orange Dark":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
       "Mrj Light":
         value: "#003B23"
+        css: "#003B23"
         flutter: "0xFF003B23"
         source: "direct"
       "Mrj Dark":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "direct"
     notes:
@@ -5481,34 +6353,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "rd/success-color/6"
       Dark:
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "rd/success-color/4"
       "SL Light":
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "rd/success-color/6"
       "SL Dark":
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "rd/success-color/4"
       "SL Orange Light":
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "rd/success-color/6"
       "SL Orange Dark":
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "rd/success-color/4"
       "Mrj Light":
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "rd/success-color/6"
       "Mrj Dark":
         value: "#006B2A"
+        css: "#006B2A"
         flutter: "0xFF006B2A"
         source: "rd/success-color/4"
     notes:
@@ -5531,34 +6411,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "rd/success-color/3"
       Dark:
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "rd/success-color/3"
       "SL Light":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "rd/success-color/3"
       "SL Dark":
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "rd/success-color/3"
       "SL Orange Light":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "rd/success-color/3"
       "SL Orange Dark":
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "rd/success-color/3"
       "Mrj Light":
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "rd/success-color/3"
       "Mrj Dark":
         value: "#004D1E"
+        css: "#004D1E"
         flutter: "0xFF004D1E"
         source: "rd/success-color/3"
     notes:
@@ -5581,34 +6469,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       Dark:
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
       "SL Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       "SL Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
       "SL Orange Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       "SL Orange Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
       "Mrj Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       "Mrj Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
     notes:
@@ -5631,34 +6527,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/1"
       Dark:
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "rd/success-color/1"
       "SL Light":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/1"
       "SL Dark":
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "rd/success-color/1"
       "SL Orange Light":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/1"
       "SL Orange Dark":
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "rd/success-color/1"
       "Mrj Light":
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/1"
       "Mrj Dark":
         value: "#001A08"
+        css: "#001A08"
         flutter: "0xFF001A08"
         source: "rd/success-color/1"
     notes:
@@ -5681,34 +6585,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       Dark:
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
       "SL Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       "SL Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
       "SL Orange Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       "SL Orange Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
       "Mrj Light":
         value: "#C6F3D7"
+        css: "#C6F3D7"
         flutter: "0xFFC6F3D7"
         source: "rd/success-color/2"
       "Mrj Dark":
         value: "#003314"
+        css: "#003314"
         flutter: "0xFF003314"
         source: "rd/success-color/2"
     notes:
@@ -5731,34 +6643,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000014"
+        css: "#00000014"
         flutter: "0x14000000"
         source: "direct"
       Dark:
         value: "#0000008C"
+        css: "#0000008C"
         flutter: "0x8C000000"
         source: "direct"
       "SL Light":
         value: "#00000014"
+        css: "#00000014"
         flutter: "0x14000000"
         source: "direct"
       "SL Dark":
         value: "#0000008C"
+        css: "#0000008C"
         flutter: "0x8C000000"
         source: "direct"
       "SL Orange Light":
         value: "#00000014"
+        css: "#00000014"
         flutter: "0x14000000"
         source: "direct"
       "SL Orange Dark":
         value: "#0000008C"
+        css: "#0000008C"
         flutter: "0x8C000000"
         source: "direct"
       "Mrj Light":
         value: "#00000014"
+        css: "#00000014"
         flutter: "0x14000000"
         source: "direct"
       "Mrj Dark":
         value: "#0000008C"
+        css: "#0000008C"
         flutter: "0x8C000000"
         source: "direct"
     notes:
@@ -5781,34 +6701,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       Dark:
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
       "SL Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       "SL Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
       "SL Orange Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       "SL Orange Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
       "Mrj Light":
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
       "Mrj Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -5831,34 +6759,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
       Dark:
         value: "#8882F7"
+        css: "#8882F7"
         flutter: "0xFF8882F7"
         source: "rd/brand-color/7"
       "SL Light":
         value: "#0BC7B9"
+        css: "#0BC7B9"
         flutter: "0xFF0BC7B9"
         source: "rd/brand-color -> rd/brand-color/6"
       "SL Dark":
         value: "#55E0D2"
+        css: "#55E0D2"
         flutter: "0xFF55E0D2"
         source: "rd/brand-color/7"
       "SL Orange Light":
         value: "#E0A558"
+        css: "#E0A558"
         flutter: "0xFFE0A558"
         source: "rd/brand-color -> rd/brand-color/6"
       "SL Orange Dark":
         value: "#ECCA8E"
+        css: "#ECCA8E"
         flutter: "0xFFECCA8E"
         source: "rd/brand-color/7"
       "Mrj Light":
         value: "#8F73FB"
+        css: "#8F73FB"
         flutter: "0xFF8F73FB"
         source: "rd/brand-color -> rd/brand-color/6"
       "Mrj Dark":
         value: "#C0ADFF"
+        css: "#C0ADFF"
         flutter: "0xFFC0ADFF"
         source: "rd/brand-color/7"
     notes:
@@ -5881,34 +6817,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/font-gray/4"
       Dark:
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
       "SL Light":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/font-gray/4"
       "SL Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
       "SL Orange Light":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/font-gray/4"
       "SL Orange Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
       "Mrj Light":
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/font-gray/4"
       "Mrj Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
     notes:
@@ -5931,34 +6875,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#AEBBFF"
+        css: "#AEBBFF"
         flutter: "0xFFAEBBFF"
         source: "rd/brand-color/4"
       Dark:
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
       "SL Light":
         value: "#55E0D2"
+        css: "#55E0D2"
         flutter: "0xFF55E0D2"
         source: "rd/brand-color/4"
       "SL Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
       "SL Orange Light":
         value: "#ECCA8E"
+        css: "#ECCA8E"
         flutter: "0xFFECCA8E"
         source: "rd/brand-color/4"
       "SL Orange Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
       "Mrj Light":
         value: "#C0ADFF"
+        css: "#C0ADFF"
         flutter: "0xFFC0ADFF"
         source: "rd/brand-color/4"
       "Mrj Dark":
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
     notes:
@@ -5981,34 +6933,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
       Dark:
         value: "#8882F7"
+        css: "#8882F7"
         flutter: "0xFF8882F7"
         source: "rd/brand-color/7"
       "SL Light":
         value: "#0BC7B9"
+        css: "#0BC7B9"
         flutter: "0xFF0BC7B9"
         source: "rd/brand-color -> rd/brand-color/6"
       "SL Dark":
         value: "#55E0D2"
+        css: "#55E0D2"
         flutter: "0xFF55E0D2"
         source: "rd/brand-color/7"
       "SL Orange Light":
         value: "#E0A558"
+        css: "#E0A558"
         flutter: "0xFFE0A558"
         source: "rd/brand-color -> rd/brand-color/6"
       "SL Orange Dark":
         value: "#ECCA8E"
+        css: "#ECCA8E"
         flutter: "0xFFECCA8E"
         source: "rd/brand-color/7"
       "Mrj Light":
         value: "#8F73FB"
+        css: "#8F73FB"
         flutter: "0xFF8F73FB"
         source: "rd/brand-color -> rd/brand-color/6"
       "Mrj Dark":
         value: "#C0ADFF"
+        css: "#C0ADFF"
         flutter: "0xFFC0ADFF"
         source: "rd/brand-color/7"
     notes:
@@ -6031,34 +6991,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/font-gray/3"
       Dark:
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "rd/font-white/3"
       "SL Light":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/font-gray/3"
       "SL Dark":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "rd/font-white/3"
       "SL Orange Light":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/font-gray/3"
       "SL Orange Dark":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "rd/font-white/3"
       "Mrj Light":
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/font-gray/3"
       "Mrj Dark":
         value: "#FFFFFF59"
+        css: "#FFFFFF59"
         flutter: "0x59FFFFFF"
         source: "rd/font-white/3"
     notes:
@@ -6081,34 +7049,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/font-gray/1"
       Dark:
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
       "SL Light":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/font-gray/1"
       "SL Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
       "SL Orange Light":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/font-gray/1"
       "SL Orange Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
       "Mrj Light":
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/font-gray/1"
       "Mrj Dark":
         value: "#FFFFFFE5"
+        css: "#FFFFFFE5"
         flutter: "0xE5FFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -6131,34 +7107,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/font-gray/2"
       Dark:
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
       "SL Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/font-gray/2"
       "SL Dark":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
       "SL Orange Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/font-gray/2"
       "SL Orange Dark":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
       "Mrj Light":
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/font-gray/2"
       "Mrj Dark":
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
     notes:
@@ -6181,34 +7165,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       Dark:
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
       "SL Light":
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       "SL Dark":
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
       "SL Orange Light":
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       "SL Orange Dark":
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
       "Mrj Light":
         value: "#0000001A"
+        css: "#0000001A"
         flutter: "0x1A000000"
         source: "direct"
       "Mrj Dark":
         value: "#FFFFFF1A"
+        css: "#FFFFFF1A"
         flutter: "0x1AFFFFFF"
         source: "direct"
     notes:
@@ -6231,34 +7223,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color/5"
       Dark:
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "rd/warning-color/5"
       "SL Light":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color/5"
       "SL Dark":
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "rd/warning-color/5"
       "SL Orange Light":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color/5"
       "SL Orange Dark":
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "rd/warning-color/5"
       "Mrj Light":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color/5"
       "Mrj Dark":
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "rd/warning-color/5"
     notes:
@@ -6281,34 +7281,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       Dark:
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "direct"
       "SL Light":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       "SL Dark":
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "direct"
       "SL Orange Light":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       "SL Orange Dark":
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "direct"
       "Mrj Light":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       "Mrj Dark":
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "direct"
     notes:
@@ -6331,34 +7339,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#3B1700"
+        css: "#3B1700"
         flutter: "0xFF3B1700"
         source: "direct"
       Dark:
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       "SL Light":
         value: "#3B1700"
+        css: "#3B1700"
         flutter: "0xFF3B1700"
         source: "direct"
       "SL Dark":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       "SL Orange Light":
         value: "#3B1700"
+        css: "#3B1700"
         flutter: "0xFF3B1700"
         source: "direct"
       "SL Orange Dark":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
       "Mrj Light":
         value: "#3B1700"
+        css: "#3B1700"
         flutter: "0xFF3B1700"
         source: "direct"
       "Mrj Dark":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "direct"
     notes:
@@ -6381,34 +7397,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       Dark:
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "direct"
       "SL Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       "SL Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "direct"
       "SL Orange Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       "SL Orange Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "direct"
       "Mrj Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       "Mrj Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "direct"
     notes:
@@ -6431,34 +7455,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       Dark:
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "direct"
       "SL Light":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       "SL Dark":
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "direct"
       "SL Orange Light":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       "SL Orange Dark":
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "direct"
       "Mrj Light":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       "Mrj Dark":
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "direct"
     notes:
@@ -6481,34 +7513,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       Dark:
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "direct"
       "SL Light":
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       "SL Dark":
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "direct"
       "SL Orange Light":
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       "SL Orange Dark":
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "direct"
       "Mrj Light":
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       "Mrj Dark":
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "direct"
     notes:
@@ -6531,34 +7571,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       Dark:
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "direct"
       "SL Light":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       "SL Dark":
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "direct"
       "SL Orange Light":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       "SL Orange Dark":
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "direct"
       "Mrj Light":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       "Mrj Dark":
         value: "#C25800"
+        css: "#C25800"
         flutter: "0xFFC25800"
         source: "direct"
     notes:
@@ -6581,34 +7629,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "direct"
       Dark:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       "SL Light":
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "direct"
       "SL Dark":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       "SL Orange Light":
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "direct"
       "SL Orange Dark":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
       "Mrj Light":
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "direct"
       "Mrj Dark":
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "direct"
     notes:
@@ -6631,34 +7687,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#954500"
+        css: "#954500"
         flutter: "0xFF954500"
         source: "direct"
       Dark:
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       "SL Light":
         value: "#954500"
+        css: "#954500"
         flutter: "0xFF954500"
         source: "direct"
       "SL Dark":
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       "SL Orange Light":
         value: "#954500"
+        css: "#954500"
         flutter: "0xFF954500"
         source: "direct"
       "SL Orange Dark":
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
       "Mrj Light":
         value: "#954500"
+        css: "#954500"
         flutter: "0xFF954500"
         source: "direct"
       "Mrj Dark":
         value: "#FA9550"
+        css: "#FA9550"
         flutter: "0xFFFA9550"
         source: "direct"
     notes:
@@ -6681,34 +7745,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#713300"
+        css: "#713300"
         flutter: "0xFF713300"
         source: "direct"
       Dark:
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       "SL Light":
         value: "#713300"
+        css: "#713300"
         flutter: "0xFF713300"
         source: "direct"
       "SL Dark":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       "SL Orange Light":
         value: "#713300"
+        css: "#713300"
         flutter: "0xFF713300"
         source: "direct"
       "SL Orange Dark":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
       "Mrj Light":
         value: "#713300"
+        css: "#713300"
         flutter: "0xFF713300"
         source: "direct"
       "Mrj Dark":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "direct"
     notes:
@@ -6731,34 +7803,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#532300"
+        css: "#532300"
         flutter: "0xFF532300"
         source: "direct"
       Dark:
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       "SL Light":
         value: "#532300"
+        css: "#532300"
         flutter: "0xFF532300"
         source: "direct"
       "SL Dark":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       "SL Orange Light":
         value: "#532300"
+        css: "#532300"
         flutter: "0xFF532300"
         source: "direct"
       "SL Orange Dark":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
       "Mrj Light":
         value: "#532300"
+        css: "#532300"
         flutter: "0xFF532300"
         source: "direct"
       "Mrj Dark":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "direct"
     notes:
@@ -6781,34 +7861,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "rd/warning-color/6"
       Dark:
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "rd/warning-color/4"
       "SL Light":
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "rd/warning-color/6"
       "SL Dark":
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "rd/warning-color/4"
       "SL Orange Light":
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "rd/warning-color/6"
       "SL Orange Dark":
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "rd/warning-color/4"
       "Mrj Light":
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "rd/warning-color/6"
       "Mrj Dark":
         value: "#8A3800"
+        css: "#8A3800"
         flutter: "0xFF8A3800"
         source: "rd/warning-color/4"
     notes:
@@ -6831,34 +7919,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "rd/warning-color/3"
       Dark:
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "rd/warning-color/3"
       "SL Light":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "rd/warning-color/3"
       "SL Dark":
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "rd/warning-color/3"
       "SL Orange Light":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "rd/warning-color/3"
       "SL Orange Dark":
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "rd/warning-color/3"
       "Mrj Light":
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "rd/warning-color/3"
       "Mrj Dark":
         value: "#5C2200"
+        css: "#5C2200"
         flutter: "0xFF5C2200"
         source: "rd/warning-color/3"
     notes:
@@ -6881,34 +7977,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       Dark:
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
       "SL Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       "SL Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
       "SL Orange Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       "SL Orange Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
       "Mrj Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       "Mrj Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
     notes:
@@ -6931,34 +8035,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/1"
       Dark:
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "rd/warning-color/1"
       "SL Light":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/1"
       "SL Dark":
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "rd/warning-color/1"
       "SL Orange Light":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/1"
       "SL Orange Dark":
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "rd/warning-color/1"
       "Mrj Light":
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/1"
       "Mrj Dark":
         value: "#1A0800"
+        css: "#1A0800"
         flutter: "0xFF1A0800"
         source: "rd/warning-color/1"
     notes:
@@ -6981,34 +8093,42 @@ token_entries:
     values_by_mode:
       Light:
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       Dark:
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
       "SL Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       "SL Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
       "SL Orange Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       "SL Orange Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
       "Mrj Light":
         value: "#FFD9C2"
+        css: "#FFD9C2"
         flutter: "0xFFFFD9C2"
         source: "rd/warning-color/2"
       "Mrj Dark":
         value: "#3D1500"
+        css: "#3D1500"
         flutter: "0xFF3D1500"
         source: "rd/warning-color/2"
     notes:
@@ -7031,6 +8151,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -7053,6 +8174,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -7075,6 +8197,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -7097,6 +8220,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -7119,6 +8243,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -7141,6 +8266,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -7163,6 +8289,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -7185,6 +8312,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/page -> rd/gray-color/1"
     notes:
@@ -7207,6 +8335,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E6ECFF"
+        css: "#E6ECFF"
         flutter: "0xFFE6ECFF"
         source: "rd/brand-color/light-active -> rd/brand-color/2"
     notes:
@@ -7229,6 +8358,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -7251,6 +8381,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -7273,6 +8404,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -7295,6 +8427,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -7317,6 +8450,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -7339,6 +8473,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/font-gray/1"
     notes:
@@ -7361,6 +8496,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#181818"
+        css: "#181818"
         flutter: "0xFF181818"
         source: "rd/gray-color/14"
     notes:
@@ -7383,6 +8519,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#5E5E5E"
+        css: "#5E5E5E"
         flutter: "0xFF5E5E5E"
         source: "rd/gray-color/9"
     notes:
@@ -7405,6 +8542,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -7427,6 +8565,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -7449,6 +8588,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -7471,6 +8611,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/text-color/anti -> rd/font-white/1"
     notes:
@@ -7493,6 +8634,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
     notes:
@@ -7515,6 +8657,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
     notes:
@@ -7537,6 +8680,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -7559,6 +8703,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -7581,6 +8726,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -7603,6 +8749,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
     notes:
@@ -7625,6 +8772,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
     notes:
@@ -7647,6 +8795,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/disabled -> rd/error-color/3"
     notes:
@@ -7669,6 +8818,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -7691,6 +8841,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/7"
     notes:
@@ -7713,6 +8864,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -7735,6 +8887,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -7757,6 +8910,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/3"
     notes:
@@ -7779,6 +8933,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -7801,6 +8956,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -7823,6 +8979,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/disabled -> rd/error-color/3"
     notes:
@@ -7845,6 +9002,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/bg-color/component-active -> rd/gray-color/6"
     notes:
@@ -7867,6 +9025,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#A6A6A6"
+        css: "#A6A6A6"
         flutter: "0xFFA6A6A6"
         source: "rd/bg-color/component-active -> rd/gray-color/6"
     notes:
@@ -7889,6 +9048,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -7911,6 +9071,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -7933,6 +9094,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -7955,6 +9117,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -7977,6 +9140,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -7999,6 +9163,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -8021,6 +9186,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -8043,6 +9209,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -8065,6 +9232,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -8087,6 +9255,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -8109,6 +9278,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -8131,6 +9301,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -8153,6 +9324,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/button/ghost/color"
     notes:
@@ -8175,6 +9347,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
     notes:
@@ -8197,6 +9370,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -8219,6 +9393,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -8241,6 +9416,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/active -> rd/error-color/7"
     notes:
@@ -8263,6 +9439,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF38"
+        css: "#FFFFFF38"
         flutter: "0x38FFFFFF"
         source: "rd/font-white/4"
     notes:
@@ -8285,6 +9462,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
     notes:
@@ -8307,6 +9485,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8329,6 +9508,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8351,6 +9531,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -8373,6 +9554,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E6ECFF"
+        css: "#E6ECFF"
         flutter: "0xFFE6ECFF"
         source: "rd/brand-color/light-active -> rd/brand-color/2"
     notes:
@@ -8395,6 +9577,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E6ECFF"
+        css: "#E6ECFF"
         flutter: "0xFFE6ECFF"
         source: "rd/brand-color/light-active -> rd/brand-color/2"
     notes:
@@ -8417,6 +9600,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -8439,6 +9623,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -8461,6 +9646,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8483,6 +9669,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -8505,6 +9692,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -8527,6 +9715,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -8549,6 +9738,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E6ECFF"
+        css: "#E6ECFF"
         flutter: "0xFFE6ECFF"
         source: "rd/brand-color/light-active -> rd/brand-color/2"
     notes:
@@ -8571,6 +9761,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -8593,6 +9784,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -8615,6 +9807,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8637,6 +9830,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8659,6 +9853,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -8681,6 +9876,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -8703,6 +9899,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8725,6 +9922,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -8747,6 +9945,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -8769,6 +9968,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8791,6 +9991,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8813,6 +10014,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -8835,6 +10037,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -8857,6 +10060,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -8879,6 +10083,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -8901,6 +10106,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -8923,6 +10129,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -8945,6 +10152,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8967,6 +10175,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -8989,6 +10198,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -9011,6 +10221,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -9033,6 +10244,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -9055,6 +10267,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -9077,6 +10290,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -9099,6 +10313,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -9121,6 +10336,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -9143,6 +10359,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -9165,6 +10382,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -9187,6 +10405,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -9209,6 +10428,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -9231,6 +10451,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/text-color/anti -> rd/font-white/1"
     notes:
@@ -9253,6 +10474,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -9275,6 +10497,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -9297,6 +10520,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -9319,6 +10543,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -9341,6 +10566,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -9363,6 +10589,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -9385,6 +10612,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -9407,6 +10635,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -9429,6 +10658,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -9451,6 +10681,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -9473,6 +10704,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -9495,6 +10727,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -9517,6 +10750,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -9539,6 +10773,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/border-level/1-color -> rd/gray-color/3"
     notes:
@@ -9561,6 +10796,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -9583,6 +10819,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -9605,6 +10842,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -9627,6 +10865,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -9649,6 +10888,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -9671,6 +10911,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
     notes:
@@ -9693,6 +10934,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -9715,6 +10957,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -9737,6 +10980,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -9759,6 +11003,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -9781,6 +11026,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -9803,6 +11049,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -9825,6 +11072,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -9847,6 +11095,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/border-level/2-color -> rd/gray-color/4"
     notes:
@@ -9869,6 +11118,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -9891,6 +11141,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -9913,6 +11164,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -9935,6 +11187,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -9957,6 +11210,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -9979,6 +11233,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10001,6 +11256,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -10023,6 +11279,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/border-level/1-color -> rd/gray-color/3"
     notes:
@@ -10045,6 +11302,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10067,6 +11325,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10089,6 +11348,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -10111,6 +11371,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10133,6 +11394,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10155,6 +11417,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "rd/gray-color/11"
     notes:
@@ -10177,6 +11440,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10199,6 +11463,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000033"
+        css: "#00000033"
         flutter: "0x33000000"
         source: "direct"
     notes:
@@ -10221,6 +11486,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
     notes:
@@ -10243,6 +11509,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10265,6 +11532,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
     notes:
@@ -10287,6 +11555,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/text-color/anti -> rd/font-white/1"
     notes:
@@ -10309,6 +11578,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10331,6 +11601,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10353,6 +11624,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -10375,6 +11647,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10397,6 +11670,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -10419,6 +11693,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10441,6 +11716,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10463,6 +11739,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/border-level/1-color -> rd/gray-color/3"
     notes:
@@ -10485,6 +11762,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -10507,6 +11785,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/drawer/title-color -> rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10529,6 +11808,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10551,6 +11831,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -10573,6 +11854,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10595,6 +11877,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10617,6 +11900,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10639,6 +11923,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -10661,6 +11946,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10683,6 +11969,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10705,6 +11992,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -10727,6 +12015,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10749,6 +12038,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10771,6 +12061,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10793,6 +12084,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -10815,6 +12107,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10837,6 +12130,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -10859,6 +12153,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -10881,6 +12176,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -10903,6 +12199,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -10925,6 +12222,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -10947,6 +12245,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -10969,6 +12268,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/gray-color/4"
     notes:
@@ -10991,6 +12291,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -11013,6 +12314,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -11035,6 +12337,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -11057,6 +12360,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/mask-active"
     notes:
@@ -11079,6 +12383,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000"
+        css: "#000000"
         flutter: "0xFF000000"
         source: "direct"
     notes:
@@ -11101,6 +12406,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -11123,6 +12429,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -11145,6 +12452,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -11167,6 +12475,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -11189,6 +12498,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11211,6 +12521,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -11233,6 +12544,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/text-color/anti -> rd/font-white/1"
     notes:
@@ -11255,6 +12567,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11277,6 +12590,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -11299,6 +12613,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -11321,6 +12636,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -11343,6 +12659,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -11365,6 +12682,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -11387,6 +12705,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11409,6 +12728,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -11431,6 +12751,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -11453,6 +12774,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -11475,6 +12797,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -11497,6 +12820,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11519,6 +12843,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -11541,6 +12866,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11563,6 +12889,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11585,6 +12912,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -11607,6 +12935,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -11629,6 +12958,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -11651,6 +12981,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -11673,6 +13004,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11695,6 +13027,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11717,6 +13050,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -11739,6 +13073,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -11761,6 +13096,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#B81010"
+        css: "#B81010"
         flutter: "0xFFB81010"
         source: "rd/error-color/active -> rd/error-color/7"
     notes:
@@ -11783,6 +13119,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -11805,6 +13142,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFADAD"
+        css: "#FFADAD"
         flutter: "0xFFFFADAD"
         source: "rd/error-color/disabled -> rd/error-color/3"
     notes:
@@ -11827,6 +13165,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -11849,6 +13188,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -11871,6 +13211,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -11893,6 +13234,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -11915,6 +13257,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -11937,6 +13280,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -11959,6 +13303,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#008858"
+        css: "#008858"
         flutter: "0xFF008858"
         source: "rd/success-color/active -> rd/success-color/6"
     notes:
@@ -11981,6 +13326,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -12003,6 +13349,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#92DAB2"
+        css: "#92DAB2"
         flutter: "0xFF92DAB2"
         source: "rd/success-color/disabled -> rd/success-color/3"
     notes:
@@ -12025,6 +13372,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#BE5A00"
+        css: "#BE5A00"
         flutter: "0xFFBE5A00"
         source: "rd/warning-color/active -> rd/warning-color/6"
     notes:
@@ -12047,6 +13395,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -12069,6 +13418,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "rd/warning-color/disabled -> rd/warning-color/3"
     notes:
@@ -12091,6 +13441,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -12113,6 +13464,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF99"
+        css: "#FFFFFF99"
         flutter: "0x99FFFFFF"
         source: "direct"
     notes:
@@ -12135,6 +13487,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12157,6 +13510,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12179,6 +13533,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -12201,6 +13556,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -12223,6 +13579,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12245,6 +13602,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -12267,6 +13625,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color -> rd/information-color/6"
     notes:
@@ -12289,6 +13648,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -12311,6 +13671,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -12333,6 +13694,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -12355,6 +13717,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/border-color -> rd/gray-color/3"
     notes:
@@ -12377,6 +13740,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12399,6 +13763,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFFCC"
+        css: "#FFFFFFCC"
         flutter: "0xCCFFFFFF"
         source: "rd/bg-color/ground-glass"
     notes:
@@ -12421,6 +13786,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/light -> rd/error-color/1"
     notes:
@@ -12443,6 +13809,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -12465,6 +13832,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12487,6 +13855,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F0F4FF"
+        css: "#F0F4FF"
         flutter: "0xFFF0F4FF"
         source: "rd/information-color/light -> rd/information-color/1"
     notes:
@@ -12509,6 +13878,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2659F0"
+        css: "#2659F0"
         flutter: "0xFF2659F0"
         source: "rd/information-color -> rd/information-color/6"
     notes:
@@ -12531,6 +13901,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -12553,6 +13924,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/light -> rd/success-color/1"
     notes:
@@ -12575,6 +13947,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -12597,6 +13970,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -12619,6 +13993,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/light -> rd/warning-color/1"
     notes:
@@ -12641,6 +14016,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -12663,6 +14039,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/mask-active"
     notes:
@@ -12685,6 +14062,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -12707,6 +14085,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -12729,6 +14108,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -12751,6 +14131,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -12773,6 +14154,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12795,6 +14177,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -12817,6 +14200,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -12839,6 +14223,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF66"
+        css: "#FFFFFF66"
         flutter: "0x66FFFFFF"
         source: "direct"
     notes:
@@ -12861,6 +14246,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFFEB"
+        css: "#FFFFFFEB"
         flutter: "0xEBFFFFFF"
         source: "direct"
     notes:
@@ -12883,6 +14269,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -12905,6 +14292,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/1"
     notes:
@@ -12927,6 +14315,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/7"
     notes:
@@ -12949,6 +14338,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/font-gray/1"
     notes:
@@ -12971,6 +14361,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
     notes:
@@ -12993,6 +14384,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
     notes:
@@ -13015,6 +14407,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color/6"
     notes:
@@ -13037,6 +14430,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -13059,6 +14453,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -13081,6 +14476,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/1"
     notes:
@@ -13103,6 +14499,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color/5"
     notes:
@@ -13125,6 +14522,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/1"
     notes:
@@ -13147,6 +14545,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color/5"
     notes:
@@ -13169,6 +14568,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -13191,6 +14591,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -13213,6 +14614,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -13235,6 +14637,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -13257,6 +14660,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -13279,6 +14683,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -13301,6 +14706,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -13323,6 +14729,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -13345,6 +14752,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -13367,6 +14775,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -13389,6 +14798,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -13411,6 +14821,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -13433,6 +14844,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -13455,6 +14867,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4830E7"
+        css: "#4830E7"
         flutter: "0xFF4830E7"
         source: "rd/brand-color/active -> rd/brand-color/7"
     notes:
@@ -13477,6 +14890,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -13499,6 +14913,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -13521,6 +14936,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -13543,6 +14959,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -13565,6 +14982,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -13587,6 +15005,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -13609,6 +15028,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -13631,6 +15051,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -13653,6 +15074,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -13675,6 +15097,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -13697,6 +15120,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -13719,6 +15143,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFB98C"
+        css: "#FFB98C"
         flutter: "0xFFFFB98C"
         source: "rd/warning-color/3"
     notes:
@@ -13741,6 +15166,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/gray-color/2"
     notes:
@@ -13763,6 +15189,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -13785,6 +15212,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -13807,6 +15235,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -13829,6 +15258,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/bg-color/secondarycomponent -> rd/gray-color/4"
     notes:
@@ -13851,6 +15281,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/text-color/secondary -> rd/font-gray/2"
     notes:
@@ -13873,6 +15304,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -13895,6 +15327,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -13917,6 +15350,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -13939,6 +15373,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -13961,6 +15396,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -13983,6 +15419,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14005,6 +15442,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -14027,6 +15465,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14049,6 +15488,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14071,6 +15511,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14093,6 +15534,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -14115,6 +15557,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14137,6 +15580,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14159,6 +15603,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -14181,6 +15626,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14203,6 +15649,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -14225,6 +15672,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -14247,6 +15695,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -14269,6 +15718,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -14291,6 +15741,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -14313,6 +15764,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/container-active -> rd/gray-color/3"
     notes:
@@ -14335,6 +15787,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -14357,6 +15810,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14379,6 +15833,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -14401,6 +15856,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -14423,6 +15879,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -14445,6 +15902,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -14467,6 +15925,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -14489,6 +15948,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
     notes:
@@ -14511,6 +15971,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -14533,6 +15994,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
     notes:
@@ -14555,6 +16017,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
     notes:
@@ -14577,6 +16040,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -14599,6 +16063,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -14621,6 +16086,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14643,6 +16109,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -14665,6 +16132,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14687,6 +16155,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14709,6 +16178,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -14731,6 +16201,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
     notes:
@@ -14753,6 +16224,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -14775,6 +16247,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -14797,6 +16270,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -14819,6 +16293,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -14841,6 +16316,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -14863,6 +16339,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14885,6 +16362,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14907,6 +16385,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14929,6 +16408,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -14951,6 +16431,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -14973,6 +16454,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -14995,6 +16477,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15017,6 +16500,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -15039,6 +16523,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15061,6 +16546,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15083,6 +16569,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15105,6 +16592,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -15127,6 +16615,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -15149,6 +16638,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -15171,6 +16661,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -15193,6 +16684,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/font-gray/3"
     notes:
@@ -15215,6 +16707,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -15237,6 +16730,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -15259,6 +16753,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
     notes:
@@ -15281,6 +16776,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/font-gray/3"
     notes:
@@ -15303,6 +16799,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -15325,6 +16822,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/gray-color/3"
     notes:
@@ -15347,6 +16845,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15369,6 +16868,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15391,6 +16891,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -15413,6 +16914,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/font-white/1"
     notes:
@@ -15435,6 +16937,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/switch/checked-color -> rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15457,6 +16960,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/bg-color/secondarycontainer-active -> rd/gray-color/4"
     notes:
@@ -15479,6 +16983,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15501,6 +17006,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/bg-color/secondarycontainer-active -> rd/gray-color/4"
     notes:
@@ -15523,6 +17029,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -15545,6 +17052,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -15567,6 +17075,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15589,6 +17098,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -15611,6 +17121,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/border-level/1-color -> rd/gray-color/3"
     notes:
@@ -15633,6 +17144,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -15655,6 +17167,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#0000000D"
+        css: "#0000000D"
         flutter: "0x0D000000"
         source: "direct"
     notes:
@@ -15677,6 +17190,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/border-level/1-color -> rd/gray-color/3"
     notes:
@@ -15699,6 +17213,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
     notes:
@@ -15721,6 +17236,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -15743,6 +17259,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -15765,6 +17282,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -15787,6 +17305,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -15809,6 +17328,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -15831,6 +17351,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -15853,6 +17374,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -15875,6 +17397,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -15897,6 +17420,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#383838"
+        css: "#383838"
         flutter: "0xFF383838"
         source: "direct"
     notes:
@@ -15919,6 +17443,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "direct"
     notes:
@@ -15941,6 +17466,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -15963,6 +17489,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -15985,6 +17512,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/text-color/link -> rd/brand-color -> rd/brand-color/6"
     notes:
@@ -16007,6 +17535,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -16029,6 +17558,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -16051,6 +17581,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -16073,6 +17604,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/component-stroke -> rd/gray-color/3"
     notes:
@@ -16095,6 +17627,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -16117,6 +17650,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -16139,6 +17673,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -16161,6 +17696,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -16183,6 +17719,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -16205,6 +17742,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -16227,6 +17765,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -16249,6 +17788,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF8C"
+        css: "#FFFFFF8C"
         flutter: "0x8CFFFFFF"
         source: "rd/font-white/2"
     notes:
@@ -16271,6 +17811,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -16293,6 +17834,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -16315,6 +17857,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#CFDAFF"
+        css: "#CFDAFF"
         flutter: "0xFFCFDAFF"
         source: "rd/brand-color/disabled -> rd/brand-color/3"
     notes:
@@ -16337,6 +17880,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -16359,6 +17903,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -16381,6 +17926,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#D92020"
+        css: "#D92020"
         flutter: "0xFFD92020"
         source: "rd/error-color -> rd/error-color/6"
     notes:
@@ -16403,6 +17949,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF0F0"
+        css: "#FFF0F0"
         flutter: "0xFFFFF0F0"
         source: "rd/error-color/1"
     notes:
@@ -16425,6 +17972,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E7E7E7"
+        css: "#E7E7E7"
         flutter: "0xFFE7E7E7"
         source: "rd/bg-color/component -> rd/gray-color/3"
     notes:
@@ -16447,6 +17995,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -16469,6 +18018,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -16491,6 +18041,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#EEEEEE"
+        css: "#EEEEEE"
         flutter: "0xFFEEEEEE"
         source: "rd/bg-color/component-disabled -> rd/gray-color/2"
     notes:
@@ -16513,6 +18064,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -16535,6 +18087,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -16557,6 +18110,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -16579,6 +18133,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -16601,6 +18156,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F6FF"
+        css: "#F3F6FF"
         flutter: "0xFFF3F6FF"
         source: "rd/brand-color/light -> rd/brand-color/1"
     notes:
@@ -16623,6 +18179,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#2BA471"
+        css: "#2BA471"
         flutter: "0xFF2BA471"
         source: "rd/success-color -> rd/success-color/5"
     notes:
@@ -16645,6 +18202,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E3F9E9"
+        css: "#E3F9E9"
         flutter: "0xFFE3F9E9"
         source: "rd/success-color/1"
     notes:
@@ -16667,6 +18225,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#E37318"
+        css: "#E37318"
         flutter: "0xFFE37318"
         source: "rd/warning-color -> rd/warning-color/5"
     notes:
@@ -16689,6 +18248,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFF1E9"
+        css: "#FFF1E9"
         flutter: "0xFFFFF1E9"
         source: "rd/warning-color/1"
     notes:
@@ -16711,6 +18271,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -16733,6 +18294,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#DCDCDC"
+        css: "#DCDCDC"
         flutter: "0xFFDCDCDC"
         source: "rd/component-border -> rd/gray-color/4"
     notes:
@@ -16755,6 +18317,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -16777,6 +18340,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -16799,6 +18363,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -16821,6 +18386,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -16843,6 +18409,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -16865,6 +18432,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000099"
+        css: "#00000099"
         flutter: "0x99000000"
         source: "rd/mask-active"
     notes:
@@ -16887,6 +18455,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/text-color/anti -> rd/font-white/1"
     notes:
@@ -16909,6 +18478,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "rd/bg-color/container -> rd/font-white/1"
     notes:
@@ -16931,6 +18501,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#000000E5"
+        css: "#000000E5"
         flutter: "0xE5000000"
         source: "rd/text-color/primary -> rd/font-gray/1"
     notes:
@@ -16953,6 +18524,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#4E39F2"
+        css: "#4E39F2"
         flutter: "0xFF4E39F2"
         source: "rd/brand-color -> rd/brand-color/6"
     notes:
@@ -16975,6 +18547,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000042"
+        css: "#00000042"
         flutter: "0x42000000"
         source: "rd/text-color/disabled -> rd/font-gray/4"
     notes:
@@ -16997,6 +18570,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -17019,6 +18593,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -17041,6 +18616,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#00000066"
+        css: "#00000066"
         flutter: "0x66000000"
         source: "rd/text-color/placeholder -> rd/font-gray/3"
     notes:
@@ -17063,6 +18639,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#F3F3F3"
+        css: "#F3F3F3"
         flutter: "0xFFF3F3F3"
         source: "rd/upload/add-bg-color -> rd/bg-color/secondarycontainer -> rd/gray-color/1"
     notes:
@@ -17085,6 +18662,7 @@ token_entries:
     values_by_mode:
       Value:
         value: "#FFFFFF"
+        css: "#FFFFFF"
         flutter: "0xFFFFFFFF"
         source: "direct"
     notes:
@@ -17092,69 +18670,6 @@ token_entries:
     fallback:
       allowed: false
       value: "#FFFFFF"
-  - token_id: "number_component_rd_avatar_border_width_large"
-    semantic_name: "Component / rd/avatar/border/width-large"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarBorderWidthLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5efb625880eb36e945c7af734dba005de590e7a6"
-      name: "Component / rd/avatar/border/width-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 3
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 3
-  - token_id: "number_component_rd_avatar_border_width_medium"
-    semantic_name: "Component / rd/avatar/border/width-medium"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarBorderWidthMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ad54bd3bb6d6c344b36467a1c5bfc29c4e544d64"
-      name: "Component / rd/avatar/border/width-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 2
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 2
-  - token_id: "number_component_rd_avatar_border_width_small"
-    semantic_name: "Component / rd/avatar/border/width-small"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarBorderWidthSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a48fec15ebb53c34f3e95b5988213d408f2ba5b2"
-      name: "Component / rd/avatar/border/width-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 1
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 1
   - token_id: "number_component_rd_back_top_fixed_right"
     semantic_name: "Component / rd/back-top/fixed/right"
     category: "number"
@@ -17169,1546 +18684,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8"
+        css: "8"
         source: "rd/spacer-3"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
-  - token_id: "number_component_rd_badge_basic_height"
-    semantic_name: "Component / rd/badge/basic-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBadgeBasicHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c2d8065c777290baacf200fc05930746179d2e0f"
-      name: "Component / rd/badge/basic-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_badge_basic_padding"
-    semantic_name: "Component / rd/badge/basic-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBadgeBasicPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f728bf807e2f8e8980802a3bf534ed558f323a60"
-      name: "Component / rd/badge/basic-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_badge_basic_width"
-    semantic_name: "Component / rd/badge/basic-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBadgeBasicWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2ded22a0eda88d11d58400039d0311f602fe0a62"
-      name: "Component / rd/badge/basic-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_badge_dot_size"
-    semantic_name: "Component / rd/badge/dot-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBadgeDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ec4aa678715770ac954f1231ee9edb1e093b98cd"
-      name: "Component / rd/badge/dot-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_badge_large_height"
-    semantic_name: "Component / rd/badge/large/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBadgeLargeHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "183eaf2763c10df96d1f93145b872b09ff82c01f"
-      name: "Component / rd/badge/large/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_badge_large_padding"
-    semantic_name: "Component / rd/badge/large/padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBadgeLargePadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5ce30a36970df91845db07122e8a87a1f0471bb2"
-      name: "Component / rd/badge/large/padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 5
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 5
-  - token_id: "number_component_rd_button_border_width"
-    semantic_name: "Component / rd/button/border-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonBorderWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cd2c1e80f0b1e891553cda9e79ff2c16b094684f"
-      name: "Component / rd/button/border-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 2
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 2
-  - token_id: "number_component_rd_cascader_options_height"
-    semantic_name: "Component / rd/cascader/options-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCascaderOptionsHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0661d933ecd16b434cd6047f1e3803c3f1345bc2"
-      name: "Component / rd/cascader/options-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 320
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 320
-  - token_id: "number_component_rd_cascader_step_dot_size"
-    semantic_name: "Component / rd/cascader/step/dot-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCascaderStepDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "60d0520c3047438fb86b1ff1815cadcd5a962bc1"
-      name: "Component / rd/cascader/step/dot-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_cascader_step_height"
-    semantic_name: "Component / rd/cascader/step/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCascaderStepHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c2bc26d857d4975f8a6a7ef45c56c961e05262ce"
-      name: "Component / rd/cascader/step/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 44
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 44
-  - token_id: "number_component_rd_cascader_title_padding"
-    semantic_name: "Component / rd/cascader/title-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCascaderTitlePadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "da0374b9ddcd0f0b20eccdcb1f49d3b0ee409e04"
-      name: "Component / rd/cascader/title-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/spacer-5"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_cell_group_title_line_height"
-    semantic_name: "Component / rd/cell-group/title/line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellGroupTitleLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a84633b42ddc2d79fd81551a6250e459593a1909"
-      name: "Component / rd/cell-group/title/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 45
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 45
-  - token_id: "number_component_rd_cell_group_title_padding_left"
-    semantic_name: "Component / rd/cell-group/title/padding-left"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellGroupTitlePaddingLeft"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9b36d962d3d162a1f523e8c745c5dda3ef1e861a"
-      name: "Component / rd/cell-group/title/padding-left"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_cell_horizontal_padding"
-    semantic_name: "Component / rd/cell/horizontal-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellHorizontalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a394e685b9e881a087a95127b764c9c5bcc5a233"
-      name: "Component / rd/cell/horizontal-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_cell_image_height"
-    semantic_name: "Component / rd/cell/image/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellImageHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1a51d04b71fa61aa72a222a3188a87c59f2019c2"
-      name: "Component / rd/cell/image/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_cell_image_width"
-    semantic_name: "Component / rd/cell/image/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellImageWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f703c6f9bac37238e9555d5f138b122db3148e61"
-      name: "Component / rd/cell/image/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_cell_left_icon_size"
-    semantic_name: "Component / rd/cell/left-icon/size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellLeftIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6ce3eb70a9c95ad294fd91d361efb53483fb646b"
-      name: "Component / rd/cell/left-icon/size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_cell_right_icon_size"
-    semantic_name: "Component / rd/cell/right-icon/size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellRightIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e5b101eec8360ab3583e30af730a62e20b1d3ea1"
-      name: "Component / rd/cell/right-icon/size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_cell_vertical_padding"
-    semantic_name: "Component / rd/cell/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "76b547ec493fe69d1aa48f5b949a395a0a3ecb9b"
-      name: "Component / rd/cell/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_checkbox_border_width"
-    semantic_name: "Component / rd/checkbox/border-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCheckboxBorderWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c458a33e47c24586c9df92076661684a9f2de739"
-      name: "Component / rd/checkbox/border-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 3
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 3
-  - token_id: "number_component_rd_checkbox_icon_size"
-    semantic_name: "Component / rd/checkbox/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCheckboxIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "51376ec6985404916c7cc4beb200e9c667b8cc49"
-      name: "Component / rd/checkbox/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_checkbox_title_line_height"
-    semantic_name: "Component / rd/checkbox/title-line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCheckboxTitleLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c49300a642164f4296bab845409f880b8a52ed77"
-      name: "Component / rd/checkbox/title-line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_checkbox_vertical_padding"
-    semantic_name: "Component / rd/checkbox/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCheckboxVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6033629fc2c54db0215e1ec7d2fa8ac0bdd6a3c8"
-      name: "Component / rd/checkbox/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/spacer-5"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_collapse_content_padding"
-    semantic_name: "Component / rd/collapse/content-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCollapseContentPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c0b337bbf2e6dfbbdf7e9077fdf3acc06502aef6"
-      name: "Component / rd/collapse/content-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_color_picker_gradient_preview_height"
-    semantic_name: "Component / rd/color-picker/gradient-preview/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerGradientPreviewHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8ab58405be687a3acc951c26f62c408f175d44a0"
-      name: "Component / rd/color-picker/gradient-preview/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "number_component_rd_color_picker_gradient_preview_width"
-    semantic_name: "Component / rd/color-picker/gradient-preview/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerGradientPreviewWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "29f7185d46fd6c9c444cdc40aab984a9d927a643"
-      name: "Component / rd/color-picker/gradient-preview/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "number_component_rd_color_picker_input_format_margin_left"
-    semantic_name: "Component / rd/color-picker/input-format-margin-left"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerInputFormatMarginLeft"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ec618d510029a18642cf191920f444df29aa8f13"
-      name: "Component / rd/color-picker/input-format-margin-left"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_color_picker_panel_padding"
-    semantic_name: "Component / rd/color-picker/panel/padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerPanelPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "48e916dd6616c129c2b2ef0ece1d9c49f5c8ba84"
-      name: "Component / rd/color-picker/panel/padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_color_picker_panel_width"
-    semantic_name: "Component / rd/color-picker/panel/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerPanelWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2c1545a1d3adf982ef3eaadb13584c04a302c3b3"
-      name: "Component / rd/color-picker/panel/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 375
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 375
-  - token_id: "number_component_rd_color_picker_saturation_height"
-    semantic_name: "Component / rd/color-picker/saturation/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSaturationHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "74c5d78de227b5c3afe23d47a749b6523bfcac5f"
-      name: "Component / rd/color-picker/saturation/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 144
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 144
-  - token_id: "number_component_rd_color_picker_saturation_thumb_size"
-    semantic_name: "Component / rd/color-picker/saturation/thumb-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSaturationThumbSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8449d1429b52be730ded17a20677ba6d81772a89"
-      name: "Component / rd/color-picker/saturation/thumb-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_color_picker_slider_height"
-    semantic_name: "Component / rd/color-picker/slider/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSliderHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5d2d657739ea8460f3e7e250b6a26dfc9b919fe9"
-      name: "Component / rd/color-picker/slider/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_color_picker_slider_thumb_padding"
-    semantic_name: "Component / rd/color-picker/slider/thumb-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSliderThumbPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c19fd534acd4da48b0ab03283cdef102e6307492"
-      name: "Component / rd/color-picker/slider/thumb-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 3
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 3
-  - token_id: "number_component_rd_color_picker_slider_thumb_size"
-    semantic_name: "Component / rd/color-picker/slider/thumb-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSliderThumbSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1827dc48bfb92125bf3ce554d1a210b0fff1de47"
-      name: "Component / rd/color-picker/slider/thumb-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_color_picker_swatch_height"
-    semantic_name: "Component / rd/color-picker/swatch/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSwatchHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "46d7e40aa40c1920c4ea1d5575c37d36d8a320cd"
-      name: "Component / rd/color-picker/swatch/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_color_picker_swatch_padding"
-    semantic_name: "Component / rd/color-picker/swatch/padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSwatchPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b4b2df0e7c2e86a1f257955cddb7b0e9dd8365e1"
-      name: "Component / rd/color-picker/swatch/padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 0
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 0
-  - token_id: "number_component_rd_color_picker_swatch_width"
-    semantic_name: "Component / rd/color-picker/swatch/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdColorPickerSwatchWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cb35bc263a18d06e4556f6141e5dd4beee26078a"
-      name: "Component / rd/color-picker/swatch/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_countdown_large_bg_width"
-    semantic_name: "Component / rd/countdown/large/bg-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeBgWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "078e24873cac60f3a24529c1ca160c63f6f1bad8"
-      name: "Component / rd/countdown/large/bg-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "number_component_rd_countdown_large_no_unit_margin"
-    semantic_name: "Component / rd/countdown/large/no-unit-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeNoUnitMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "71d180ce430700e189685b81ffbf8c8d58908d33"
-      name: "Component / rd/countdown/large/no-unit-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_countdown_large_unit_margin"
-    semantic_name: "Component / rd/countdown/large/unit-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeUnitMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "85e06e2460c89640129d16551006b815de491967"
-      name: "Component / rd/countdown/large/unit-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_countdown_medium_bg_width"
-    semantic_name: "Component / rd/countdown/medium/bg-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumBgWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5e1330a314a79d2f4b5685216410cbfab7211ffb"
-      name: "Component / rd/countdown/medium/bg-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_countdown_medium_no_unit_margin"
-    semantic_name: "Component / rd/countdown/medium/no-unit-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumNoUnitMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7555842e652884b7d34c65bb98176bc1895cb18c"
-      name: "Component / rd/countdown/medium/no-unit-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 3
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 3
-  - token_id: "number_component_rd_countdown_medium_unit_margin"
-    semantic_name: "Component / rd/countdown/medium/unit-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumUnitMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f6923f100be8ba30ab2ecb42123a2eac946e3b55"
-      name: "Component / rd/countdown/medium/unit-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 5
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 5
-  - token_id: "number_component_rd_countdown_small_bg_width"
-    semantic_name: "Component / rd/countdown/small/bg-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallBgWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "78efe70e626b34c1f84ec591fb8accbc1294013a"
-      name: "Component / rd/countdown/small/bg-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_countdown_small_no_unit_margin"
-    semantic_name: "Component / rd/countdown/small/no-unit-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallNoUnitMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "173b8faf5a7e2750f3e96e56bd3c580be2865600"
-      name: "Component / rd/countdown/small/no-unit-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 2
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 2
-  - token_id: "number_component_rd_countdown_small_unit_margin"
-    semantic_name: "Component / rd/countdown/small/unit-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallUnitMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7b4a17b35d7855b5288dd33b506c14c48c23e0ce"
-      name: "Component / rd/countdown/small/unit-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_data_time_picker_year_width"
-    semantic_name: "Component / rd/data-time-picker/year-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDataTimePickerYearWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5c47dc5da6c85f61a01fccf165f7ff6c262f5af1"
-      name: "Component / rd/data-time-picker/year-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 64
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 64
-  - token_id: "number_component_rd_dialog_body_max_height"
-    semantic_name: "Component / rd/dialog/body-max-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDialogBodyMaxHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c250cffa2fb0a9adef8c7dd4d8a49004379edd78"
-      name: "Component / rd/dialog/body-max-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 456
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 456
-  - token_id: "number_component_rd_dialog_close_icon_size"
-    semantic_name: "Component / rd/dialog/close/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDialogCloseIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c9d91c1995fec743ed3f44f65c0b9cf8d17e2880"
-      name: "Component / rd/dialog/close/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_dialog_width"
-    semantic_name: "Component / rd/dialog/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDialogWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2406d7340d91dd9eeb4bfc808cc2d0a3e01a0f89"
-      name: "Component / rd/dialog/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 311
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 311
-  - token_id: "number_component_rd_divider_border_width"
-    semantic_name: "Component / rd/divider/border-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDividerBorderWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d54d18c2e73f355a4c896ca63adba9d6f35fc119"
-      name: "Component / rd/divider/border-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 1
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 1
-  - token_id: "number_component_rd_divider_content_margin"
-    semantic_name: "Component / rd/divider/content/margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDividerContentMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cc1db7135a8d133decc4209304f2c035e0474d4a"
-      name: "Component / rd/divider/content/margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/spacer-4"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_divider_horizontal_margin"
-    semantic_name: "Component / rd/divider/horizontal-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDividerHorizontalMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cabef7b3fc59a9df092c41c001d5179b60802803"
-      name: "Component / rd/divider/horizontal-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 10
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 10
-  - token_id: "number_component_rd_divider_vertical_margin"
-    semantic_name: "Component / rd/divider/vertical-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDividerVerticalMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8c04efb50ba00f4c9a7b4827d52eb7563386e151"
-      name: "Component / rd/divider/vertical-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "rd/spacer-3"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_drawer_footer_padding_bottom"
-    semantic_name: "Component / rd/drawer/footer-padding-bottom"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDrawerFooterPaddingBottom"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1ef0cb9797b762c9d266dbb5a3a47ddd9f6f037b"
-      name: "Component / rd/drawer/footer-padding-bottom"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_drawer_item_icon_size"
-    semantic_name: "Component / rd/drawer/item-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDrawerItemIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "93ce14babfaacf0cef9df35470f8caaf3a167e1f"
-      name: "Component / rd/drawer/item-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_drawer_item_padding"
-    semantic_name: "Component / rd/drawer/item-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDrawerItemPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a2716a9287374ff25e14db5e867f4a5d3347d782"
-      name: "Component / rd/drawer/item-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_drawer_sidebar_height"
-    semantic_name: "Component / rd/drawer/sidebar-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDrawerSidebarHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c6e5c0ed61d727828f428c19107d9028f77a068e"
-      name: "Component / rd/drawer/sidebar-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 70
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 70
-  - token_id: "number_component_rd_drawer_width"
-    semantic_name: "Component / rd/drawer/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDrawerWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a9697ca2529ebb73f1fed63a819dcd65f7452de7"
-      name: "Component / rd/drawer/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 280
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 280
-  - token_id: "number_component_rd_dropdown_body_max_height"
-    semantic_name: "Component / rd/dropdown/body-max-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDropdownBodyMaxHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2648e5bf022cd65f2c2f0018cb2d682c557cad57"
-      name: "Component / rd/dropdown/body-max-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 280
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 280
-  - token_id: "number_component_rd_dropdown_menu_icon_size"
-    semantic_name: "Component / rd/dropdown/menu/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdDropdownMenuIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6c5a641aba0bdb67079e46107362cdc2e8e09b43"
-      name: "Component / rd/dropdown/menu/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_empty_action_margin_top"
-    semantic_name: "Component / rd/empty/action-margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdEmptyActionMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "76650e4097cc70f3e6450e22602ff29e9a1c3189"
-      name: "Component / rd/empty/action-margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "rd/spacer-7"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "number_component_rd_empty_description_margin_top"
-    semantic_name: "Component / rd/empty/description/margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdEmptyDescriptionMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c6f29c8fdfe39ec93ecc654f7d8b65b5addbf23b"
-      name: "Component / rd/empty/description/margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/spacer-5"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_empty_icon_size"
-    semantic_name: "Component / rd/empty/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdEmptyIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7bf73e98f36cfbdc489a6405ffec15f1138c4601"
-      name: "Component / rd/empty/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 96
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 96
-  - token_id: "number_component_rd_footer_link_dividing_line_padding"
-    semantic_name: "Component / rd/footer/link/dividing-line-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFooterLinkDividingLinePadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e0b694cd4b44c7b855932c4726f30fbc9908e5c6"
-      name: "Component / rd/footer/link/dividing-line-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/spacer-4"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_footer_logo_icon_height"
-    semantic_name: "Component / rd/footer/logo/icon/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFooterLogoIconHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "782931bbbef5b4e5a01b5eeaccd9c5b7f8d97b17"
-      name: "Component / rd/footer/logo/icon/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_footer_logo_icon_margin_right"
-    semantic_name: "Component / rd/footer/logo/icon/margin-right"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFooterLogoIconMarginRight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e3a888ddc11500e4e6d2fa720b026f0035f5017a"
-      name: "Component / rd/footer/logo/icon/margin-right"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "rd/spacer-3"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_footer_logo_icon_width"
-    semantic_name: "Component / rd/footer/logo/icon/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFooterLogoIconWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f79937a95eecbac9925201cbf58ce60d1e8e32b1"
-      name: "Component / rd/footer/logo/icon/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_footer_logo_title_url_width"
-    semantic_name: "Component / rd/footer/logo/title/url-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFooterLogoTitleUrlWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7bfdb7a355671774fe3ec691825e2da827054bfb"
-      name: "Component / rd/footer/logo/title/url-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 128
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 128
-  - token_id: "number_component_rd_footer_text_margin_top"
-    semantic_name: "Component / rd/footer/text/margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFooterTextMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3f2469c01ccd58ee54afa4c6b200c93555cd0611"
-      name: "Component / rd/footer/text/margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_form_item_horizontal_padding"
-    semantic_name: "Component / rd/form/item/horizontal-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFormItemHorizontalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "157ecce077b8cd7e088a7c8c4920c790645e6d60"
-      name: "Component / rd/form/item/horizontal-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_form_item_vertical_padding"
-    semantic_name: "Component / rd/form/item/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdFormItemVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "66a9ae186741aaffc97b1080c17e118ba2bca264"
-      name: "Component / rd/form/item/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_grid_item_description_padding_top"
-    semantic_name: "Component / rd/grid/item/description/padding-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemDescriptionPaddingTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d6b860d8dcce7b3c1677fbd91dfe4c5be2031949"
-      name: "Component / rd/grid/item/description/padding-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
+      value: "8"
   - token_id: "number_component_rd_grid_item_horizontal_text_description_top"
     semantic_name: "Component / rd/grid/item/horizontal/text-description-top"
     category: "number"
@@ -18723,391 +18706,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 2
+        value: "2"
+        css: "2"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
-  - token_id: "number_component_rd_grid_item_horizontal_text_padding_left"
-    semantic_name: "Component / rd/grid/item/horizontal/text-padding-left"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemHorizontalTextPaddingLeft"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6cdeabe8b9311628256647e19473a781f60385ee"
-      name: "Component / rd/grid/item/horizontal/text-padding-left"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_grid_item_icon_size"
-    semantic_name: "Component / rd/grid/item/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "963d57e15b135c76954efa1ac926c72a62709ed7"
-      name: "Component / rd/grid/item/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_grid_item_image_middle_width"
-    semantic_name: "Component / rd/grid/item/image-middle-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemImageMiddleWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "732896c77766b863414c684e756a2d8e579799be"
-      name: "Component / rd/grid/item/image-middle-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 40
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 40
-  - token_id: "number_component_rd_grid_item_image_small_width"
-    semantic_name: "Component / rd/grid/item/image-small-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemImageSmallWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "144af0a6ed874cfd18213a1fea8001895174e7e7"
-      name: "Component / rd/grid/item/image-small-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "number_component_rd_grid_item_image_width"
-    semantic_name: "Component / rd/grid/item/image/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemImageWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "781d59897bd22d502499274595344561ba97b62c"
-      name: "Component / rd/grid/item/image/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_grid_item_text_padding_top"
-    semantic_name: "Component / rd/grid/item/text/padding-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGridItemTextPaddingTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ed2e118a5579a804aa469be8d740fa0a31f1fd21"
-      name: "Component / rd/grid/item/text/padding-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_guide_action_margin_right"
-    semantic_name: "Component / rd/guide/action-margin-right"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGuideActionMarginRight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1c8168deda344e6aa197067d560bb2f1ffbd2095"
-      name: "Component / rd/guide/action-margin-right"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_guide_dialog_desc_margin_top"
-    semantic_name: "Component / rd/guide/dialog/desc-margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGuideDialogDescMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1763a2d53147a4ed1ac0b34a21a42bf1b24e407c"
-      name: "Component / rd/guide/dialog/desc-margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_guide_footer_popover_margin_top"
-    semantic_name: "Component / rd/guide/footer/popover-margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGuideFooterPopoverMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6dd715067584566c64a7d86a364ddf64070cd4e7"
-      name: "Component / rd/guide/footer/popover-margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_guide_popover_content_padding"
-    semantic_name: "Component / rd/guide/popover/content-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGuidePopoverContentPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "90db2c17b6419f2a2986ec3388090f9b10247a97"
-      name: "Component / rd/guide/popover/content-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_guide_popover_margin_top"
-    semantic_name: "Component / rd/guide/popover/margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGuidePopoverMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d732d96955462d91d25376875dbf761f458d1f83"
-      name: "Component / rd/guide/popover/margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_guide_tooltip_desc_margin_top"
-    semantic_name: "Component / rd/guide/tooltip/desc-margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdGuideTooltipDescMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5a5e56c95ec4148c48ccfb3a931bf05e8d5bfb3c"
-      name: "Component / rd/guide/tooltip/desc-margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_image_viewer_close_margin_left"
-    semantic_name: "Component / rd/image-viewer/close/margin-left"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdImageViewerCloseMarginLeft"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f8905bf632ab45a3e5c45333fe0a8873f0329d39"
-      name: "Component / rd/image-viewer/close/margin-left"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/spacer-4"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_image_viewer_delete_margin_right"
-    semantic_name: "Component / rd/image-viewer/delete/margin-right"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdImageViewerDeleteMarginRight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "dadf12e002e9b46103ee14ce5fd0347690ddadc8"
-      name: "Component / rd/image-viewer/delete/margin-right"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/spacer-4"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_image_viewer_icon_size"
-    semantic_name: "Component / rd/image-viewer/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdImageViewerIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "68e7f7badd28b6301e3c5255c43ac4bf0a5c1db8"
-      name: "Component / rd/image-viewer/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_image_viewer_nav_height"
-    semantic_name: "Component / rd/image-viewer/nav/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdImageViewerNavHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "500340e4873c292c7c189297dfcfe559700e5b0b"
-      name: "Component / rd/image-viewer/nav/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_indexes_sidebar_item_size"
-    semantic_name: "Component / rd/indexes/sidebar/item-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdIndexesSidebarItemSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a850a3c36e8ee0e1f47d222c07217965e6fb7403"
-      name: "Component / rd/indexes/sidebar/item-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_indexes_sidebar_line_height"
-    semantic_name: "Component / rd/indexes/sidebar/line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdIndexesSidebarLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1eef35e29452b9b0028dafea7ca82df85f2cb307"
-      name: "Component / rd/indexes/sidebar/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
+      value: "2"
   - token_id: "number_component_rd_indexes_sidebar_right"
     semantic_name: "Component / rd/indexes/sidebar/right"
     category: "number"
@@ -19122,13 +18728,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8"
+        css: "8"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8"
   - token_id: "number_component_rd_indexes_sidebar_tips_right"
     semantic_name: "Component / rd/indexes/sidebar/tips/right"
     category: "number"
@@ -19143,286 +18750,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 38
+        value: "38"
+        css: "38"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 38
-  - token_id: "number_component_rd_indexes_sidebar_tips_size"
-    semantic_name: "Component / rd/indexes/sidebar/tips/size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdIndexesSidebarTipsSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "92b17e9d34e529b972c021592ac740705d1c2ce7"
-      name: "Component / rd/indexes/sidebar/tips/size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_input_label_text_max_width"
-    semantic_name: "Component / rd/input/label/text-max-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdInputLabelTextMaxWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "73162cea35d298c81f83e52db1247d64e28188c9"
-      name: "Component / rd/input/label/text-max-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 80
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 80
-  - token_id: "number_component_rd_input_vertical_padding"
-    semantic_name: "Component / rd/input/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdInputVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d6135102b3482b01a86b6e0d929db74af60e67fd"
-      name: "Component / rd/input/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_link_icon_margin"
-    semantic_name: "Component / rd/link/icon/margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdLinkIconMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a949841342ae1385a02794c86f4feb2ee9827740"
-      name: "Component / rd/link/icon/margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_message_height"
-    semantic_name: "Component / rd/message/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdMessageHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "10361ee8ba63c30553708713556898be5ebf5a63"
-      name: "Component / rd/message/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_message_horizontal_padding"
-    semantic_name: "Component / rd/message/horizontal-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdMessageHorizontalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3f8cd619d96d067184e6d8645d5aeaeed0a9ffe4"
-      name: "Component / rd/message/horizontal-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_message_icon_size"
-    semantic_name: "Component / rd/message/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdMessageIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "769f11b52e53826415fb77c97a18e12ce31f412b"
-      name: "Component / rd/message/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_message_vertical_padding"
-    semantic_name: "Component / rd/message/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdMessageVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c85770c89203e7689c34975688d41b8f7a711ebd"
-      name: "Component / rd/message/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_navbar_capsule_height"
-    semantic_name: "Component / rd/navbar/capsule/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNavbarCapsuleHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0c298d30dff9c146f3fb45606f026fa7db9ef93f"
-      name: "Component / rd/navbar/capsule/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "number_component_rd_navbar_capsule_width"
-    semantic_name: "Component / rd/navbar/capsule/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNavbarCapsuleWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "11550d81d0a6be1649ab5f699006cd66ab836fd2"
-      name: "Component / rd/navbar/capsule/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 88
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 88
-  - token_id: "number_component_rd_navbar_height"
-    semantic_name: "Component / rd/navbar/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNavbarHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8aeb3488c821ab28f25da024f8ddef920472421f"
-      name: "Component / rd/navbar/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_navbar_left_arrow_size"
-    semantic_name: "Component / rd/navbar/left-arrow-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNavbarLeftArrowSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0918d0ef38e6878f381441a79ab8367858b200a9"
-      name: "Component / rd/navbar/left-arrow-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_navbar_padding_top"
-    semantic_name: "Component / rd/navbar/padding-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNavbarPaddingTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d2b6924620b603f74edadcd72996f128c3b795e6"
-      name: "Component / rd/navbar/padding-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 0
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 0
+      value: "38"
   - token_id: "number_component_rd_navbar_right"
     semantic_name: "Component / rd/navbar/right"
     category: "number"
@@ -19437,454 +18772,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 95
+        value: "95"
+        css: "95"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 95
-  - token_id: "number_component_rd_notice_bar_horizontal_padding"
-    semantic_name: "Component / rd/notice-bar/horizontal-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNoticeBarHorizontalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8761bf9e9046e982b7264a83cc4edc5847d10414"
-      name: "Component / rd/notice-bar/horizontal-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_notice_bar_icon_size"
-    semantic_name: "Component / rd/notice-bar/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNoticeBarIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7482c86dffbc09c8b8ba7b6dbf4def1f486c6460"
-      name: "Component / rd/notice-bar/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_notice_bar_line_height"
-    semantic_name: "Component / rd/notice-bar/line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNoticeBarLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9678789ac73faee7955593879ee7b3c65ffe5c83"
-      name: "Component / rd/notice-bar/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_notice_bar_vertical_padding"
-    semantic_name: "Component / rd/notice-bar/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdNoticeBarVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0fc526f6e6acd6f51d7c09c2075a7e8a728eae75"
-      name: "Component / rd/notice-bar/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 13
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 13
-  - token_id: "number_component_rd_picker_group_height"
-    semantic_name: "Component / rd/picker/group-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPickerGroupHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "56a752942f28916d29db72e1f9c2a30a2849f798"
-      name: "Component / rd/picker/group-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 200
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 200
-  - token_id: "number_component_rd_picker_item_height"
-    semantic_name: "Component / rd/picker/item-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPickerItemHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "bd761bb2f56e601f104e43d5d19d82adf79e62f1"
-      name: "Component / rd/picker/item-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 40
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 40
-  - token_id: "number_component_rd_picker_toolbar_height"
-    semantic_name: "Component / rd/picker/toolbar-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPickerToolbarHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "088efc1f7bec13bc8db58814b883a99e199e0b1c"
-      name: "Component / rd/picker/toolbar-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 58
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 58
-  - token_id: "number_component_rd_popover_arrow_height"
-    semantic_name: "Component / rd/popover/arrow-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverArrowHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "316e8088b9da82c3e217d666c1521d4f6a806189"
-      name: "Component / rd/popover/arrow-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_popover_arrow_width"
-    semantic_name: "Component / rd/popover/arrow-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverArrowWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "25c269d4e6ab721d1b688d51e32194cb608ef3c1"
-      name: "Component / rd/popover/arrow-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_popover_content_arrow_margin"
-    semantic_name: "Component / rd/popover/content-arrow-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverContentArrowMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "fc13884ed8dc15a6f74483e16e136529c645ccb6"
-      name: "Component / rd/popover/content-arrow-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_popover_content_line_height"
-    semantic_name: "Component / rd/popover/content-line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverContentLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6bcea538fec7fe480335e64f1636575b67ff2460"
-      name: "Component / rd/popover/content-line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_popover_content_margin"
-    semantic_name: "Component / rd/popover/content-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverContentMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e7bd9e878cdb00c0c247441e9afe9267b39b61d2"
-      name: "Component / rd/popover/content-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_popover_padding"
-    semantic_name: "Component / rd/popover/padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9f1e125cc511351ac8d6764215a79c450f067832"
-      name: "Component / rd/popover/padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_progress_circle_icon_size"
-    semantic_name: "Component / rd/progress/circle-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdProgressCircleIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "da4e04d45b7f2765fe8e914d594b2b1f98e01480"
-      name: "Component / rd/progress/circle-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_progress_circle_width"
-    semantic_name: "Component / rd/progress/circle-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdProgressCircleWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "436660a156c3954a09780d0a1009356f8fdb947f"
-      name: "Component / rd/progress/circle-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 112
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 112
-  - token_id: "number_component_rd_progress_line_icon_size"
-    semantic_name: "Component / rd/progress/line-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdProgressLineIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c6ee13ab2bffadcc77c0f42cb9a23d075fc4d440"
-      name: "Component / rd/progress/line-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_progress_line_stroke_width"
-    semantic_name: "Component / rd/progress/line-stroke-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdProgressLineStrokeWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2df79e6110e7cae9002a41b3c67dcb7444bea6f7"
-      name: "Component / rd/progress/line-stroke-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_progress_stroke_circle_width"
-    semantic_name: "Component / rd/progress/stroke-circle-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdProgressStrokeCircleWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "933f23386a3f0fd8f04675dae5727eba84f38699"
-      name: "Component / rd/progress/stroke-circle-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_progress_stroke_plump_width"
-    semantic_name: "Component / rd/progress/stroke-plump-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdProgressStrokePlumpWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "90903832222e21390e26c01cfb37c6995789b7c9"
-      name: "Component / rd/progress/stroke-plump-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_qrcode_line_height"
-    semantic_name: "Component / rd/qrcode/line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdQrcodeLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a0ce2d16ce6622f2b51b1d72f1fbdb41a7107e59"
-      name: "Component / rd/qrcode/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_qrcode_mask_inner_btn_height"
-    semantic_name: "Component / rd/qrcode/mask-inner-btn-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdQrcodeMaskInnerBtnHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3a5559e6370ace91ca5c0c83d39067d86936fed1"
-      name: "Component / rd/qrcode/mask-inner-btn-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
+      value: "95"
   - token_id: "number_component_rd_qrcode_mask_inner_gap"
     semantic_name: "Component / rd/qrcode/mask-inner-gap"
     category: "number"
@@ -19899,1609 +18794,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8"
+        css: "8"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
-  - token_id: "number_component_rd_qrcode_padding"
-    semantic_name: "Component / rd/qrcode/padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdQrcodePadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f24072410d2bfedadd7ce987f0d6ee1bebd00fe1"
-      name: "Component / rd/qrcode/padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_radio_icon_size"
-    semantic_name: "Component / rd/radio/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdRadioIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5cf7c4912104282833ea5f2c20c19b602c53fda5"
-      name: "Component / rd/radio/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_radio_label_line_height"
-    semantic_name: "Component / rd/radio/label-line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdRadioLabelLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ff075729763d0d36afce33c30881aaf16482a678"
-      name: "Component / rd/radio/label-line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_radio_vertical_padding"
-    semantic_name: "Component / rd/radio/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdRadioVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9c28eab541ac6d5f18d4806bb88d52ca479c655e"
-      name: "Component / rd/radio/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_result_description_margin_top"
-    semantic_name: "Component / rd/result/description/margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdResultDescriptionMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d3b2044a41fe3e05a7a6abc6a9ac27800a54dbc2"
-      name: "Component / rd/result/description/margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "rd/spacer-3"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_result_icon_size"
-    semantic_name: "Component / rd/result/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdResultIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c152c49700d752ba8d798bb416b00ba47bf8a242"
-      name: "Component / rd/result/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 80
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 80
-  - token_id: "number_component_rd_result_title_margin_top"
-    semantic_name: "Component / rd/result/title/margin-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdResultTitleMarginTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "86123038a9d74610e1ba47a8dd11c22d22cf6c96"
-      name: "Component / rd/result/title/margin-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/spacer-4"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_search_clear_icon_size"
-    semantic_name: "Component / rd/search/clear-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSearchClearIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d706ac995a01a47677064521868061f9d5c11e10"
-      name: "Component / rd/search/clear-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_search_height"
-    semantic_name: "Component / rd/search/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSearchHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5c4890abd7a185d2ae3487d8e4fc9fb4c57cfbb6"
-      name: "Component / rd/search/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 40
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 40
-  - token_id: "number_component_rd_search_icon_size"
-    semantic_name: "Component / rd/search/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSearchIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c0c12bf46b7317a08de451fbf1a4a16d3edfec27"
-      name: "Component / rd/search/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_side_bar_icon_size"
-    semantic_name: "Component / rd/side-bar/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSideBarIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e6a90686306648685a271be4519a84f3a7e608ae"
-      name: "Component / rd/side-bar/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_side_bar_item_height"
-    semantic_name: "Component / rd/side-bar/item-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSideBarItemHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f33ed23860382fbc64e67f5851ed76188f3c5ed2"
-      name: "Component / rd/side-bar/item-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 56
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 56
-  - token_id: "number_component_rd_side_bar_item_padding"
-    semantic_name: "Component / rd/side-bar/item-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSideBarItemPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "90a56afa25c6b85cf8a97342afa88e126b6df35c"
-      name: "Component / rd/side-bar/item-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/spacer-5"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_side_bar_width"
-    semantic_name: "Component / rd/side-bar/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSideBarWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "442064655c2d98b2ea40e9b595cb10317c55a1de"
-      name: "Component / rd/side-bar/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 103
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 103
-  - token_id: "number_component_rd_skeleton_circle_height"
-    semantic_name: "Component / rd/skeleton/circle/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSkeletonCircleHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ec22455138e08fcffb6fdddf8fd718e27371fdab"
-      name: "Component / rd/skeleton/circle/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_skeleton_rect_height"
-    semantic_name: "Component / rd/skeleton/rect/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSkeletonRectHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "479dc4fb0040d5e91cb88a23fe225e6b8b8785ec"
-      name: "Component / rd/skeleton/rect/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_skeleton_text_height"
-    semantic_name: "Component / rd/skeleton/text/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSkeletonTextHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "49f87af70cf06657054519d09788410d9ccef4dc"
-      name: "Component / rd/skeleton/text/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_slider_bar_height"
-    semantic_name: "Component / rd/slider/bar-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSliderBarHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c82fc090086e49744ad8703a51422c45f6b9e9d0"
-      name: "Component / rd/slider/bar-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_slider_bar_width"
-    semantic_name: "Component / rd/slider/bar-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSliderBarWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "833156c8ca67b5f88a13b50a81d9022b0777c7e7"
-      name: "Component / rd/slider/bar-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_slider_capsule_bar_height"
-    semantic_name: "Component / rd/slider/capsule/bar-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSliderCapsuleBarHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6aff6ef109e1cfe82229c2921348e4f6a82f29b6"
-      name: "Component / rd/slider/capsule/bar-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_slider_capsule_bar_width"
-    semantic_name: "Component / rd/slider/capsule/bar-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSliderCapsuleBarWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "537d70a1c7e3aebc262551e20a6aadef27eeca17"
-      name: "Component / rd/slider/capsule/bar-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_slider_capsule_line_height"
-    semantic_name: "Component / rd/slider/capsule/line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSliderCapsuleLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "469b9acf0db7f288f223fb9f136d88f68d847b65"
-      name: "Component / rd/slider/capsule/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "number_component_rd_slider_dot_size"
-    semantic_name: "Component / rd/slider/dot/size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSliderDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "aad6660d1a232236ebf4fa92f10b2fe98bf1784c"
-      name: "Component / rd/slider/dot/size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_step_item_circle_size"
-    semantic_name: "Component / rd/step-item/circle-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepItemCircleSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "34053e6106688ff65f7b0ec9ea54bb07dbd61695"
-      name: "Component / rd/step-item/circle-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_step_item_dot_size"
-    semantic_name: "Component / rd/step-item/dot-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepItemDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "11408ba1cf4bcd53abf7f618d4662496b2a5fb82"
-      name: "Component / rd/step-item/dot-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_stepper_border_width"
-    semantic_name: "Component / rd/stepper/border-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperBorderWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5b0da8ab74843443aa311abf1cd6842e26566e2b"
-      name: "Component / rd/stepper/border-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 1
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 1
-  - token_id: "number_component_rd_stepper_large_height"
-    semantic_name: "Component / rd/stepper/large/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperLargeHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a535d158cfde97babd5a26b799c9b4d7b91668c2"
-      name: "Component / rd/stepper/large/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 26
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 26
-  - token_id: "number_component_rd_stepper_large_icon_size"
-    semantic_name: "Component / rd/stepper/large/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperLargeIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1a43f1eaa5a3ce9e5cccaf98a14fc3e71b7a57a4"
-      name: "Component / rd/stepper/large/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_stepper_large_input_width"
-    semantic_name: "Component / rd/stepper/large/input-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperLargeInputWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a62d964b30e17c0450f4d7fdfb6e07771587ba61"
-      name: "Component / rd/stepper/large/input-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 45
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 45
-  - token_id: "number_component_rd_stepper_medium_height"
-    semantic_name: "Component / rd/stepper/medium/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperMediumHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "eb88348c80bd38669e07d290d2653edcc450076d"
-      name: "Component / rd/stepper/medium/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_stepper_medium_icon_size"
-    semantic_name: "Component / rd/stepper/medium/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperMediumIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4ee5d61c0840808285cfdbe63e814f23b945eb25"
-      name: "Component / rd/stepper/medium/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_stepper_medium_input_width"
-    semantic_name: "Component / rd/stepper/medium/input-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperMediumInputWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ac27eb51ac191e11742f00e2b7a7fecf9c3879ec"
-      name: "Component / rd/stepper/medium/input-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 38
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 38
-  - token_id: "number_component_rd_stepper_small_height"
-    semantic_name: "Component / rd/stepper/small/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperSmallHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cde611f90c2907b4b23600e761b2dee4d1ee9465"
-      name: "Component / rd/stepper/small/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_stepper_small_icon_size"
-    semantic_name: "Component / rd/stepper/small/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperSmallIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4b7a3faa3a614d7dfd9c7b19a7d9901769f8dca0"
-      name: "Component / rd/stepper/small/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "number_component_rd_stepper_small_input_width"
-    semantic_name: "Component / rd/stepper/small/input-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperSmallInputWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9d2f52561d0ef968cffbaa8def3e0912f66d20b2"
-      name: "Component / rd/stepper/small/input-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 34
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 34
-  - token_id: "number_component_rd_swiper_item_left_padding"
-    semantic_name: "Component / rd/swiper/item/left-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwiperItemLeftPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "724910b205307e1287aa9436bf6d8b16a05fed57"
-      name: "Component / rd/swiper/item/left-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_swiper_item_right_padding"
-    semantic_name: "Component / rd/swiper/item/right-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwiperItemRightPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "10a582d271b68a44f3962bac9f4102d6468e9a27"
-      name: "Component / rd/swiper/item/right-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_swiper_nav_btn_size"
-    semantic_name: "Component / rd/swiper/nav/btn/size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwiperNavBtnSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3292c5efe02e6023031a6408d8e4b8d9c18d4d46"
-      name: "Component / rd/swiper/nav/btn/size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_swiper_nav_dot_size"
-    semantic_name: "Component / rd/swiper/nav/dot/size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwiperNavDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "22eb25a70ba9cd084261e4805838ed05e830d99e"
-      name: "Component / rd/swiper/nav/dot/size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 6
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 6
-  - token_id: "number_component_rd_swiper_nav_dots_bar_active_width"
-    semantic_name: "Component / rd/swiper/nav/dots-bar/active-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwiperNavDotsBarActiveWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "94af28aeab2327c8dea408beebaba9e311ec2e63"
-      name: "Component / rd/swiper/nav/dots-bar/active-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_swiper_nav_fraction_height"
-    semantic_name: "Component / rd/swiper/nav/fraction/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwiperNavFractionHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d2a854500208664832f5bb2e2050094836d63290"
-      name: "Component / rd/swiper/nav/fraction/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_switch_dot_horizontal_margin"
-    semantic_name: "Component / rd/switch/dot-horizontal-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchDotHorizontalMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a53f785d6c9cd99e78735b5b266d01dc622d46d6"
-      name: "Component / rd/switch/dot-horizontal-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 3
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 3
-  - token_id: "number_component_rd_switch_dot_plain_horizontal_margin"
-    semantic_name: "Component / rd/switch/dot-plain-horizontal-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchDotPlainHorizontalMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0592c9b3a615516c4d68c3f99884ca1b699ead1d"
-      name: "Component / rd/switch/dot-plain-horizontal-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 5
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 5
-  - token_id: "number_component_rd_switch_dot_plain_size"
-    semantic_name: "Component / rd/switch/dot-plain-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchDotPlainSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c0f39a248c692e1b590e587b1cb6108eb4b75949"
-      name: "Component / rd/switch/dot-plain-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "number_component_rd_switch_dot_size"
-    semantic_name: "Component / rd/switch/dot-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "36d6649b67577c136813eb02f007bc4551fccbaf"
-      name: "Component / rd/switch/dot-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_switch_height"
-    semantic_name: "Component / rd/switch/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "dd1205572d353a4aca6310d143bf8e9c76585190"
-      name: "Component / rd/switch/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "number_component_rd_switch_icon_size"
-    semantic_name: "Component / rd/switch/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "69b8dbad4e49a808fd7e26f361bb48af4a472d84"
-      name: "Component / rd/switch/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "number_component_rd_switch_large_dot_plain_size"
-    semantic_name: "Component / rd/switch/large/dot-plain-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLargeDotPlainSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "754e2fefa9016d093346da255625006a6245732c"
-      name: "Component / rd/switch/large/dot-plain-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_switch_large_dot_size"
-    semantic_name: "Component / rd/switch/large/dot-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLargeDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "56bec0d697e55059caf297ccff470eec2910d8d1"
-      name: "Component / rd/switch/large/dot-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 26
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 26
-  - token_id: "number_component_rd_switch_large_height"
-    semantic_name: "Component / rd/switch/large/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLargeHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "316e8634cc4b255dad90b3a1cab0207d291040a7"
-      name: "Component / rd/switch/large/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "number_component_rd_switch_large_icon_size"
-    semantic_name: "Component / rd/switch/large/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLargeIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "825e37e731f3b142eb19566b0a99c1482a3bae61"
-      name: "Component / rd/switch/large/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_switch_large_width"
-    semantic_name: "Component / rd/switch/large/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLargeWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ee363a7992f8230a3bb95ce12f896fef4756bc2a"
-      name: "Component / rd/switch/large/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 52
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 52
-  - token_id: "number_component_rd_switch_small_dot_plain_size"
-    semantic_name: "Component / rd/switch/small/dot-plain-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchSmallDotPlainSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8f51f9933d77f69659f512cb9fb53117f94fd0e9"
-      name: "Component / rd/switch/small/dot-plain-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "number_component_rd_switch_small_dot_size"
-    semantic_name: "Component / rd/switch/small/dot-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchSmallDotSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "233956722275353ab254d462e424974d5beec7d3"
-      name: "Component / rd/switch/small/dot-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "number_component_rd_switch_small_height"
-    semantic_name: "Component / rd/switch/small/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchSmallHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d42b764576e909b5d570f2befdba0cbd03c16bab"
-      name: "Component / rd/switch/small/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_switch_small_icon_size"
-    semantic_name: "Component / rd/switch/small/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchSmallIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c1e1f97a4d013af07672f0aa9d79fa8f7887a4a6"
-      name: "Component / rd/switch/small/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_switch_small_width"
-    semantic_name: "Component / rd/switch/small/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchSmallWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b6cf304d31ff196388080d60f7478e56074633ce"
-      name: "Component / rd/switch/small/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 39
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 39
-  - token_id: "number_component_rd_switch_width"
-    semantic_name: "Component / rd/switch/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "edb367d4bddc7f90c0bba64410f8d015fc669a00"
-      name: "Component / rd/switch/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 45
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 45
-  - token_id: "number_component_rd_table_filter_icon_margin_left"
-    semantic_name: "Component / rd/table/filter-icon-margin-left"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableFilterIconMarginLeft"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4389c34d1552390fd153e54564906f60fb291724"
-      name: "Component / rd/table/filter-icon-margin-left"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_table_fixed_cell_border_width"
-    semantic_name: "Component / rd/table/fixed-cell-border-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableFixedCellBorderWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "57f598a15b0450b3beb30ba3b4c24f60db4e80c6"
-      name: "Component / rd/table/fixed-cell-border-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 4
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 4
-  - token_id: "number_component_rd_table_fixed_cell_border_width_light"
-    semantic_name: "Component / rd/table/fixed-cell-border-width-light"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableFixedCellBorderWidthLight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3fd1137649bd040253c337ad043c5c005ad2adc3"
-      name: "Component / rd/table/fixed-cell-border-width-light"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 2
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 2
-  - token_id: "number_component_rd_table_icon_size"
-    semantic_name: "Component / rd/table/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "853d491e3c3f768ded6244cdf610ffc46fa9e795"
-      name: "Component / rd/table/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "number_component_rd_table_line_height"
-    semantic_name: "Component / rd/table/line-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "239b2b52f1b9ce91604cf6af67ff55f535c05755"
-      name: "Component / rd/table/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "number_component_rd_table_loading_size"
-    semantic_name: "Component / rd/table/loading-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableLoadingSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4a3e6a74dc6fae819b2ab2133610eb4c023ba01d"
-      name: "Component / rd/table/loading-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "rd/font-size/l -> rd/font-size/title-large"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "number_component_rd_table_padding_horizontal"
-    semantic_name: "Component / rd/table/padding-horizontal"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTablePaddingHorizontal"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1425ffcf631f0fa98e8a2e1538a06c5edf42b688"
-      name: "Component / rd/table/padding-horizontal"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_table_td_editable_icon_margin"
-    semantic_name: "Component / rd/table/td-editable-icon-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableTdEditableIconMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "700b56f195307765086ddc6a2af8c46dc6abb815"
-      name: "Component / rd/table/td-editable-icon-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_table_td_editalbe_icon_margin"
-    semantic_name: "Component / rd/table/td-editalbe-icon-margin"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableTdEditalbeIconMargin"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "49847021c2996018ba3049ed4d42664022ed6e81"
-      name: "Component / rd/table/td-editalbe-icon-margin"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_table_td_padding_horizontal"
-    semantic_name: "Component / rd/table/td-padding-horizontal"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableTdPaddingHorizontal"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cd0ece3ca15b25dccce5631159f73dfc5933a15c"
-      name: "Component / rd/table/td-padding-horizontal"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_table_td_padding_vertical"
-    semantic_name: "Component / rd/table/td-padding-vertical"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableTdPaddingVertical"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0af43a0474e01af7ce4fbe40566559f63d62a655"
-      name: "Component / rd/table/td-padding-vertical"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_table_td_padding_vertical_bottom"
-    semantic_name: "Component / rd/table/td-padding-vertical-bottom"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableTdPaddingVerticalBottom"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "500326485d253e452d5a19b42edfd1290be161a5"
-      name: "Component / rd/table/td-padding-vertical-bottom"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 11
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 11
-  - token_id: "number_component_rd_table_td_padding_vertical_top"
-    semantic_name: "Component / rd/table/td-padding-vertical-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTableTdPaddingVerticalTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a8d5c035824a0d5da00ea67032963f303362bbf3"
-      name: "Component / rd/table/td-padding-vertical-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 13
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 13
-  - token_id: "number_component_rd_tabs_icon_size"
-    semantic_name: "Component / rd/tabs/icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTabsIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e7ebcefae00fff8816c4dfa6b47e336d2dd4ec2d"
-      name: "Component / rd/tabs/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "number_component_rd_tabs_item_height"
-    semantic_name: "Component / rd/tabs/item/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTabsItemHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "adcb080bb7de9f5087b3c9ce7cf5d1e4fc2550f7"
-      name: "Component / rd/tabs/item/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "number_component_rd_tabs_item_tag_height"
-    semantic_name: "Component / rd/tabs/item/tag/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTabsItemTagHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2267c7cf6bc0a941e59505fc1ed7940c55ea6be3"
-      name: "Component / rd/tabs/item/tag/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "number_component_rd_tabs_item_vertical_height"
-    semantic_name: "Component / rd/tabs/item/vertical-height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTabsItemVerticalHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0830ce11f5a0c573a278f20dc62609ffd9c13e47"
-      name: "Component / rd/tabs/item/vertical-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 54
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 54
-  - token_id: "number_component_rd_tabs_item_vertical_width"
-    semantic_name: "Component / rd/tabs/item/vertical-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTabsItemVerticalWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "88afccc625a07c6fc776fce63d7977853b88538d"
-      name: "Component / rd/tabs/item/vertical-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 104
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 104
+      value: "8"
   - token_id: "number_component_rd_tabs_track_thickness"
     semantic_name: "Component / rd/tabs/track/thickness"
     category: "number"
@@ -21516,307 +18816,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 3
+        value: "3"
+        css: "3"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 3
-  - token_id: "number_component_rd_tabs_track_width"
-    semantic_name: "Component / rd/tabs/track/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTabsTrackWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "dce63156a7409c931ca7b095f0b7c8b63fa625ae"
-      name: "Component / rd/tabs/track/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_textarea_border_width"
-    semantic_name: "Component / rd/textarea/border-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTextareaBorderWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c5a39fe6f6602e2642e2d403c93e40b59766c813"
-      name: "Component / rd/textarea/border-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 1
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 1
-  - token_id: "number_component_rd_textarea_horizontal_padding"
-    semantic_name: "Component / rd/textarea/horizontal-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTextareaHorizontalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b97f3a1cc29f3ee97cda919cd1671d7d2f6df2c8"
-      name: "Component / rd/textarea/horizontal-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_textarea_indicator_text_padding_top"
-    semantic_name: "Component / rd/textarea/indicator-text-padding-top"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTextareaIndicatorTextPaddingTop"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "479a1e7da9b2ca1330aaa3bf5cdc26060c3e437e"
-      name: "Component / rd/textarea/indicator-text-padding-top"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 8
-        source: "rd/spacer-3"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 8
-  - token_id: "number_component_rd_textarea_label_width"
-    semantic_name: "Component / rd/textarea/label-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTextareaLabelWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "117397060d33b79fb1d38c29f2c7c9dee787ef57"
-      name: "Component / rd/textarea/label-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 64
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 64
-  - token_id: "number_component_rd_textarea_vertical_padding"
-    semantic_name: "Component / rd/textarea/vertical-padding"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTextareaVerticalPadding"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9cc9aed7fc2139e2a1825639ad89b00d323ccfd0"
-      name: "Component / rd/textarea/vertical-padding"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "number_component_rd_toast_column_icon_size"
-    semantic_name: "Component / rd/toast/column-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdToastColumnIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "74f6e3987b5dec916b4f88e81114a57ee23eb4bf"
-      name: "Component / rd/toast/column-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "number_component_rd_toast_max_width"
-    semantic_name: "Component / rd/toast/max-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdToastMaxWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9e01760bcfa9b79f2a9abf650c91a27345814868"
-      name: "Component / rd/toast/max-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 185
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 185
-  - token_id: "number_component_rd_toast_row_icon_size"
-    semantic_name: "Component / rd/toast/row-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdToastRowIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b3d6f1b8b8b69ce2942b60ffd933a743426f8d75"
-      name: "Component / rd/toast/row-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "number_component_rd_tree_colum_width"
-    semantic_name: "Component / rd/tree/colum-width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTreeColumWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b7f3fc0cea96293f69c118ecd6b757a9d7ba3566"
-      name: "Component / rd/tree/colum-width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 103
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 103
-  - token_id: "number_component_rd_tree_item_height"
-    semantic_name: "Component / rd/tree/item/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTreeItemHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9fa9c336d43b823e2ba9553372995b89b5e8c95d"
-      name: "Component / rd/tree/item/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 56
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 56
-  - token_id: "number_component_rd_upload_add_icon_size"
-    semantic_name: "Component / rd/upload/add-icon-size"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdUploadAddIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e5467955578ab8834aba145f17d6d7202661832e"
-      name: "Component / rd/upload/add-icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "number_component_rd_upload_height"
-    semantic_name: "Component / rd/upload/height"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdUploadHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "11be2f1d890c345330243567b2aaf4e938b83459"
-      name: "Component / rd/upload/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 80
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 80
-  - token_id: "number_component_rd_upload_width"
-    semantic_name: "Component / rd/upload/width"
-    category: "number"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdUploadWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2226a85624de12c7793e6fc8a161b0458d4da6b7"
-      name: "Component / rd/upload/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 80
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 80
+      value: "3"
   - token_id: "radius_component_rd_action_sheet_border_radius"
     semantic_name: "Component / rd/action-sheet/border-radius"
     category: "radius"
@@ -21831,13 +18838,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "rd/radius/extraLarge"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_avatar_circle_border_radius"
     semantic_name: "Component / rd/avatar/circle-border-radius"
     category: "radius"
@@ -21852,13 +18860,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "rd/radius/round"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_component_rd_avatar_round_border_radius"
     semantic_name: "Component / rd/avatar/round-border-radius"
     category: "radius"
@@ -21873,13 +18882,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_back_top_half_round_border_radius"
     semantic_name: "Component / rd/back-top/half-round/border-radius"
     category: "radius"
@@ -21894,13 +18904,58 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "rd/radius/round"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
+  - token_id: "radius_component_rd_back_top_half_round_height"
+    semantic_name: "Component / rd/back-top/half-round/height"
+    category: "radius"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBackTopHalfRoundHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b6a44648f23ac5f62fbc67f7ce823644d5c0d2d1"
+      name: "Component / rd/back-top/half-round/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "radius_component_rd_back_top_half_round_width"
+    semantic_name: "Component / rd/back-top/half-round/width"
+    category: "radius"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBackTopHalfRoundWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4bf44acf5df589fc631496de75bce20ba0243349"
+      name: "Component / rd/back-top/half-round/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "60px"
+        css: "60px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "60px"
   - token_id: "radius_component_rd_back_top_round_border_radius"
     semantic_name: "Component / rd/back-top/round/border-radius"
     category: "radius"
@@ -21915,13 +18970,36 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "rd/radius/round"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
+  - token_id: "radius_component_rd_back_top_round_width"
+    semantic_name: "Component / rd/back-top/round/width"
+    category: "radius"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBackTopRoundWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "081b20de9d3477ebc2fe290ad92b4f683648d795"
+      name: "Component / rd/back-top/round/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
   - token_id: "radius_component_rd_badge_border_radius"
     semantic_name: "Component / rd/badge/border-radius"
     category: "radius"
@@ -21936,13 +19014,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 2
+        value: "2px"
+        css: "2px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
+      value: "2px"
   - token_id: "radius_component_rd_badge_bubble_border_radius"
     semantic_name: "Component / rd/badge/bubble-border-radius"
     category: "radius"
@@ -21957,13 +19036,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 10
+        value: "10px"
+        css: "10px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 10
+      value: "10px"
   - token_id: "radius_component_rd_button_border_radius"
     semantic_name: "Component / rd/button/border-radius"
     category: "radius"
@@ -21978,13 +19058,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_button_icon_border_radius"
     semantic_name: "Component / rd/button/icon-border-radius"
     category: "radius"
@@ -21999,13 +19080,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "radius_component_rd_calendar_radius"
     semantic_name: "Component / rd/calendar/radius"
     category: "radius"
@@ -22020,13 +19102,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_color_picker_gradient_preview_radius"
     semantic_name: "Component / rd/color-picker/gradient-preview/radius"
     category: "radius"
@@ -22041,13 +19124,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 3
+        value: "3px"
+        css: "3px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 3
+      value: "3px"
   - token_id: "radius_component_rd_color_picker_panel_radius"
     semantic_name: "Component / rd/color-picker/panel/radius"
     category: "radius"
@@ -22062,13 +19146,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_color_picker_saturation_radius"
     semantic_name: "Component / rd/color-picker/saturation/radius"
     category: "radius"
@@ -22083,13 +19168,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_color_picker_swatch_border_radius"
     semantic_name: "Component / rd/color-picker/swatch/border-radius"
     category: "radius"
@@ -22104,13 +19190,58 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "rd/radius/small"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
+  - token_id: "radius_component_rd_countdown_large_round_font_size"
+    semantic_name: "Component / rd/countdown/large/round-font-size"
+    category: "radius"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeRoundFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "abba1e3c5ecf1f2ec794599126e5222f9aa51bdc"
+      name: "Component / rd/countdown/large/round-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "radius_component_rd_countdown_medium_round_font_size"
+    semantic_name: "Component / rd/countdown/medium/round-font-size"
+    category: "radius"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumRoundFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "930c01de7d2461df241ec3c6aa2f085c6d129fea"
+      name: "Component / rd/countdown/medium/round-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
   - token_id: "radius_component_rd_countdown_round_border_radius"
     semantic_name: "Component / rd/countdown/round-border-radius"
     category: "radius"
@@ -22125,13 +19256,36 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "rd/radius/round"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
+  - token_id: "radius_component_rd_countdown_small_round_font_size"
+    semantic_name: "Component / rd/countdown/small/round-font-size"
+    category: "radius"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallRoundFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "fe54a0902382c36eaf70b4a314b9b758cd92edcb"
+      name: "Component / rd/countdown/small/round-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/font-size/s -> rd/font-size/body-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
   - token_id: "radius_component_rd_countdown_square_border_radius"
     semantic_name: "Component / rd/countdown/square-border-radius"
     category: "radius"
@@ -22146,13 +19300,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "rd/radius/small"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "radius_component_rd_dialog_border_radius"
     semantic_name: "Component / rd/dialog/border-radius"
     category: "radius"
@@ -22167,13 +19322,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "rd/radius/extraLarge"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_grid_card_radius"
     semantic_name: "Component / rd/grid/card-radius"
     category: "radius"
@@ -22188,13 +19344,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "rd/radius/large"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
   - token_id: "radius_component_rd_grid_item_image_border_radius"
     semantic_name: "Component / rd/grid/item/image/border-radius"
     category: "radius"
@@ -22209,13 +19366,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_guide_dialog_border_radius"
     semantic_name: "Component / rd/guide/dialog/border-radius"
     category: "radius"
@@ -22230,13 +19388,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_guide_highlight_border_radius"
     semantic_name: "Component / rd/guide/highlight-border-radius"
     category: "radius"
@@ -22251,13 +19410,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_guide_popover_border_radius"
     semantic_name: "Component / rd/guide/popover/border-radius"
     category: "radius"
@@ -22272,13 +19432,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 9
+        value: "9px"
+        css: "9px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 9
+      value: "9px"
   - token_id: "radius_component_rd_image_round_radius"
     semantic_name: "Component / rd/image/round-radius"
     category: "radius"
@@ -22293,13 +19454,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_input_border_radius"
     semantic_name: "Component / rd/input/border-radius"
     category: "radius"
@@ -22314,13 +19476,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_message_border_radius"
     semantic_name: "Component / rd/message/border-radius"
     category: "radius"
@@ -22335,13 +19498,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_navbar_capsule_border_radius"
     semantic_name: "Component / rd/navbar/capsule/border-radius"
     category: "radius"
@@ -22356,13 +19520,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
   - token_id: "radius_component_rd_picker_border_radius"
     semantic_name: "Component / rd/picker/border-radius"
     category: "radius"
@@ -22377,13 +19542,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_picker_indicator_border_radius"
     semantic_name: "Component / rd/picker/indicator/border-radius"
     category: "radius"
@@ -22398,13 +19564,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_popup_border_radius"
     semantic_name: "Component / rd/popup/border-radius"
     category: "radius"
@@ -22419,13 +19586,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "rd/radius/extraLarge"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_component_rd_qrcode_border_radius"
     semantic_name: "Component / rd/qrcode/border-radius"
     category: "radius"
@@ -22440,13 +19608,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_search_square_radius"
     semantic_name: "Component / rd/search/square-radius"
     category: "radius"
@@ -22461,13 +19630,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_side_bar_border_radius"
     semantic_name: "Component / rd/side-bar/border-radius"
     category: "radius"
@@ -22482,13 +19652,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 9
+        value: "9px"
+        css: "9px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 9
+      value: "9px"
   - token_id: "radius_component_rd_skeleton_circle_border_radius"
     semantic_name: "Component / rd/skeleton/circle/border-radius"
     category: "radius"
@@ -22503,13 +19674,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "rd/radius/round"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_component_rd_skeleton_rect_border_radius"
     semantic_name: "Component / rd/skeleton/rect/border-radius"
     category: "radius"
@@ -22524,13 +19696,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_skeleton_text_border_radius"
     semantic_name: "Component / rd/skeleton/text/border-radius"
     category: "radius"
@@ -22545,13 +19718,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "rd/radius/small"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "radius_component_rd_stepper_border_radius"
     semantic_name: "Component / rd/stepper/border-radius"
     category: "radius"
@@ -22566,13 +19740,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "rd/radius/small"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "radius_component_rd_swiper_border_radius"
     semantic_name: "Component / rd/swiper/border-radius"
     category: "radius"
@@ -22587,13 +19762,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
   - token_id: "radius_component_rd_switch_large_radius"
     semantic_name: "Component / rd/switch/large/radius"
     category: "radius"
@@ -22608,13 +19784,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_component_rd_switch_radius"
     semantic_name: "Component / rd/switch/radius"
     category: "radius"
@@ -22629,13 +19806,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 9999
+        value: "9999px"
+        css: "9999px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 9999
+      value: "9999px"
   - token_id: "radius_component_rd_switch_small_radius"
     semantic_name: "Component / rd/switch/small/radius"
     category: "radius"
@@ -22650,13 +19828,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_component_rd_tabs_track_radius"
     semantic_name: "Component / rd/tabs/track/radius"
     category: "radius"
@@ -22671,13 +19850,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "radius_component_rd_tag_mark_border_radius"
     semantic_name: "Component / rd/tag/mark-border-radius"
     category: "radius"
@@ -22692,13 +19872,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_component_rd_tag_round_border_radius"
     semantic_name: "Component / rd/tag/round-border-radius"
     category: "radius"
@@ -22713,13 +19894,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_component_rd_tag_square_border_radius"
     semantic_name: "Component / rd/tag/square-border-radius"
     category: "radius"
@@ -22734,13 +19916,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "radius_component_rd_textarea_border_radius"
     semantic_name: "Component / rd/textarea/border-radius"
     category: "radius"
@@ -22755,13 +19938,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_toast_radius"
     semantic_name: "Component / rd/toast/radius"
     category: "radius"
@@ -22776,13 +19960,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_component_rd_upload_radius"
     semantic_name: "Component / rd/upload/radius"
     category: "radius"
@@ -22797,13 +19982,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "rd/radius/default"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_radius_rd_radius_default"
     semantic_name: "radius / rd/radius/default"
     category: "radius"
@@ -22818,13 +20004,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       radius:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "radius_radius_rd_radius_extralarge"
     semantic_name: "radius / rd/radius/extraLarge"
     category: "radius"
@@ -22839,13 +20026,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       radius:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "radius_radius_rd_radius_large"
     semantic_name: "radius / rd/radius/large"
     category: "radius"
@@ -22860,13 +20048,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       radius:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
   - token_id: "radius_radius_rd_radius_round"
     semantic_name: "radius / rd/radius/round"
     category: "radius"
@@ -22881,13 +20070,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       radius:
-        value: 999
+        value: "999px"
+        css: "999px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 999
+      value: "999px"
   - token_id: "radius_radius_rd_radius_small"
     semantic_name: "radius / rd/radius/small"
     category: "radius"
@@ -22902,16 +20092,17 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       radius:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
-  - token_id: "spacing_component_rd_action_sheet_dot_size"
+      value: "4px"
+  - token_id: "size_component_rd_action_sheet_dot_size"
     semantic_name: "Component / rd/action-sheet/dot-size"
-    category: "spacing"
+    category: "size"
     runtime_source:
       kind: generated_design_token
       name: "rdComponentRdActionSheetDotSize"
@@ -22923,13 +20114,5470 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
+  - token_id: "size_component_rd_avatar_border_width_large"
+    semantic_name: "Component / rd/avatar/border/width-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarBorderWidthLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5efb625880eb36e945c7af734dba005de590e7a6"
+      name: "Component / rd/avatar/border/width-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "3px"
+        css: "3px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "3px"
+  - token_id: "size_component_rd_avatar_border_width_medium"
+    semantic_name: "Component / rd/avatar/border/width-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarBorderWidthMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ad54bd3bb6d6c344b36467a1c5bfc29c4e544d64"
+      name: "Component / rd/avatar/border/width-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "2px"
+        css: "2px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "2px"
+  - token_id: "size_component_rd_avatar_border_width_small"
+    semantic_name: "Component / rd/avatar/border/width-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarBorderWidthSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a48fec15ebb53c34f3e95b5988213d408f2ba5b2"
+      name: "Component / rd/avatar/border/width-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "1px"
+        css: "1px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "1px"
+  - token_id: "size_component_rd_avatar_large_icon_font_size"
+    semantic_name: "Component / rd/avatar/large/icon-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarLargeIconFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "acb1890b07a1a99d960a49b436253957b7183e69"
+      name: "Component / rd/avatar/large/icon-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_avatar_large_width"
+    semantic_name: "Component / rd/avatar/large/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarLargeWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f6ff2c9c61b9babe7bf25f1f60d0ea240f3cce4b"
+      name: "Component / rd/avatar/large/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "64px"
+        css: "64px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "64px"
+  - token_id: "size_component_rd_avatar_medium_icon_font_size"
+    semantic_name: "Component / rd/avatar/medium/icon-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarMediumIconFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e6db5a7c3f1e35d9d83dea9b6b7c31377a2b254c"
+      name: "Component / rd/avatar/medium/icon-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_avatar_medium_width"
+    semantic_name: "Component / rd/avatar/medium/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarMediumWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "55e5c0caff31157322ee6f84b306d5be2ccf5ca2"
+      name: "Component / rd/avatar/medium/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_avatar_small_width"
+    semantic_name: "Component / rd/avatar/small/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarSmallWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "af6179a9715db2556d4aeac1cba5575b7061f47c"
+      name: "Component / rd/avatar/small/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "size_component_rd_avatar_text_large_font_size"
+    semantic_name: "Component / rd/avatar/text/large-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarTextLargeFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "fb69c7a4be526465bd92d1d71f07f99074ebf535"
+      name: "Component / rd/avatar/text/large-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "rd/font-size/xl -> rd/font-size/title-extraLarge"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_avatar_text_medium_font_size"
+    semantic_name: "Component / rd/avatar/text/medium-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarTextMediumFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2cb58b4a0e82213fc0a173cd89e1e9f56c8f5bd2"
+      name: "Component / rd/avatar/text/medium-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_avatar_text_small_font_size"
+    semantic_name: "Component / rd/avatar/text/small-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdAvatarTextSmallFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f795d29694e5da88a10dabae0946440dbd2ac15d"
+      name: "Component / rd/avatar/text/small-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_back_top_icon_size"
+    semantic_name: "Component / rd/back-top/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBackTopIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "171e48e435a8501b975aa27d96960b5dcecea4fe"
+      name: "Component / rd/back-top/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_back_top_text_font_size"
+    semantic_name: "Component / rd/back-top/text/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBackTopTextFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f57d4be42cc8414d103a2ec08c7201c1f50040ef"
+      name: "Component / rd/back-top/text/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "10px"
+        css: "10px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "10px"
+  - token_id: "size_component_rd_back_top_text_line_height"
+    semantic_name: "Component / rd/back-top/text/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBackTopTextLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "71b137d3a67d34fcc5a006e27078ffd99c73cde6"
+      name: "Component / rd/back-top/text/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_badge_basic_height"
+    semantic_name: "Component / rd/badge/basic-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBadgeBasicHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c2d8065c777290baacf200fc05930746179d2e0f"
+      name: "Component / rd/badge/basic-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_badge_basic_width"
+    semantic_name: "Component / rd/badge/basic-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBadgeBasicWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2ded22a0eda88d11d58400039d0311f602fe0a62"
+      name: "Component / rd/badge/basic-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_badge_dot_size"
+    semantic_name: "Component / rd/badge/dot-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBadgeDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ec4aa678715770ac954f1231ee9edb1e093b98cd"
+      name: "Component / rd/badge/dot-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "size_component_rd_badge_large_height"
+    semantic_name: "Component / rd/badge/large/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdBadgeLargeHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "183eaf2763c10df96d1f93145b872b09ff82c01f"
+      name: "Component / rd/badge/large/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_button_border_width"
+    semantic_name: "Component / rd/button/border-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonBorderWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cd2c1e80f0b1e891553cda9e79ff2c16b094684f"
+      name: "Component / rd/button/border-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "2px"
+        css: "2px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "2px"
+  - token_id: "size_component_rd_button_extra_small_font_size"
+    semantic_name: "Component / rd/button/extra-small/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonExtraSmallFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "49728246751c0790bed062f9300cd8cdf743b4cb"
+      name: "Component / rd/button/extra-small/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_button_extra_small_height"
+    semantic_name: "Component / rd/button/extra-small/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonExtraSmallHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2761450d09574383f1a821d93deaa6d9ed22831c"
+      name: "Component / rd/button/extra-small/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_component_rd_button_extra_small_icon_size"
+    semantic_name: "Component / rd/button/extra-small/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonExtraSmallIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3f48028c95378f4ad34dcf2d9cc199dd150dc771"
+      name: "Component / rd/button/extra-small/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_button_large_font_size"
+    semantic_name: "Component / rd/button/large/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonLargeFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cd6c4f62f3bf64a356be5ff5724f8fe795c7f8d2"
+      name: "Component / rd/button/large/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_button_large_height"
+    semantic_name: "Component / rd/button/large/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonLargeHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "526922b69e76abf779e0ce6d871c613a0c08f46e"
+      name: "Component / rd/button/large/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_button_large_icon_size"
+    semantic_name: "Component / rd/button/large/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonLargeIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8337637a55a2d67f913093640b3656cd80fe815d"
+      name: "Component / rd/button/large/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_button_medium_font_size"
+    semantic_name: "Component / rd/button/medium/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonMediumFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6767fefeb727d35e0e660b422020502410b3d0d7"
+      name: "Component / rd/button/medium/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_button_medium_height"
+    semantic_name: "Component / rd/button/medium/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonMediumHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f4d3a5a8b1ecbbf5749484eda70cbab8ba9f7b3f"
+      name: "Component / rd/button/medium/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "size_component_rd_button_medium_icon_size"
+    semantic_name: "Component / rd/button/medium/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonMediumIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "86c51cf0e13988c9043f953bec3c687dafe55948"
+      name: "Component / rd/button/medium/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_button_small_font_size"
+    semantic_name: "Component / rd/button/small/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonSmallFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4f22e61bafebfb4a63991f9486b714ad272c1afc"
+      name: "Component / rd/button/small/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_button_small_height"
+    semantic_name: "Component / rd/button/small/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonSmallHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e041cf25e9997abc2665c1e806320118d268c02b"
+      name: "Component / rd/button/small/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_button_small_icon_size"
+    semantic_name: "Component / rd/button/small/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdButtonSmallIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "39ff9725f4bfb521f1215f7dc3993af9ff48ccf7"
+      name: "Component / rd/button/small/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_cascader_options_height"
+    semantic_name: "Component / rd/cascader/options-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCascaderOptionsHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0661d933ecd16b434cd6047f1e3803c3f1345bc2"
+      name: "Component / rd/cascader/options-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "320px"
+        css: "320px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "320px"
+  - token_id: "size_component_rd_cascader_step_dot_size"
+    semantic_name: "Component / rd/cascader/step/dot-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCascaderStepDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "60d0520c3047438fb86b1ff1815cadcd5a962bc1"
+      name: "Component / rd/cascader/step/dot-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "size_component_rd_cascader_step_height"
+    semantic_name: "Component / rd/cascader/step/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCascaderStepHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c2bc26d857d4975f8a6a7ef45c56c961e05262ce"
+      name: "Component / rd/cascader/step/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "44px"
+        css: "44px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "44px"
+  - token_id: "size_component_rd_cell_group_title_font_size"
+    semantic_name: "Component / rd/cell-group/title/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellGroupTitleFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9e21e18d3b9826fe6f38ba924b98f2a2c983c49f"
+      name: "Component / rd/cell-group/title/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_cell_group_title_line_height"
+    semantic_name: "Component / rd/cell-group/title/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellGroupTitleLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a84633b42ddc2d79fd81551a6250e459593a1909"
+      name: "Component / rd/cell-group/title/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "45px"
+        css: "45px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "45px"
+  - token_id: "size_component_rd_cell_image_height"
+    semantic_name: "Component / rd/cell/image/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellImageHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1a51d04b71fa61aa72a222a3188a87c59f2019c2"
+      name: "Component / rd/cell/image/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_cell_image_width"
+    semantic_name: "Component / rd/cell/image/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellImageWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f703c6f9bac37238e9555d5f138b122db3148e61"
+      name: "Component / rd/cell/image/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_cell_left_icon_size"
+    semantic_name: "Component / rd/cell/left-icon/size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellLeftIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6ce3eb70a9c95ad294fd91d361efb53483fb646b"
+      name: "Component / rd/cell/left-icon/size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_cell_right_icon_size"
+    semantic_name: "Component / rd/cell/right-icon/size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellRightIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e5b101eec8360ab3583e30af730a62e20b1d3ea1"
+      name: "Component / rd/cell/right-icon/size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_checkbox_border_width"
+    semantic_name: "Component / rd/checkbox/border-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCheckboxBorderWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c458a33e47c24586c9df92076661684a9f2de739"
+      name: "Component / rd/checkbox/border-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "3px"
+        css: "3px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "3px"
+  - token_id: "size_component_rd_checkbox_icon_size"
+    semantic_name: "Component / rd/checkbox/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCheckboxIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "51376ec6985404916c7cc4beb200e9c667b8cc49"
+      name: "Component / rd/checkbox/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_checkbox_title_line_height"
+    semantic_name: "Component / rd/checkbox/title-line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCheckboxTitleLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c49300a642164f4296bab845409f880b8a52ed77"
+      name: "Component / rd/checkbox/title-line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_color_picker_gradient_preview_height"
+    semantic_name: "Component / rd/color-picker/gradient-preview/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerGradientPreviewHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8ab58405be687a3acc951c26f62c408f175d44a0"
+      name: "Component / rd/color-picker/gradient-preview/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_component_rd_color_picker_gradient_preview_width"
+    semantic_name: "Component / rd/color-picker/gradient-preview/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerGradientPreviewWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "29f7185d46fd6c9c444cdc40aab984a9d927a643"
+      name: "Component / rd/color-picker/gradient-preview/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_component_rd_color_picker_panel_width"
+    semantic_name: "Component / rd/color-picker/panel/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerPanelWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2c1545a1d3adf982ef3eaadb13584c04a302c3b3"
+      name: "Component / rd/color-picker/panel/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "375px"
+        css: "375px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "375px"
+  - token_id: "size_component_rd_color_picker_saturation_height"
+    semantic_name: "Component / rd/color-picker/saturation/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSaturationHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "74c5d78de227b5c3afe23d47a749b6523bfcac5f"
+      name: "Component / rd/color-picker/saturation/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "144px"
+        css: "144px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "144px"
+  - token_id: "size_component_rd_color_picker_saturation_thumb_size"
+    semantic_name: "Component / rd/color-picker/saturation/thumb-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSaturationThumbSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8449d1429b52be730ded17a20677ba6d81772a89"
+      name: "Component / rd/color-picker/saturation/thumb-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_color_picker_slider_height"
+    semantic_name: "Component / rd/color-picker/slider/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSliderHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5d2d657739ea8460f3e7e250b6a26dfc9b919fe9"
+      name: "Component / rd/color-picker/slider/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "size_component_rd_color_picker_slider_thumb_size"
+    semantic_name: "Component / rd/color-picker/slider/thumb-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSliderThumbSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1827dc48bfb92125bf3ce554d1a210b0fff1de47"
+      name: "Component / rd/color-picker/slider/thumb-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_color_picker_swatch_height"
+    semantic_name: "Component / rd/color-picker/swatch/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSwatchHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "46d7e40aa40c1920c4ea1d5575c37d36d8a320cd"
+      name: "Component / rd/color-picker/swatch/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_color_picker_swatch_width"
+    semantic_name: "Component / rd/color-picker/swatch/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSwatchWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cb35bc263a18d06e4556f6141e5dd4beee26078a"
+      name: "Component / rd/color-picker/swatch/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_countdown_large_bg_width"
+    semantic_name: "Component / rd/countdown/large/bg-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeBgWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "078e24873cac60f3a24529c1ca160c63f6f1bad8"
+      name: "Component / rd/countdown/large/bg-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_component_rd_countdown_large_default_font_size"
+    semantic_name: "Component / rd/countdown/large/default-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeDefaultFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "70f60d0f867932304f7394d402cdbe8feb4c5e61"
+      name: "Component / rd/countdown/large/default-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_countdown_large_no_unit_font_size"
+    semantic_name: "Component / rd/countdown/large/no-unit-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeNoUnitFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "aac2d9e9f80cc5c8acf73c9150c7ad04458e577a"
+      name: "Component / rd/countdown/large/no-unit-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_countdown_large_square_font_size"
+    semantic_name: "Component / rd/countdown/large/square-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeSquareFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1e6d65fcc2b8b255ec94b88d50bbfcef0152e27f"
+      name: "Component / rd/countdown/large/square-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_countdown_large_unit_font_size"
+    semantic_name: "Component / rd/countdown/large/unit-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeUnitFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0463af0c996216b9758da22dd6ceb0295a2fb381"
+      name: "Component / rd/countdown/large/unit-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_countdown_medium_bg_width"
+    semantic_name: "Component / rd/countdown/medium/bg-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumBgWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5e1330a314a79d2f4b5685216410cbfab7211ffb"
+      name: "Component / rd/countdown/medium/bg-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_countdown_medium_default_font_size"
+    semantic_name: "Component / rd/countdown/medium/default-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumDefaultFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6c5824e9ca75ba1edf4c3b0c6a876182563b2675"
+      name: "Component / rd/countdown/medium/default-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_countdown_medium_no_unit_font_size"
+    semantic_name: "Component / rd/countdown/medium/no-unit-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumNoUnitFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b48677e6d533b1fe2bb1116ce8e8474ed78f77e5"
+      name: "Component / rd/countdown/medium/no-unit-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_countdown_medium_square_font_size"
+    semantic_name: "Component / rd/countdown/medium/square-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumSquareFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "532112561450cb0804e94c5dc7149383c9fc832a"
+      name: "Component / rd/countdown/medium/square-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_countdown_medium_unit_font_size"
+    semantic_name: "Component / rd/countdown/medium/unit-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumUnitFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4af12488d5c90a4d42eeb50d8e0f960e236b21ee"
+      name: "Component / rd/countdown/medium/unit-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/font-size/s -> rd/font-size/body-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_countdown_small_bg_width"
+    semantic_name: "Component / rd/countdown/small/bg-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallBgWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "78efe70e626b34c1f84ec591fb8accbc1294013a"
+      name: "Component / rd/countdown/small/bg-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_countdown_small_default_font_size"
+    semantic_name: "Component / rd/countdown/small/default-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallDefaultFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b0a299e9eafeeb2388f28324acbd72b7f321c181"
+      name: "Component / rd/countdown/small/default-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_countdown_small_no_unit_font_size"
+    semantic_name: "Component / rd/countdown/small/no-unit-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallNoUnitFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "34ecfeb8efb8c159dcc2c4d3a94bd387eff7b892"
+      name: "Component / rd/countdown/small/no-unit-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_countdown_small_square_font_size"
+    semantic_name: "Component / rd/countdown/small/square-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallSquareFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0ff0abc9620cd4ef01cf56ab7ba385ee876e98a9"
+      name: "Component / rd/countdown/small/square-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/font-size/s -> rd/font-size/body-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_countdown_small_unit_font_size"
+    semantic_name: "Component / rd/countdown/small/unit-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallUnitFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0bfa99b6615eabba7421119b908f4fb93a79df3b"
+      name: "Component / rd/countdown/small/unit-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "0px"
+        css: "0px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "0px"
+  - token_id: "size_component_rd_data_time_picker_year_width"
+    semantic_name: "Component / rd/data-time-picker/year-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDataTimePickerYearWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5c47dc5da6c85f61a01fccf165f7ff6c262f5af1"
+      name: "Component / rd/data-time-picker/year-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "64px"
+        css: "64px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "64px"
+  - token_id: "size_component_rd_dialog_body_max_height"
+    semantic_name: "Component / rd/dialog/body-max-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDialogBodyMaxHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c250cffa2fb0a9adef8c7dd4d8a49004379edd78"
+      name: "Component / rd/dialog/body-max-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "456px"
+        css: "456px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "456px"
+  - token_id: "size_component_rd_dialog_close_icon_size"
+    semantic_name: "Component / rd/dialog/close/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDialogCloseIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c9d91c1995fec743ed3f44f65c0b9cf8d17e2880"
+      name: "Component / rd/dialog/close/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_dialog_width"
+    semantic_name: "Component / rd/dialog/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDialogWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2406d7340d91dd9eeb4bfc808cc2d0a3e01a0f89"
+      name: "Component / rd/dialog/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "311px"
+        css: "311px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "311px"
+  - token_id: "size_component_rd_divider_border_width"
+    semantic_name: "Component / rd/divider/border-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDividerBorderWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d54d18c2e73f355a4c896ca63adba9d6f35fc119"
+      name: "Component / rd/divider/border-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "1px"
+        css: "1px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "1px"
+  - token_id: "size_component_rd_drawer_item_icon_size"
+    semantic_name: "Component / rd/drawer/item-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDrawerItemIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "93ce14babfaacf0cef9df35470f8caaf3a167e1f"
+      name: "Component / rd/drawer/item-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_drawer_sidebar_height"
+    semantic_name: "Component / rd/drawer/sidebar-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDrawerSidebarHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c6e5c0ed61d727828f428c19107d9028f77a068e"
+      name: "Component / rd/drawer/sidebar-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "70px"
+        css: "70px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "70px"
+  - token_id: "size_component_rd_drawer_width"
+    semantic_name: "Component / rd/drawer/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDrawerWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a9697ca2529ebb73f1fed63a819dcd65f7452de7"
+      name: "Component / rd/drawer/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "280px"
+        css: "280px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "280px"
+  - token_id: "size_component_rd_dropdown_body_max_height"
+    semantic_name: "Component / rd/dropdown/body-max-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDropdownBodyMaxHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2648e5bf022cd65f2c2f0018cb2d682c557cad57"
+      name: "Component / rd/dropdown/body-max-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "280px"
+        css: "280px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "280px"
+  - token_id: "size_component_rd_dropdown_menu_icon_size"
+    semantic_name: "Component / rd/dropdown/menu/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDropdownMenuIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6c5a641aba0bdb67079e46107362cdc2e8e09b43"
+      name: "Component / rd/dropdown/menu/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_empty_icon_size"
+    semantic_name: "Component / rd/empty/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdEmptyIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7bf73e98f36cfbdc489a6405ffec15f1138c4601"
+      name: "Component / rd/empty/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "96px"
+        css: "96px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "96px"
+  - token_id: "size_component_rd_footer_logo_icon_height"
+    semantic_name: "Component / rd/footer/logo/icon/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFooterLogoIconHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "782931bbbef5b4e5a01b5eeaccd9c5b7f8d97b17"
+      name: "Component / rd/footer/logo/icon/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_footer_logo_icon_width"
+    semantic_name: "Component / rd/footer/logo/icon/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFooterLogoIconWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f79937a95eecbac9925201cbf58ce60d1e8e32b1"
+      name: "Component / rd/footer/logo/icon/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_footer_logo_title_url_width"
+    semantic_name: "Component / rd/footer/logo/title/url-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFooterLogoTitleUrlWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7bfdb7a355671774fe3ec691825e2da827054bfb"
+      name: "Component / rd/footer/logo/title/url-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "128px"
+        css: "128px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "128px"
+  - token_id: "size_component_rd_grid_item_icon_size"
+    semantic_name: "Component / rd/grid/item/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "963d57e15b135c76954efa1ac926c72a62709ed7"
+      name: "Component / rd/grid/item/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_grid_item_image_middle_width"
+    semantic_name: "Component / rd/grid/item/image-middle-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemImageMiddleWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "732896c77766b863414c684e756a2d8e579799be"
+      name: "Component / rd/grid/item/image-middle-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "size_component_rd_grid_item_image_small_width"
+    semantic_name: "Component / rd/grid/item/image-small-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemImageSmallWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "144af0a6ed874cfd18213a1fea8001895174e7e7"
+      name: "Component / rd/grid/item/image-small-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_grid_item_image_width"
+    semantic_name: "Component / rd/grid/item/image/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemImageWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "781d59897bd22d502499274595344561ba97b62c"
+      name: "Component / rd/grid/item/image/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_image_viewer_icon_size"
+    semantic_name: "Component / rd/image-viewer/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdImageViewerIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "68e7f7badd28b6301e3c5255c43ac4bf0a5c1db8"
+      name: "Component / rd/image-viewer/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_image_viewer_nav_height"
+    semantic_name: "Component / rd/image-viewer/nav/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdImageViewerNavHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "500340e4873c292c7c189297dfcfe559700e5b0b"
+      name: "Component / rd/image-viewer/nav/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_image_viewer_nav_index_font_size"
+    semantic_name: "Component / rd/image-viewer/nav/index-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdImageViewerNavIndexFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "fea0e9d3dcd095dc9a6d6453d1977bd09041f82b"
+      name: "Component / rd/image-viewer/nav/index-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/base -> rd/font-size/title-small"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_indexes_sidebar_item_size"
+    semantic_name: "Component / rd/indexes/sidebar/item-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdIndexesSidebarItemSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a850a3c36e8ee0e1f47d222c07217965e6fb7403"
+      name: "Component / rd/indexes/sidebar/item-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_indexes_sidebar_line_height"
+    semantic_name: "Component / rd/indexes/sidebar/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdIndexesSidebarLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1eef35e29452b9b0028dafea7ca82df85f2cb307"
+      name: "Component / rd/indexes/sidebar/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_indexes_sidebar_tips_size"
+    semantic_name: "Component / rd/indexes/sidebar/tips/size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdIndexesSidebarTipsSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "92b17e9d34e529b972c021592ac740705d1c2ce7"
+      name: "Component / rd/indexes/sidebar/tips/size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_input_label_text_max_width"
+    semantic_name: "Component / rd/input/label/text-max-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdInputLabelTextMaxWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "73162cea35d298c81f83e52db1247d64e28188c9"
+      name: "Component / rd/input/label/text-max-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "80px"
+        css: "80px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "80px"
+  - token_id: "size_component_rd_link_icon_large_font_size"
+    semantic_name: "Component / rd/link/icon/large-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdLinkIconLargeFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d8883d5248a41c11c5774113ac1c85c08d772829"
+      name: "Component / rd/link/icon/large-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_link_icon_medium_font_size"
+    semantic_name: "Component / rd/link/icon/medium-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdLinkIconMediumFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c4fed33fbbc3d67905b73d4e64f782f2e865b9be"
+      name: "Component / rd/link/icon/medium-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_link_icon_small_font_size"
+    semantic_name: "Component / rd/link/icon/small-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdLinkIconSmallFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "bbff608444434c33e432f851e31f667ae5c3d73e"
+      name: "Component / rd/link/icon/small-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_message_height"
+    semantic_name: "Component / rd/message/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdMessageHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "10361ee8ba63c30553708713556898be5ebf5a63"
+      name: "Component / rd/message/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_message_icon_size"
+    semantic_name: "Component / rd/message/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdMessageIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "769f11b52e53826415fb77c97a18e12ce31f412b"
+      name: "Component / rd/message/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_navbar_capsule_height"
+    semantic_name: "Component / rd/navbar/capsule/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNavbarCapsuleHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0c298d30dff9c146f3fb45606f026fa7db9ef93f"
+      name: "Component / rd/navbar/capsule/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_navbar_capsule_width"
+    semantic_name: "Component / rd/navbar/capsule/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNavbarCapsuleWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "11550d81d0a6be1649ab5f699006cd66ab836fd2"
+      name: "Component / rd/navbar/capsule/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "88px"
+        css: "88px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "88px"
+  - token_id: "size_component_rd_navbar_height"
+    semantic_name: "Component / rd/navbar/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNavbarHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8aeb3488c821ab28f25da024f8ddef920472421f"
+      name: "Component / rd/navbar/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_navbar_left_arrow_size"
+    semantic_name: "Component / rd/navbar/left-arrow-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNavbarLeftArrowSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0918d0ef38e6878f381441a79ab8367858b200a9"
+      name: "Component / rd/navbar/left-arrow-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_notice_bar_icon_size"
+    semantic_name: "Component / rd/notice-bar/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNoticeBarIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7482c86dffbc09c8b8ba7b6dbf4def1f486c6460"
+      name: "Component / rd/notice-bar/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_notice_bar_line_height"
+    semantic_name: "Component / rd/notice-bar/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNoticeBarLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9678789ac73faee7955593879ee7b3c65ffe5c83"
+      name: "Component / rd/notice-bar/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_picker_group_height"
+    semantic_name: "Component / rd/picker/group-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPickerGroupHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "56a752942f28916d29db72e1f9c2a30a2849f798"
+      name: "Component / rd/picker/group-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "200px"
+        css: "200px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "200px"
+  - token_id: "size_component_rd_picker_item_height"
+    semantic_name: "Component / rd/picker/item-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPickerItemHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "bd761bb2f56e601f104e43d5d19d82adf79e62f1"
+      name: "Component / rd/picker/item-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "size_component_rd_picker_toolbar_height"
+    semantic_name: "Component / rd/picker/toolbar-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPickerToolbarHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "088efc1f7bec13bc8db58814b883a99e199e0b1c"
+      name: "Component / rd/picker/toolbar-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "58px"
+        css: "58px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "58px"
+  - token_id: "size_component_rd_popover_arrow_height"
+    semantic_name: "Component / rd/popover/arrow-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverArrowHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "316e8088b9da82c3e217d666c1521d4f6a806189"
+      name: "Component / rd/popover/arrow-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "size_component_rd_popover_arrow_width"
+    semantic_name: "Component / rd/popover/arrow-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverArrowWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "25c269d4e6ab721d1b688d51e32194cb608ef3c1"
+      name: "Component / rd/popover/arrow-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "size_component_rd_popover_content_font_size"
+    semantic_name: "Component / rd/popover/content-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverContentFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "47605fa0cf771bd72c3cfeb0611200a3ca694186"
+      name: "Component / rd/popover/content-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_popover_content_line_height"
+    semantic_name: "Component / rd/popover/content-line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverContentLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6bcea538fec7fe480335e64f1636575b67ff2460"
+      name: "Component / rd/popover/content-line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_progress_circle_icon_size"
+    semantic_name: "Component / rd/progress/circle-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdProgressCircleIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "da4e04d45b7f2765fe8e914d594b2b1f98e01480"
+      name: "Component / rd/progress/circle-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_progress_circle_width"
+    semantic_name: "Component / rd/progress/circle-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdProgressCircleWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "436660a156c3954a09780d0a1009356f8fdb947f"
+      name: "Component / rd/progress/circle-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "112px"
+        css: "112px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "112px"
+  - token_id: "size_component_rd_progress_line_icon_size"
+    semantic_name: "Component / rd/progress/line-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdProgressLineIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c6ee13ab2bffadcc77c0f42cb9a23d075fc4d440"
+      name: "Component / rd/progress/line-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_progress_line_stroke_width"
+    semantic_name: "Component / rd/progress/line-stroke-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdProgressLineStrokeWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2df79e6110e7cae9002a41b3c67dcb7444bea6f7"
+      name: "Component / rd/progress/line-stroke-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "size_component_rd_progress_stroke_circle_width"
+    semantic_name: "Component / rd/progress/stroke-circle-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdProgressStrokeCircleWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "933f23386a3f0fd8f04675dae5727eba84f38699"
+      name: "Component / rd/progress/stroke-circle-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "size_component_rd_progress_stroke_plump_width"
+    semantic_name: "Component / rd/progress/stroke-plump-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdProgressStrokePlumpWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "90903832222e21390e26c01cfb37c6995789b7c9"
+      name: "Component / rd/progress/stroke-plump-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_qrcode_line_height"
+    semantic_name: "Component / rd/qrcode/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdQrcodeLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a0ce2d16ce6622f2b51b1d72f1fbdb41a7107e59"
+      name: "Component / rd/qrcode/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_qrcode_mask_inner_btn_height"
+    semantic_name: "Component / rd/qrcode/mask-inner-btn-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdQrcodeMaskInnerBtnHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3a5559e6370ace91ca5c0c83d39067d86936fed1"
+      name: "Component / rd/qrcode/mask-inner-btn-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_radio_icon_size"
+    semantic_name: "Component / rd/radio/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdRadioIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5cf7c4912104282833ea5f2c20c19b602c53fda5"
+      name: "Component / rd/radio/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_radio_label_line_height"
+    semantic_name: "Component / rd/radio/label-line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdRadioLabelLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ff075729763d0d36afce33c30881aaf16482a678"
+      name: "Component / rd/radio/label-line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_rate_text_font_size"
+    semantic_name: "Component / rd/rate/text/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdRateTextFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "44e137e74da1df20d30f11b5561b8b900f7e8b8e"
+      name: "Component / rd/rate/text/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/m -> rd/font-size/title-medium"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_result_icon_size"
+    semantic_name: "Component / rd/result/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdResultIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c152c49700d752ba8d798bb416b00ba47bf8a242"
+      name: "Component / rd/result/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "80px"
+        css: "80px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "80px"
+  - token_id: "size_component_rd_search_clear_icon_size"
+    semantic_name: "Component / rd/search/clear-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSearchClearIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d706ac995a01a47677064521868061f9d5c11e10"
+      name: "Component / rd/search/clear-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_search_height"
+    semantic_name: "Component / rd/search/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSearchHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5c4890abd7a185d2ae3487d8e4fc9fb4c57cfbb6"
+      name: "Component / rd/search/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "size_component_rd_search_icon_size"
+    semantic_name: "Component / rd/search/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSearchIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c0c12bf46b7317a08de451fbf1a4a16d3edfec27"
+      name: "Component / rd/search/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_side_bar_icon_size"
+    semantic_name: "Component / rd/side-bar/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSideBarIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e6a90686306648685a271be4519a84f3a7e608ae"
+      name: "Component / rd/side-bar/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_side_bar_item_height"
+    semantic_name: "Component / rd/side-bar/item-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSideBarItemHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f33ed23860382fbc64e67f5851ed76188f3c5ed2"
+      name: "Component / rd/side-bar/item-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "56px"
+        css: "56px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "56px"
+  - token_id: "size_component_rd_side_bar_width"
+    semantic_name: "Component / rd/side-bar/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSideBarWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "442064655c2d98b2ea40e9b595cb10317c55a1de"
+      name: "Component / rd/side-bar/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "103px"
+        css: "103px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "103px"
+  - token_id: "size_component_rd_skeleton_circle_height"
+    semantic_name: "Component / rd/skeleton/circle/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSkeletonCircleHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ec22455138e08fcffb6fdddf8fd718e27371fdab"
+      name: "Component / rd/skeleton/circle/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_skeleton_rect_height"
+    semantic_name: "Component / rd/skeleton/rect/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSkeletonRectHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "479dc4fb0040d5e91cb88a23fe225e6b8b8785ec"
+      name: "Component / rd/skeleton/rect/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_skeleton_text_height"
+    semantic_name: "Component / rd/skeleton/text/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSkeletonTextHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "49f87af70cf06657054519d09788410d9ccef4dc"
+      name: "Component / rd/skeleton/text/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_slider_bar_height"
+    semantic_name: "Component / rd/slider/bar-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSliderBarHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c82fc090086e49744ad8703a51422c45f6b9e9d0"
+      name: "Component / rd/slider/bar-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "size_component_rd_slider_bar_width"
+    semantic_name: "Component / rd/slider/bar-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSliderBarWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "833156c8ca67b5f88a13b50a81d9022b0777c7e7"
+      name: "Component / rd/slider/bar-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "size_component_rd_slider_capsule_bar_height"
+    semantic_name: "Component / rd/slider/capsule/bar-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSliderCapsuleBarHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6aff6ef109e1cfe82229c2921348e4f6a82f29b6"
+      name: "Component / rd/slider/capsule/bar-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_slider_capsule_bar_width"
+    semantic_name: "Component / rd/slider/capsule/bar-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSliderCapsuleBarWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "537d70a1c7e3aebc262551e20a6aadef27eeca17"
+      name: "Component / rd/slider/capsule/bar-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_slider_capsule_line_height"
+    semantic_name: "Component / rd/slider/capsule/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSliderCapsuleLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "469b9acf0db7f288f223fb9f136d88f68d847b65"
+      name: "Component / rd/slider/capsule/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_slider_dot_size"
+    semantic_name: "Component / rd/slider/dot/size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSliderDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "aad6660d1a232236ebf4fa92f10b2fe98bf1784c"
+      name: "Component / rd/slider/dot/size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_step_item_circle_size"
+    semantic_name: "Component / rd/step-item/circle-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepItemCircleSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "34053e6106688ff65f7b0ec9ea54bb07dbd61695"
+      name: "Component / rd/step-item/circle-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_step_item_dot_size"
+    semantic_name: "Component / rd/step-item/dot-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepItemDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "11408ba1cf4bcd53abf7f618d4662496b2a5fb82"
+      name: "Component / rd/step-item/dot-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "size_component_rd_stepper_border_width"
+    semantic_name: "Component / rd/stepper/border-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperBorderWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5b0da8ab74843443aa311abf1cd6842e26566e2b"
+      name: "Component / rd/stepper/border-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "1px"
+        css: "1px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "1px"
+  - token_id: "size_component_rd_stepper_large_font_size"
+    semantic_name: "Component / rd/stepper/large/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperLargeFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b40ad0051c8d3acdc066f96c9c44a23c7c76162f"
+      name: "Component / rd/stepper/large/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_stepper_large_height"
+    semantic_name: "Component / rd/stepper/large/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperLargeHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a535d158cfde97babd5a26b799c9b4d7b91668c2"
+      name: "Component / rd/stepper/large/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "26px"
+        css: "26px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "26px"
+  - token_id: "size_component_rd_stepper_large_icon_size"
+    semantic_name: "Component / rd/stepper/large/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperLargeIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1a43f1eaa5a3ce9e5cccaf98a14fc3e71b7a57a4"
+      name: "Component / rd/stepper/large/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_stepper_large_input_width"
+    semantic_name: "Component / rd/stepper/large/input-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperLargeInputWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a62d964b30e17c0450f4d7fdfb6e07771587ba61"
+      name: "Component / rd/stepper/large/input-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "45px"
+        css: "45px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "45px"
+  - token_id: "size_component_rd_stepper_medium_font_size"
+    semantic_name: "Component / rd/stepper/medium/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperMediumFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7b00674f4aee35c449afa5cacfd6a6623f39c471"
+      name: "Component / rd/stepper/medium/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_stepper_medium_height"
+    semantic_name: "Component / rd/stepper/medium/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperMediumHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "eb88348c80bd38669e07d290d2653edcc450076d"
+      name: "Component / rd/stepper/medium/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_stepper_medium_icon_size"
+    semantic_name: "Component / rd/stepper/medium/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperMediumIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4ee5d61c0840808285cfdbe63e814f23b945eb25"
+      name: "Component / rd/stepper/medium/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_stepper_medium_input_width"
+    semantic_name: "Component / rd/stepper/medium/input-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperMediumInputWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ac27eb51ac191e11742f00e2b7a7fecf9c3879ec"
+      name: "Component / rd/stepper/medium/input-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "38px"
+        css: "38px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "38px"
+  - token_id: "size_component_rd_stepper_small_font_size"
+    semantic_name: "Component / rd/stepper/small/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperSmallFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6816bd8cba962fc30aedfc4a1ea9c2633ac65416"
+      name: "Component / rd/stepper/small/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "10px"
+        css: "10px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "10px"
+  - token_id: "size_component_rd_stepper_small_height"
+    semantic_name: "Component / rd/stepper/small/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperSmallHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cde611f90c2907b4b23600e761b2dee4d1ee9465"
+      name: "Component / rd/stepper/small/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_stepper_small_icon_size"
+    semantic_name: "Component / rd/stepper/small/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperSmallIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4b7a3faa3a614d7dfd9c7b19a7d9901769f8dca0"
+      name: "Component / rd/stepper/small/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_stepper_small_input_width"
+    semantic_name: "Component / rd/stepper/small/input-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdStepperSmallInputWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9d2f52561d0ef968cffbaa8def3e0912f66d20b2"
+      name: "Component / rd/stepper/small/input-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "34px"
+        css: "34px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "34px"
+  - token_id: "size_component_rd_swiper_nav_btn_size"
+    semantic_name: "Component / rd/swiper/nav/btn/size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwiperNavBtnSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3292c5efe02e6023031a6408d8e4b8d9c18d4d46"
+      name: "Component / rd/swiper/nav/btn/size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_swiper_nav_dot_size"
+    semantic_name: "Component / rd/swiper/nav/dot/size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwiperNavDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "22eb25a70ba9cd084261e4805838ed05e830d99e"
+      name: "Component / rd/swiper/nav/dot/size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "size_component_rd_swiper_nav_dots_bar_active_width"
+    semantic_name: "Component / rd/swiper/nav/dots-bar/active-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwiperNavDotsBarActiveWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "94af28aeab2327c8dea408beebaba9e311ec2e63"
+      name: "Component / rd/swiper/nav/dots-bar/active-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_swiper_nav_fraction_height"
+    semantic_name: "Component / rd/swiper/nav/fraction/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwiperNavFractionHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d2a854500208664832f5bb2e2050094836d63290"
+      name: "Component / rd/swiper/nav/fraction/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_switch_dot_plain_size"
+    semantic_name: "Component / rd/switch/dot-plain-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchDotPlainSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c0f39a248c692e1b590e587b1cb6108eb4b75949"
+      name: "Component / rd/switch/dot-plain-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_switch_dot_size"
+    semantic_name: "Component / rd/switch/dot-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "36d6649b67577c136813eb02f007bc4551fccbaf"
+      name: "Component / rd/switch/dot-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_switch_height"
+    semantic_name: "Component / rd/switch/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "dd1205572d353a4aca6310d143bf8e9c76585190"
+      name: "Component / rd/switch/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_component_rd_switch_icon_size"
+    semantic_name: "Component / rd/switch/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "69b8dbad4e49a808fd7e26f361bb48af4a472d84"
+      name: "Component / rd/switch/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_component_rd_switch_label_font_size"
+    semantic_name: "Component / rd/switch/label-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLabelFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3e1c08f8284a74eeba70e998621ad32464318c73"
+      name: "Component / rd/switch/label-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_switch_large_dot_plain_size"
+    semantic_name: "Component / rd/switch/large/dot-plain-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLargeDotPlainSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "754e2fefa9016d093346da255625006a6245732c"
+      name: "Component / rd/switch/large/dot-plain-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_switch_large_dot_size"
+    semantic_name: "Component / rd/switch/large/dot-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLargeDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "56bec0d697e55059caf297ccff470eec2910d8d1"
+      name: "Component / rd/switch/large/dot-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "26px"
+        css: "26px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "26px"
+  - token_id: "size_component_rd_switch_large_height"
+    semantic_name: "Component / rd/switch/large/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLargeHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "316e8634cc4b255dad90b3a1cab0207d291040a7"
+      name: "Component / rd/switch/large/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_switch_large_icon_size"
+    semantic_name: "Component / rd/switch/large/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLargeIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "825e37e731f3b142eb19566b0a99c1482a3bae61"
+      name: "Component / rd/switch/large/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_switch_large_label_font_size"
+    semantic_name: "Component / rd/switch/large/label-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLargeLabelFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "47f889f59a3cf7673d964f22e467dcf50f9dd79a"
+      name: "Component / rd/switch/large/label-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_switch_large_width"
+    semantic_name: "Component / rd/switch/large/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchLargeWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ee363a7992f8230a3bb95ce12f896fef4756bc2a"
+      name: "Component / rd/switch/large/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "52px"
+        css: "52px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "52px"
+  - token_id: "size_component_rd_switch_small_dot_plain_size"
+    semantic_name: "Component / rd/switch/small/dot-plain-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchSmallDotPlainSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8f51f9933d77f69659f512cb9fb53117f94fd0e9"
+      name: "Component / rd/switch/small/dot-plain-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_switch_small_dot_size"
+    semantic_name: "Component / rd/switch/small/dot-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchSmallDotSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "233956722275353ab254d462e424974d5beec7d3"
+      name: "Component / rd/switch/small/dot-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_switch_small_height"
+    semantic_name: "Component / rd/switch/small/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchSmallHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d42b764576e909b5d570f2befdba0cbd03c16bab"
+      name: "Component / rd/switch/small/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_switch_small_icon_size"
+    semantic_name: "Component / rd/switch/small/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchSmallIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c1e1f97a4d013af07672f0aa9d79fa8f7887a4a6"
+      name: "Component / rd/switch/small/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_switch_small_label_font_size"
+    semantic_name: "Component / rd/switch/small/label-font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchSmallLabelFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "58dbb061f4f4daf9786895476da9e6283920d86b"
+      name: "Component / rd/switch/small/label-font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_switch_small_width"
+    semantic_name: "Component / rd/switch/small/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchSmallWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b6cf304d31ff196388080d60f7478e56074633ce"
+      name: "Component / rd/switch/small/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "39px"
+        css: "39px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "39px"
+  - token_id: "size_component_rd_switch_width"
+    semantic_name: "Component / rd/switch/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "edb367d4bddc7f90c0bba64410f8d015fc669a00"
+      name: "Component / rd/switch/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "45px"
+        css: "45px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "45px"
+  - token_id: "size_component_rd_tab_bar_height"
+    semantic_name: "Component / rd/tab-bar/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabBarHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a2e1081cf1e13859297a05072d720a2b492773fa"
+      name: "Component / rd/tab-bar/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "40px"
+        css: "40px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "40px"
+  - token_id: "size_component_rd_table_fixed_cell_border_width"
+    semantic_name: "Component / rd/table/fixed-cell-border-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableFixedCellBorderWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "57f598a15b0450b3beb30ba3b4c24f60db4e80c6"
+      name: "Component / rd/table/fixed-cell-border-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "size_component_rd_table_fixed_cell_border_width_light"
+    semantic_name: "Component / rd/table/fixed-cell-border-width-light"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableFixedCellBorderWidthLight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3fd1137649bd040253c337ad043c5c005ad2adc3"
+      name: "Component / rd/table/fixed-cell-border-width-light"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "2px"
+        css: "2px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "2px"
+  - token_id: "size_component_rd_table_icon_size"
+    semantic_name: "Component / rd/table/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "853d491e3c3f768ded6244cdf610ffc46fa9e795"
+      name: "Component / rd/table/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_table_line_height"
+    semantic_name: "Component / rd/table/line-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableLineHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "239b2b52f1b9ce91604cf6af67ff55f535c05755"
+      name: "Component / rd/table/line-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_component_rd_table_loading_size"
+    semantic_name: "Component / rd/table/loading-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableLoadingSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4a3e6a74dc6fae819b2ab2133610eb4c023ba01d"
+      name: "Component / rd/table/loading-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "rd/font-size/l -> rd/font-size/title-large"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_tabs_icon_size"
+    semantic_name: "Component / rd/tabs/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabsIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e7ebcefae00fff8816c4dfa6b47e336d2dd4ec2d"
+      name: "Component / rd/tabs/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_component_rd_tabs_item_height"
+    semantic_name: "Component / rd/tabs/item/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabsItemHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "adcb080bb7de9f5087b3c9ce7cf5d1e4fc2550f7"
+      name: "Component / rd/tabs/item/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_component_rd_tabs_item_tag_height"
+    semantic_name: "Component / rd/tabs/item/tag/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabsItemTagHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2267c7cf6bc0a941e59505fc1ed7940c55ea6be3"
+      name: "Component / rd/tabs/item/tag/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_tabs_item_vertical_height"
+    semantic_name: "Component / rd/tabs/item/vertical-height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabsItemVerticalHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0830ce11f5a0c573a278f20dc62609ffd9c13e47"
+      name: "Component / rd/tabs/item/vertical-height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "54px"
+        css: "54px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "54px"
+  - token_id: "size_component_rd_tabs_item_vertical_width"
+    semantic_name: "Component / rd/tabs/item/vertical-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabsItemVerticalWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "88afccc625a07c6fc776fce63d7977853b88538d"
+      name: "Component / rd/tabs/item/vertical-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "104px"
+        css: "104px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "104px"
+  - token_id: "size_component_rd_tabs_track_width"
+    semantic_name: "Component / rd/tabs/track/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTabsTrackWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "dce63156a7409c931ca7b095f0b7c8b63fa625ae"
+      name: "Component / rd/tabs/track/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_tag_extra_large_icon_size"
+    semantic_name: "Component / rd/tag/extra-large/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTagExtraLargeIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9dbf4d7194998efd5d3cd3fea9122183235bea6d"
+      name: "Component / rd/tag/extra-large/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_tag_large_icon_size"
+    semantic_name: "Component / rd/tag/large/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTagLargeIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5d1e952964d7006b63564c245b0d592668f2d2d1"
+      name: "Component / rd/tag/large/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_tag_medium_icon_size"
+    semantic_name: "Component / rd/tag/medium/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTagMediumIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0b7bc33b779f33af3250d628e8022739ce4928cf"
+      name: "Component / rd/tag/medium/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_component_rd_tag_small_icon_size"
+    semantic_name: "Component / rd/tag/small/icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTagSmallIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8625e6746d4ee1d6c5cb0b098fda4c665fee6bd9"
+      name: "Component / rd/tag/small/icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_component_rd_textarea_border_width"
+    semantic_name: "Component / rd/textarea/border-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTextareaBorderWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c5a39fe6f6602e2642e2d403c93e40b59766c813"
+      name: "Component / rd/textarea/border-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "1px"
+        css: "1px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "1px"
+  - token_id: "size_component_rd_textarea_label_width"
+    semantic_name: "Component / rd/textarea/label-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTextareaLabelWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "117397060d33b79fb1d38c29f2c7c9dee787ef57"
+      name: "Component / rd/textarea/label-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "64px"
+        css: "64px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "64px"
+  - token_id: "size_component_rd_toast_column_icon_size"
+    semantic_name: "Component / rd/toast/column-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdToastColumnIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "74f6e3987b5dec916b4f88e81114a57ee23eb4bf"
+      name: "Component / rd/toast/column-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_component_rd_toast_max_width"
+    semantic_name: "Component / rd/toast/max-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdToastMaxWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9e01760bcfa9b79f2a9abf650c91a27345814868"
+      name: "Component / rd/toast/max-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "185px"
+        css: "185px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "185px"
+  - token_id: "size_component_rd_toast_row_icon_size"
+    semantic_name: "Component / rd/toast/row-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdToastRowIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b3d6f1b8b8b69ce2942b60ffd933a743426f8d75"
+      name: "Component / rd/toast/row-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_component_rd_tree_colum_width"
+    semantic_name: "Component / rd/tree/colum-width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTreeColumWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b7f3fc0cea96293f69c118ecd6b757a9d7ba3566"
+      name: "Component / rd/tree/colum-width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "103px"
+        css: "103px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "103px"
+  - token_id: "size_component_rd_tree_item_font_size"
+    semantic_name: "Component / rd/tree/item/font-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTreeItemFontSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "008bd871309d846d6a3231906b12cc4dde0e7535"
+      name: "Component / rd/tree/item/font-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_component_rd_tree_item_height"
+    semantic_name: "Component / rd/tree/item/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTreeItemHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9fa9c336d43b823e2ba9553372995b89b5e8c95d"
+      name: "Component / rd/tree/item/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "56px"
+        css: "56px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "56px"
+  - token_id: "size_component_rd_upload_add_icon_size"
+    semantic_name: "Component / rd/upload/add-icon-size"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdUploadAddIconSize"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e5467955578ab8834aba145f17d6d7202661832e"
+      name: "Component / rd/upload/add-icon-size"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_component_rd_upload_height"
+    semantic_name: "Component / rd/upload/height"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdUploadHeight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "11be2f1d890c345330243567b2aaf4e938b83459"
+      name: "Component / rd/upload/height"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "80px"
+        css: "80px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "80px"
+  - token_id: "size_component_rd_upload_width"
+    semantic_name: "Component / rd/upload/width"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdUploadWidth"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2226a85624de12c7793e6fc8a161b0458d4da6b7"
+      name: "Component / rd/upload/width"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "80px"
+        css: "80px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "80px"
+  - token_id: "size_font_rd_font_size_base"
+    semantic_name: "font / rd/font-size/base"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeBase"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "21f196c2f08934a53f188052bf77b6fb3936397b"
+      name: "font / rd/font-size/base"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "14px"
+        css: "14px"
+        source: "rd/font-size/title-small"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_font_rd_font_size_body_extrasmall"
+    semantic_name: "font / rd/font-size/body-extraSmall"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeBodyExtrasmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e2bf80e7e0f5ed20f000a46dcf32c08c1db39249"
+      name: "font / rd/font-size/body-extraSmall"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "10px"
+        css: "10px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "10px"
+  - token_id: "size_font_rd_font_size_body_large"
+    semantic_name: "font / rd/font-size/body-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeBodyLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ff55c6e2d9698e5336c3b4e289987c34ee8273c9"
+      name: "font / rd/font-size/body-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_font_size_body_medium"
+    semantic_name: "font / rd/font-size/body-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeBodyMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f1940dbd7efa70af4c53847a10698161e156a8da"
+      name: "font / rd/font-size/body-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_font_rd_font_size_body_small"
+    semantic_name: "font / rd/font-size/body-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeBodySmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d7233a6b11dc8b46f6091f4764dfd47e21b6bc45"
+      name: "font / rd/font-size/body-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_font_rd_font_size_display_large"
+    semantic_name: "font / rd/font-size/display-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeDisplayLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3fbb94562b14e77b3268acf60e15dd602cf16018"
+      name: "font / rd/font-size/display-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "64px"
+        css: "64px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "64px"
+  - token_id: "size_font_rd_font_size_display_medium"
+    semantic_name: "font / rd/font-size/display-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeDisplayMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e07571ee484ac4a051040164cb8f9bb9c88823a6"
+      name: "font / rd/font-size/display-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "48px"
+        css: "48px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "48px"
+  - token_id: "size_font_rd_font_size_headline_large"
+    semantic_name: "font / rd/font-size/headline-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeHeadlineLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6b9b2fb55536d151d3d0e506723c7ba81421836f"
+      name: "font / rd/font-size/headline-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "36px"
+        css: "36px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "36px"
+  - token_id: "size_font_rd_font_size_headline_medium"
+    semantic_name: "font / rd/font-size/headline-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeHeadlineMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d26cbc341a6b2dd170b796887148f64a34b08cd5"
+      name: "font / rd/font-size/headline-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_font_rd_font_size_headline_small"
+    semantic_name: "font / rd/font-size/headline-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeHeadlineSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "033ed97a11450d173d384cd4c0f6423c45c235ad"
+      name: "font / rd/font-size/headline-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_font_rd_font_size_l"
+    semantic_name: "font / rd/font-size/l"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeL"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c227a2e13ecac98209476a5bd7ec5bf151a9cfb0"
+      name: "font / rd/font-size/l"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "18px"
+        css: "18px"
+        source: "rd/font-size/title-large"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_font_rd_font_size_link_large"
+    semantic_name: "font / rd/font-size/link-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeLinkLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "30b17318ac0c24545ce2c6969c2f3bccfbc42a69"
+      name: "font / rd/font-size/link-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_font_size_link_medium"
+    semantic_name: "font / rd/font-size/link-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeLinkMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "441fbb79acdc74b66544902f92713be4bb7f1c09"
+      name: "font / rd/font-size/link-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_font_rd_font_size_link_small"
+    semantic_name: "font / rd/font-size/link-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeLinkSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7d46bd65f9f24c8413f10667b4ed731e097b23fc"
+      name: "font / rd/font-size/link-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_font_rd_font_size_m"
+    semantic_name: "font / rd/font-size/m"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeM"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5fff3a9ca94dd64019cf767a74d6b353590a970a"
+      name: "font / rd/font-size/m"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "rd/font-size/title-medium"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_font_size_mark_extrasmall"
+    semantic_name: "font / rd/font-size/mark-extraSmall"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeMarkExtrasmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4a635bebbafd97bea14b4beb86ed7eebdd405231"
+      name: "font / rd/font-size/mark-extraSmall"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "10px"
+        css: "10px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "10px"
+  - token_id: "size_font_rd_font_size_mark_large"
+    semantic_name: "font / rd/font-size/mark-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeMarkLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "60042e29fd52e47d101cbf7e3dd76b414f5d854d"
+      name: "font / rd/font-size/mark-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_font_size_mark_medium"
+    semantic_name: "font / rd/font-size/mark-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeMarkMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b1f27cd742e46a64c1b05c80c3b21ae70c1d3eb2"
+      name: "font / rd/font-size/mark-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_font_rd_font_size_mark_small"
+    semantic_name: "font / rd/font-size/mark-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeMarkSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0425b1c453f0dd3e120441bfd35fb9bd85f6b8e1"
+      name: "font / rd/font-size/mark-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_font_rd_font_size_s"
+    semantic_name: "font / rd/font-size/s"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeS"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cb00df340801f2e919c26eb3694cc2bfd57f22b3"
+      name: "font / rd/font-size/s"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "12px"
+        css: "12px"
+        source: "rd/font-size/body-small"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "size_font_rd_font_size_title_extralarge"
+    semantic_name: "font / rd/font-size/title-extraLarge"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeTitleExtralarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "765f82c191637c979b41c8f63957b4e56b5a3a7a"
+      name: "font / rd/font-size/title-extraLarge"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_font_rd_font_size_title_large"
+    semantic_name: "font / rd/font-size/title-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeTitleLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ff977a2be34b2a213fedb7d4f973a303b125b253"
+      name: "font / rd/font-size/title-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "18px"
+        css: "18px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "18px"
+  - token_id: "size_font_rd_font_size_title_medium"
+    semantic_name: "font / rd/font-size/title-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeTitleMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "2875d8de7561589e058c511b33209d83f8fca50a"
+      name: "font / rd/font-size/title-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_font_size_title_small"
+    semantic_name: "font / rd/font-size/title-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeTitleSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "fa8a0290d93b9a12945acfe0e906a12c5f3d881e"
+      name: "font / rd/font-size/title-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "14px"
+        css: "14px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "14px"
+  - token_id: "size_font_rd_font_size_xl"
+    semantic_name: "font / rd/font-size/xl"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeXl"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b1433f9a1d199ba5a79cb6e1caf75145450ff36b"
+      name: "font / rd/font-size/xl"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "20px"
+        css: "20px"
+        source: "rd/font-size/title-extraLarge"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_font_rd_font_size_xs"
+    semantic_name: "font / rd/font-size/xs"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeXs"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5adf87d054cdcf123c3b47dccb2805fcb509ef31"
+      name: "font / rd/font-size/xs"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "10px"
+        css: "10px"
+        source: "rd/font-size/body-extraSmall"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "10px"
+  - token_id: "size_font_rd_font_size_xxl"
+    semantic_name: "font / rd/font-size/xxl"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdFontSizeXxl"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "332f345ef513fd8ffba77923e1ba989c3a93ea0b"
+      name: "font / rd/font-size/xxl"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "36px"
+        css: "36px"
+        source: "rd/font-size/headline-large"
+    notes:
+      - "旧token，用于兼容"
+    fallback:
+      allowed: false
+      value: "36px"
+  - token_id: "size_font_rd_line_height_body_extrasmall"
+    semantic_name: "font / rd/line-height/body-extraSmall"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightBodyExtrasmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4a704481514342df92167190d1276e83b85a07a3"
+      name: "font / rd/line-height/body-extraSmall"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_line_height_body_large"
+    semantic_name: "font / rd/line-height/body-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightBodyLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7ff94c5a06f8d331ae347b53494e7cf23439af03"
+      name: "font / rd/line-height/body-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_font_rd_line_height_body_medium"
+    semantic_name: "font / rd/line-height/body-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightBodyMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6e264e0524a19869fd3993f0cd14c5ce32d1aa3f"
+      name: "font / rd/line-height/body-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_font_rd_line_height_body_small"
+    semantic_name: "font / rd/line-height/body-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightBodySmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8e8c412ebbf53f50801925a399c8289bd5884e15"
+      name: "font / rd/line-height/body-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_font_rd_line_height_display_large"
+    semantic_name: "font / rd/line-height/display-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightDisplayLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "637dcb4bc59c943dc2f2fa16620a66caafd6e057"
+      name: "font / rd/line-height/display-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "72px"
+        css: "72px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "72px"
+  - token_id: "size_font_rd_line_height_display_medium"
+    semantic_name: "font / rd/line-height/display-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightDisplayMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7eecbda40cfb83d3ed1f91a18593ae99ac161bdb"
+      name: "font / rd/line-height/display-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "56px"
+        css: "56px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "56px"
+  - token_id: "size_font_rd_line_height_headline_large"
+    semantic_name: "font / rd/line-height/headline-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightHeadlineLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7a674a6b6aa596570279209f90eebe88f56bb585"
+      name: "font / rd/line-height/headline-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "44px"
+        css: "44px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "44px"
+  - token_id: "size_font_rd_line_height_headline_medium"
+    semantic_name: "font / rd/line-height/headline-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightHeadlineMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "197eeba2f67c371188a4cec466f65ecab6f6d812"
+      name: "font / rd/line-height/headline-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "36px"
+        css: "36px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "36px"
+  - token_id: "size_font_rd_line_height_headline_small"
+    semantic_name: "font / rd/line-height/headline-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightHeadlineSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4b37718e308f3838f9a59182a0fb36a7797cdd11"
+      name: "font / rd/line-height/headline-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "32px"
+        css: "32px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "size_font_rd_line_height_link_large"
+    semantic_name: "font / rd/line-height/link-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightLinkLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1d38788d3499b0ce0f0560b1a36aa9cab76fbf9c"
+      name: "font / rd/line-height/link-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_font_rd_line_height_link_medium"
+    semantic_name: "font / rd/line-height/link-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightLinkMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1f36359489cf206c94305771172770307d2f35e0"
+      name: "font / rd/line-height/link-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_font_rd_line_height_link_small"
+    semantic_name: "font / rd/line-height/link-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightLinkSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f5cedb1afe06d601e61159c8bc0fa6b3002a60f0"
+      name: "font / rd/line-height/link-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_font_rd_line_height_mark_extrasmall"
+    semantic_name: "font / rd/line-height/mark-extraSmall"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightMarkExtrasmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a2bd0f66e1f00f1114b1b9d7f8fe625c89f4c600"
+      name: "font / rd/line-height/mark-extraSmall"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "size_font_rd_line_height_mark_large"
+    semantic_name: "font / rd/line-height/mark-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightMarkLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f320f1693264d60b8cd23066c1f70327bf8f2ea2"
+      name: "font / rd/line-height/mark-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_font_rd_line_height_mark_medium"
+    semantic_name: "font / rd/line-height/mark-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightMarkMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4eef6d482a4ef851b553ea319467c39803395016"
+      name: "font / rd/line-height/mark-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
+  - token_id: "size_font_rd_line_height_mark_small"
+    semantic_name: "font / rd/line-height/mark-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightMarkSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0a899d7373dc122cba9aa7034897c9c5dba74f2b"
+      name: "font / rd/line-height/mark-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "20px"
+        css: "20px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "20px"
+  - token_id: "size_font_rd_line_height_title_extralarge"
+    semantic_name: "font / rd/line-height/title-extraLarge"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightTitleExtralarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5060584899d7cb1ad39cf7d7a0d5d683ae1f3a4b"
+      name: "font / rd/line-height/title-extraLarge"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "28px"
+        css: "28px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "28px"
+  - token_id: "size_font_rd_line_height_title_large"
+    semantic_name: "font / rd/line-height/title-large"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightTitleLarge"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "64693a18896ba53781625bb630be9da728032ac8"
+      name: "font / rd/line-height/title-large"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "26px"
+        css: "26px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "26px"
+  - token_id: "size_font_rd_line_height_title_medium"
+    semantic_name: "font / rd/line-height/title-medium"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightTitleMedium"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d2d733d4827e67b46b6d4e1ee9eb823d358c7810"
+      name: "font / rd/line-height/title-medium"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "size_font_rd_line_height_title_small"
+    semantic_name: "font / rd/line-height/title-small"
+    category: "size"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdFontRdLineHeightTitleSmall"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6c47b093de58ab0359141a08ec1285e6b7701d30"
+      name: "font / rd/line-height/title-small"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      font:
+        value: "22px"
+        css: "22px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "22px"
   - token_id: "spacing_component_rd_avatar_group_init_zindex"
     semantic_name: "Component / rd/avatar-group/init-zIndex"
     category: "spacing"
@@ -22944,13 +25592,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 50
+        value: "50px"
+        css: "50px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 50
+      value: "50px"
   - token_id: "spacing_component_rd_avatar_group_line_spacing"
     semantic_name: "Component / rd/avatar-group/line-spacing"
     category: "spacing"
@@ -22965,13 +25614,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 2
+        value: "2px"
+        css: "2px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
+      value: "2px"
   - token_id: "spacing_component_rd_avatar_group_offset_large"
     semantic_name: "Component / rd/avatar-group/offset-large"
     category: "spacing"
@@ -22986,13 +25636,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: -8
+        value: "-8px"
+        css: "-8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: -8
+      value: "-8px"
   - token_id: "spacing_component_rd_avatar_group_offset_medium"
     semantic_name: "Component / rd/avatar-group/offset-medium"
     category: "spacing"
@@ -23007,13 +25658,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: -8
+        value: "-8px"
+        css: "-8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: -8
+      value: "-8px"
   - token_id: "spacing_component_rd_avatar_group_offset_small"
     semantic_name: "Component / rd/avatar-group/offset-small"
     category: "spacing"
@@ -23028,55 +25680,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: -8
+        value: "-8px"
+        css: "-8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: -8
-  - token_id: "spacing_component_rd_avatar_large_icon_font_size"
-    semantic_name: "Component / rd/avatar/large/icon-font-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarLargeIconFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "acb1890b07a1a99d960a49b436253957b7183e69"
-      name: "Component / rd/avatar/large/icon-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "spacing_component_rd_avatar_large_width"
-    semantic_name: "Component / rd/avatar/large/width"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarLargeWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f6ff2c9c61b9babe7bf25f1f60d0ea240f3cce4b"
-      name: "Component / rd/avatar/large/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 64
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 64
+      value: "-8px"
   - token_id: "spacing_component_rd_avatar_margin_left"
     semantic_name: "Component / rd/avatar/margin-left"
     category: "spacing"
@@ -23091,13 +25702,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 0
+        value: "0px"
+        css: "0px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 0
+      value: "0px"
   - token_id: "spacing_component_rd_avatar_margin_left"
     semantic_name: "Component / rd/avatar/margin/left"
     category: "spacing"
@@ -23112,55 +25724,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 0
+        value: "0px"
+        css: "0px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 0
-  - token_id: "spacing_component_rd_avatar_medium_icon_font_size"
-    semantic_name: "Component / rd/avatar/medium/icon-font-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarMediumIconFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e6db5a7c3f1e35d9d83dea9b6b7c31377a2b254c"
-      name: "Component / rd/avatar/medium/icon-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "spacing_component_rd_avatar_medium_width"
-    semantic_name: "Component / rd/avatar/medium/width"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarMediumWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "55e5c0caff31157322ee6f84b306d5be2ccf5ca2"
-      name: "Component / rd/avatar/medium/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
+      value: "0px"
   - token_id: "spacing_component_rd_avatar_small_icon_font_size"
     semantic_name: "Component / rd/avatar/small/icon-font-size"
     category: "spacing"
@@ -23175,181 +25746,58 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 20
+        value: "20px"
+        css: "20px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 20
-  - token_id: "spacing_component_rd_avatar_small_width"
-    semantic_name: "Component / rd/avatar/small/width"
+      value: "20px"
+  - token_id: "spacing_component_rd_badge_basic_padding"
+    semantic_name: "Component / rd/badge/basic-padding"
     category: "spacing"
     runtime_source:
       kind: generated_design_token
-      name: "rdComponentRdAvatarSmallWidth"
+      name: "rdComponentRdBadgeBasicPadding"
       path: "generated/figma-token-source.json"
     figma_source:
       kind: variable
-      key: "af6179a9715db2556d4aeac1cba5575b7061f47c"
-      name: "Component / rd/avatar/small/width"
+      key: "f728bf807e2f8e8980802a3bf534ed558f323a60"
+      name: "Component / rd/badge/basic-padding"
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 40
+        value: "4px"
+        css: "4px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 40
-  - token_id: "spacing_component_rd_back_top_half_round_height"
-    semantic_name: "Component / rd/back-top/half-round/height"
+      value: "4px"
+  - token_id: "spacing_component_rd_badge_large_padding"
+    semantic_name: "Component / rd/badge/large/padding"
     category: "spacing"
     runtime_source:
       kind: generated_design_token
-      name: "rdComponentRdBackTopHalfRoundHeight"
+      name: "rdComponentRdBadgeLargePadding"
       path: "generated/figma-token-source.json"
     figma_source:
       kind: variable
-      key: "b6a44648f23ac5f62fbc67f7ce823644d5c0d2d1"
-      name: "Component / rd/back-top/half-round/height"
+      key: "5ce30a36970df91845db07122e8a87a1f0471bb2"
+      name: "Component / rd/badge/large/padding"
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 40
+        value: "5px"
+        css: "5px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 40
-  - token_id: "spacing_component_rd_back_top_half_round_width"
-    semantic_name: "Component / rd/back-top/half-round/width"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBackTopHalfRoundWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4bf44acf5df589fc631496de75bce20ba0243349"
-      name: "Component / rd/back-top/half-round/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 60
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 60
-  - token_id: "spacing_component_rd_back_top_icon_size"
-    semantic_name: "Component / rd/back-top/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBackTopIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "171e48e435a8501b975aa27d96960b5dcecea4fe"
-      name: "Component / rd/back-top/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "spacing_component_rd_back_top_round_width"
-    semantic_name: "Component / rd/back-top/round/width"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBackTopRoundWidth"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "081b20de9d3477ebc2fe290ad92b4f683648d795"
-      name: "Component / rd/back-top/round/width"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "spacing_component_rd_back_top_text_line_height"
-    semantic_name: "Component / rd/back-top/text/line-height"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBackTopTextLineHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "71b137d3a67d34fcc5a006e27078ffd99c73cde6"
-      name: "Component / rd/back-top/text/line-height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "spacing_component_rd_button_extra_small_height"
-    semantic_name: "Component / rd/button/extra-small/height"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonExtraSmallHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2761450d09574383f1a821d93deaa6d9ed22831c"
-      name: "Component / rd/button/extra-small/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "spacing_component_rd_button_extra_small_icon_size"
-    semantic_name: "Component / rd/button/extra-small/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonExtraSmallIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3f48028c95378f4ad34dcf2d9cc199dd150dc771"
-      name: "Component / rd/button/extra-small/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
+      value: "5px"
   - token_id: "spacing_component_rd_button_extra_small_padding_horizontal"
     semantic_name: "Component / rd/button/extra-small/padding-horizontal"
     category: "spacing"
@@ -23364,13 +25812,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
   - token_id: "spacing_component_rd_button_icon_spacer"
     semantic_name: "Component / rd/button/icon-spacer"
     category: "spacing"
@@ -23385,55 +25834,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "rd/spacer-3"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
-  - token_id: "spacing_component_rd_button_large_height"
-    semantic_name: "Component / rd/button/large/height"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonLargeHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "526922b69e76abf779e0ce6d871c613a0c08f46e"
-      name: "Component / rd/button/large/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "spacing_component_rd_button_large_icon_size"
-    semantic_name: "Component / rd/button/large/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonLargeIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8337637a55a2d67f913093640b3656cd80fe815d"
-      name: "Component / rd/button/large/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
+      value: "8px"
   - token_id: "spacing_component_rd_button_large_padding_horizontal"
     semantic_name: "Component / rd/button/large/padding-horizontal"
     category: "spacing"
@@ -23448,55 +25856,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 20
+        value: "20px"
+        css: "20px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 20
-  - token_id: "spacing_component_rd_button_medium_height"
-    semantic_name: "Component / rd/button/medium/height"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonMediumHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f4d3a5a8b1ecbbf5749484eda70cbab8ba9f7b3f"
-      name: "Component / rd/button/medium/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 40
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 40
-  - token_id: "spacing_component_rd_button_medium_icon_size"
-    semantic_name: "Component / rd/button/medium/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonMediumIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "86c51cf0e13988c9043f953bec3c687dafe55948"
-      name: "Component / rd/button/medium/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
+      value: "20px"
   - token_id: "spacing_component_rd_button_medium_padding_horizontal"
     semantic_name: "Component / rd/button/medium/padding-horizontal"
     category: "spacing"
@@ -23511,55 +25878,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
-  - token_id: "spacing_component_rd_button_small_height"
-    semantic_name: "Component / rd/button/small/height"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonSmallHeight"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e041cf25e9997abc2665c1e806320118d268c02b"
-      name: "Component / rd/button/small/height"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "spacing_component_rd_button_small_icon_size"
-    semantic_name: "Component / rd/button/small/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonSmallIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "39ff9725f4bfb521f1215f7dc3993af9ff48ccf7"
-      name: "Component / rd/button/small/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
+      value: "16px"
   - token_id: "spacing_component_rd_button_small_padding_horizontal"
     semantic_name: "Component / rd/button/small/padding-horizontal"
     category: "spacing"
@@ -23574,13 +25900,36 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
+  - token_id: "spacing_component_rd_cascader_title_padding"
+    semantic_name: "Component / rd/cascader/title-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCascaderTitlePadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "da0374b9ddcd0f0b20eccdcb1f49d3b0ee409e04"
+      name: "Component / rd/cascader/title-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/spacer-5"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
   - token_id: "spacing_component_rd_cell_border_left_space"
     semantic_name: "Component / rd/cell/border-left-space"
     category: "spacing"
@@ -23595,13 +25944,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "rd/cell/horizontal-padding"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
   - token_id: "spacing_component_rd_cell_border_right_space"
     semantic_name: "Component / rd/cell/border-right-space"
     category: "spacing"
@@ -23616,13 +25966,564 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 0
+        value: "0px"
+        css: "0px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 0
+      value: "0px"
+  - token_id: "spacing_component_rd_cell_group_title_padding_left"
+    semantic_name: "Component / rd/cell-group/title/padding-left"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellGroupTitlePaddingLeft"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9b36d962d3d162a1f523e8c745c5dda3ef1e861a"
+      name: "Component / rd/cell-group/title/padding-left"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_cell_horizontal_padding"
+    semantic_name: "Component / rd/cell/horizontal-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellHorizontalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a394e685b9e881a087a95127b764c9c5bcc5a233"
+      name: "Component / rd/cell/horizontal-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_cell_vertical_padding"
+    semantic_name: "Component / rd/cell/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCellVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "76b547ec493fe69d1aa48f5b949a395a0a3ecb9b"
+      name: "Component / rd/cell/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_checkbox_vertical_padding"
+    semantic_name: "Component / rd/checkbox/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCheckboxVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6033629fc2c54db0215e1ec7d2fa8ac0bdd6a3c8"
+      name: "Component / rd/checkbox/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/spacer-5"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_collapse_content_padding"
+    semantic_name: "Component / rd/collapse/content-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCollapseContentPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c0b337bbf2e6dfbbdf7e9077fdf3acc06502aef6"
+      name: "Component / rd/collapse/content-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_color_picker_input_format_margin_left"
+    semantic_name: "Component / rd/color-picker/input-format-margin-left"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerInputFormatMarginLeft"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ec618d510029a18642cf191920f444df29aa8f13"
+      name: "Component / rd/color-picker/input-format-margin-left"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "spacing_component_rd_color_picker_panel_padding"
+    semantic_name: "Component / rd/color-picker/panel/padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerPanelPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "48e916dd6616c129c2b2ef0ece1d9c49f5c8ba84"
+      name: "Component / rd/color-picker/panel/padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_color_picker_slider_thumb_padding"
+    semantic_name: "Component / rd/color-picker/slider/thumb-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSliderThumbPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c19fd534acd4da48b0ab03283cdef102e6307492"
+      name: "Component / rd/color-picker/slider/thumb-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "3px"
+        css: "3px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "3px"
+  - token_id: "spacing_component_rd_color_picker_swatch_padding"
+    semantic_name: "Component / rd/color-picker/swatch/padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdColorPickerSwatchPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b4b2df0e7c2e86a1f257955cddb7b0e9dd8365e1"
+      name: "Component / rd/color-picker/swatch/padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "0px"
+        css: "0px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "0px"
+  - token_id: "spacing_component_rd_countdown_large_no_unit_margin"
+    semantic_name: "Component / rd/countdown/large/no-unit-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeNoUnitMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "71d180ce430700e189685b81ffbf8c8d58908d33"
+      name: "Component / rd/countdown/large/no-unit-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "spacing_component_rd_countdown_large_unit_margin"
+    semantic_name: "Component / rd/countdown/large/unit-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownLargeUnitMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "85e06e2460c89640129d16551006b815de491967"
+      name: "Component / rd/countdown/large/unit-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "spacing_component_rd_countdown_medium_no_unit_margin"
+    semantic_name: "Component / rd/countdown/medium/no-unit-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumNoUnitMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7555842e652884b7d34c65bb98176bc1895cb18c"
+      name: "Component / rd/countdown/medium/no-unit-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "3px"
+        css: "3px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "3px"
+  - token_id: "spacing_component_rd_countdown_medium_unit_margin"
+    semantic_name: "Component / rd/countdown/medium/unit-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownMediumUnitMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f6923f100be8ba30ab2ecb42123a2eac946e3b55"
+      name: "Component / rd/countdown/medium/unit-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "5px"
+        css: "5px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "5px"
+  - token_id: "spacing_component_rd_countdown_small_no_unit_margin"
+    semantic_name: "Component / rd/countdown/small/no-unit-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallNoUnitMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "173b8faf5a7e2750f3e96e56bd3c580be2865600"
+      name: "Component / rd/countdown/small/no-unit-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "2px"
+        css: "2px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "2px"
+  - token_id: "spacing_component_rd_countdown_small_unit_margin"
+    semantic_name: "Component / rd/countdown/small/unit-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdCountdownSmallUnitMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "7b4a17b35d7855b5288dd33b506c14c48c23e0ce"
+      name: "Component / rd/countdown/small/unit-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "spacing_component_rd_divider_content_margin"
+    semantic_name: "Component / rd/divider/content/margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDividerContentMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cc1db7135a8d133decc4209304f2c035e0474d4a"
+      name: "Component / rd/divider/content/margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/spacer-4"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_divider_horizontal_margin"
+    semantic_name: "Component / rd/divider/horizontal-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDividerHorizontalMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cabef7b3fc59a9df092c41c001d5179b60802803"
+      name: "Component / rd/divider/horizontal-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "10px"
+        css: "10px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "10px"
+  - token_id: "spacing_component_rd_divider_vertical_margin"
+    semantic_name: "Component / rd/divider/vertical-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDividerVerticalMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8c04efb50ba00f4c9a7b4827d52eb7563386e151"
+      name: "Component / rd/divider/vertical-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "rd/spacer-3"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_drawer_footer_padding_bottom"
+    semantic_name: "Component / rd/drawer/footer-padding-bottom"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDrawerFooterPaddingBottom"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1ef0cb9797b762c9d266dbb5a3a47ddd9f6f037b"
+      name: "Component / rd/drawer/footer-padding-bottom"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_drawer_item_padding"
+    semantic_name: "Component / rd/drawer/item-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdDrawerItemPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a2716a9287374ff25e14db5e867f4a5d3347d782"
+      name: "Component / rd/drawer/item-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_empty_action_margin_top"
+    semantic_name: "Component / rd/empty/action-margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdEmptyActionMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "76650e4097cc70f3e6450e22602ff29e9a1c3189"
+      name: "Component / rd/empty/action-margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "32px"
+        css: "32px"
+        source: "rd/spacer-7"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "32px"
+  - token_id: "spacing_component_rd_empty_description_margin_top"
+    semantic_name: "Component / rd/empty/description/margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdEmptyDescriptionMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c6f29c8fdfe39ec93ecc654f7d8b65b5addbf23b"
+      name: "Component / rd/empty/description/margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/spacer-5"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_footer_link_dividing_line_padding"
+    semantic_name: "Component / rd/footer/link/dividing-line-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFooterLinkDividingLinePadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e0b694cd4b44c7b855932c4726f30fbc9908e5c6"
+      name: "Component / rd/footer/link/dividing-line-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/spacer-4"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_footer_logo_icon_margin_right"
+    semantic_name: "Component / rd/footer/logo/icon/margin-right"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFooterLogoIconMarginRight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e3a888ddc11500e4e6d2fa720b026f0035f5017a"
+      name: "Component / rd/footer/logo/icon/margin-right"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "rd/spacer-3"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_footer_text_margin_top"
+    semantic_name: "Component / rd/footer/text/margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFooterTextMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3f2469c01ccd58ee54afa4c6b200c93555cd0611"
+      name: "Component / rd/footer/text/margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
   - token_id: "spacing_component_rd_form_item_border_left_space"
     semantic_name: "Component / rd/form/item/border-left-space"
     category: "spacing"
@@ -23637,13 +26538,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "rd/form/item/horizontal-padding"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
   - token_id: "spacing_component_rd_form_item_border_right_space"
     semantic_name: "Component / rd/form/item/border-right-space"
     category: "spacing"
@@ -23658,13 +26560,300 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 0
+        value: "0px"
+        css: "0px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 0
+      value: "0px"
+  - token_id: "spacing_component_rd_form_item_horizontal_padding"
+    semantic_name: "Component / rd/form/item/horizontal-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFormItemHorizontalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "157ecce077b8cd7e088a7c8c4920c790645e6d60"
+      name: "Component / rd/form/item/horizontal-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_form_item_vertical_padding"
+    semantic_name: "Component / rd/form/item/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdFormItemVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "66a9ae186741aaffc97b1080c17e118ba2bca264"
+      name: "Component / rd/form/item/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_grid_item_description_padding_top"
+    semantic_name: "Component / rd/grid/item/description/padding-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemDescriptionPaddingTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d6b860d8dcce7b3c1677fbd91dfe4c5be2031949"
+      name: "Component / rd/grid/item/description/padding-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "spacing_component_rd_grid_item_horizontal_text_padding_left"
+    semantic_name: "Component / rd/grid/item/horizontal/text-padding-left"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemHorizontalTextPaddingLeft"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6cdeabe8b9311628256647e19473a781f60385ee"
+      name: "Component / rd/grid/item/horizontal/text-padding-left"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_grid_item_text_padding_top"
+    semantic_name: "Component / rd/grid/item/text/padding-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGridItemTextPaddingTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "ed2e118a5579a804aa469be8d740fa0a31f1fd21"
+      name: "Component / rd/grid/item/text/padding-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_guide_action_margin_right"
+    semantic_name: "Component / rd/guide/action-margin-right"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGuideActionMarginRight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1c8168deda344e6aa197067d560bb2f1ffbd2095"
+      name: "Component / rd/guide/action-margin-right"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_guide_dialog_desc_margin_top"
+    semantic_name: "Component / rd/guide/dialog/desc-margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGuideDialogDescMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1763a2d53147a4ed1ac0b34a21a42bf1b24e407c"
+      name: "Component / rd/guide/dialog/desc-margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_guide_footer_popover_margin_top"
+    semantic_name: "Component / rd/guide/footer/popover-margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGuideFooterPopoverMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "6dd715067584566c64a7d86a364ddf64070cd4e7"
+      name: "Component / rd/guide/footer/popover-margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "24px"
+        css: "24px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "24px"
+  - token_id: "spacing_component_rd_guide_popover_content_padding"
+    semantic_name: "Component / rd/guide/popover/content-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGuidePopoverContentPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "90db2c17b6419f2a2986ec3388090f9b10247a97"
+      name: "Component / rd/guide/popover/content-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "spacing_component_rd_guide_popover_margin_top"
+    semantic_name: "Component / rd/guide/popover/margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGuidePopoverMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d732d96955462d91d25376875dbf761f458d1f83"
+      name: "Component / rd/guide/popover/margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_guide_tooltip_desc_margin_top"
+    semantic_name: "Component / rd/guide/tooltip/desc-margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdGuideTooltipDescMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "5a5e56c95ec4148c48ccfb3a931bf05e8d5bfb3c"
+      name: "Component / rd/guide/tooltip/desc-margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "4px"
+        css: "4px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "4px"
+  - token_id: "spacing_component_rd_image_viewer_close_margin_left"
+    semantic_name: "Component / rd/image-viewer/close/margin-left"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdImageViewerCloseMarginLeft"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f8905bf632ab45a3e5c45333fe0a8873f0329d39"
+      name: "Component / rd/image-viewer/close/margin-left"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/spacer-4"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_image_viewer_delete_margin_right"
+    semantic_name: "Component / rd/image-viewer/delete/margin-right"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdImageViewerDeleteMarginRight"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "dadf12e002e9b46103ee14ce5fd0347690ddadc8"
+      name: "Component / rd/image-viewer/delete/margin-right"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/spacer-4"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
   - token_id: "spacing_component_rd_input_border_left_space"
     semantic_name: "Component / rd/input/border-left-space"
     category: "spacing"
@@ -23679,13 +26868,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
   - token_id: "spacing_component_rd_input_border_right_space"
     semantic_name: "Component / rd/input/border-right-space"
     category: "spacing"
@@ -23700,13 +26890,190 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 0
+        value: "0px"
+        css: "0px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 0
+      value: "0px"
+  - token_id: "spacing_component_rd_input_vertical_padding"
+    semantic_name: "Component / rd/input/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdInputVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d6135102b3482b01a86b6e0d929db74af60e67fd"
+      name: "Component / rd/input/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_link_icon_margin"
+    semantic_name: "Component / rd/link/icon/margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdLinkIconMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a949841342ae1385a02794c86f4feb2ee9827740"
+      name: "Component / rd/link/icon/margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "spacing_component_rd_message_horizontal_padding"
+    semantic_name: "Component / rd/message/horizontal-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdMessageHorizontalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "3f8cd619d96d067184e6d8645d5aeaeed0a9ffe4"
+      name: "Component / rd/message/horizontal-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_message_vertical_padding"
+    semantic_name: "Component / rd/message/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdMessageVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "c85770c89203e7689c34975688d41b8f7a711ebd"
+      name: "Component / rd/message/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_navbar_padding_top"
+    semantic_name: "Component / rd/navbar/padding-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNavbarPaddingTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d2b6924620b603f74edadcd72996f128c3b795e6"
+      name: "Component / rd/navbar/padding-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "0px"
+        css: "0px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "0px"
+  - token_id: "spacing_component_rd_notice_bar_horizontal_padding"
+    semantic_name: "Component / rd/notice-bar/horizontal-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNoticeBarHorizontalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "8761bf9e9046e982b7264a83cc4edc5847d10414"
+      name: "Component / rd/notice-bar/horizontal-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_notice_bar_vertical_padding"
+    semantic_name: "Component / rd/notice-bar/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdNoticeBarVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0fc526f6e6acd6f51d7c09c2075a7e8a728eae75"
+      name: "Component / rd/notice-bar/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "13px"
+        css: "13px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "13px"
+  - token_id: "spacing_component_rd_popover_content_arrow_margin"
+    semantic_name: "Component / rd/popover/content-arrow-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverContentArrowMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "fc13884ed8dc15a6f74483e16e136529c645ccb6"
+      name: "Component / rd/popover/content-arrow-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
   - token_id: "spacing_component_rd_popover_content_arrow_spacer"
     semantic_name: "Component / rd/popover/content-arrow-spacer"
     category: "spacing"
@@ -23721,13 +27088,58 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
+  - token_id: "spacing_component_rd_popover_content_margin"
+    semantic_name: "Component / rd/popover/content-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverContentMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "e7bd9e878cdb00c0c247441e9afe9267b39b61d2"
+      name: "Component / rd/popover/content-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_popover_padding"
+    semantic_name: "Component / rd/popover/padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdPopoverPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9f1e125cc511351ac8d6764215a79c450f067832"
+      name: "Component / rd/popover/padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
   - token_id: "spacing_component_rd_progress_info_spacer"
     semantic_name: "Component / rd/progress/info-spacer"
     category: "spacing"
@@ -23742,13 +27154,124 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "rd/spacer-3"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
+  - token_id: "spacing_component_rd_qrcode_padding"
+    semantic_name: "Component / rd/qrcode/padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdQrcodePadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "f24072410d2bfedadd7ce987f0d6ee1bebd00fe1"
+      name: "Component / rd/qrcode/padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_radio_vertical_padding"
+    semantic_name: "Component / rd/radio/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdRadioVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9c28eab541ac6d5f18d4806bb88d52ca479c655e"
+      name: "Component / rd/radio/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_result_description_margin_top"
+    semantic_name: "Component / rd/result/description/margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdResultDescriptionMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "d3b2044a41fe3e05a7a6abc6a9ac27800a54dbc2"
+      name: "Component / rd/result/description/margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "rd/spacer-3"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_result_title_margin_top"
+    semantic_name: "Component / rd/result/title/margin-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdResultTitleMarginTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "86123038a9d74610e1ba47a8dd11c22d22cf6c96"
+      name: "Component / rd/result/title/margin-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "12px"
+        css: "12px"
+        source: "rd/spacer-4"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "12px"
+  - token_id: "spacing_component_rd_side_bar_item_padding"
+    semantic_name: "Component / rd/side-bar/item-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSideBarItemPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "90a56afa25c6b85cf8a97342afa88e126b6df35c"
+      name: "Component / rd/side-bar/item-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "rd/spacer-5"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
   - token_id: "spacing_component_rd_skeleton_row_spacing"
     semantic_name: "Component / rd/skeleton/row-spacing"
     category: "spacing"
@@ -23763,13 +27286,58 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "rd/spacer-5"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
+  - token_id: "spacing_component_rd_swiper_item_left_padding"
+    semantic_name: "Component / rd/swiper/item/left-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwiperItemLeftPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "724910b205307e1287aa9436bf6d8b16a05fed57"
+      name: "Component / rd/swiper/item/left-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
+  - token_id: "spacing_component_rd_swiper_item_right_padding"
+    semantic_name: "Component / rd/swiper/item/right-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwiperItemRightPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "10a582d271b68a44f3962bac9f4102d6468e9a27"
+      name: "Component / rd/swiper/item/right-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "6px"
+        css: "6px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "6px"
   - token_id: "spacing_component_rd_swiper_nav_spacer"
     semantic_name: "Component / rd/swiper/nav/spacer"
     category: "spacing"
@@ -23784,34 +27352,58 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
-  - token_id: "spacing_component_rd_tab_bar_height"
-    semantic_name: "Component / rd/tab-bar/height"
+      value: "12px"
+  - token_id: "spacing_component_rd_switch_dot_horizontal_margin"
+    semantic_name: "Component / rd/switch/dot-horizontal-margin"
     category: "spacing"
     runtime_source:
       kind: generated_design_token
-      name: "rdComponentRdTabBarHeight"
+      name: "rdComponentRdSwitchDotHorizontalMargin"
       path: "generated/figma-token-source.json"
     figma_source:
       kind: variable
-      key: "a2e1081cf1e13859297a05072d720a2b492773fa"
-      name: "Component / rd/tab-bar/height"
+      key: "a53f785d6c9cd99e78735b5b266d01dc622d46d6"
+      name: "Component / rd/switch/dot-horizontal-margin"
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 40
+        value: "3px"
+        css: "3px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 40
+      value: "3px"
+  - token_id: "spacing_component_rd_switch_dot_plain_horizontal_margin"
+    semantic_name: "Component / rd/switch/dot-plain-horizontal-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdSwitchDotPlainHorizontalMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0592c9b3a615516c4d68c3f99884ca1b699ead1d"
+      name: "Component / rd/switch/dot-plain-horizontal-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "5px"
+        css: "5px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "5px"
   - token_id: "spacing_component_rd_table_double_sort_icon_space"
     semantic_name: "Component / rd/table/double-sort-icon-space"
     category: "spacing"
@@ -23826,13 +27418,190 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 2
+        value: "2px"
+        css: "2px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
+      value: "2px"
+  - token_id: "spacing_component_rd_table_filter_icon_margin_left"
+    semantic_name: "Component / rd/table/filter-icon-margin-left"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableFilterIconMarginLeft"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "4389c34d1552390fd153e54564906f60fb291724"
+      name: "Component / rd/table/filter-icon-margin-left"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_table_padding_horizontal"
+    semantic_name: "Component / rd/table/padding-horizontal"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTablePaddingHorizontal"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "1425ffcf631f0fa98e8a2e1538a06c5edf42b688"
+      name: "Component / rd/table/padding-horizontal"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_table_td_editable_icon_margin"
+    semantic_name: "Component / rd/table/td-editable-icon-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableTdEditableIconMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "700b56f195307765086ddc6a2af8c46dc6abb815"
+      name: "Component / rd/table/td-editable-icon-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_table_td_editalbe_icon_margin"
+    semantic_name: "Component / rd/table/td-editalbe-icon-margin"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableTdEditalbeIconMargin"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "49847021c2996018ba3049ed4d42664022ed6e81"
+      name: "Component / rd/table/td-editalbe-icon-margin"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_table_td_padding_horizontal"
+    semantic_name: "Component / rd/table/td-padding-horizontal"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableTdPaddingHorizontal"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "cd0ece3ca15b25dccce5631159f73dfc5933a15c"
+      name: "Component / rd/table/td-padding-horizontal"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_table_td_padding_vertical"
+    semantic_name: "Component / rd/table/td-padding-vertical"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableTdPaddingVertical"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "0af43a0474e01af7ce4fbe40566559f63d62a655"
+      name: "Component / rd/table/td-padding-vertical"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_table_td_padding_vertical_bottom"
+    semantic_name: "Component / rd/table/td-padding-vertical-bottom"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableTdPaddingVerticalBottom"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "500326485d253e452d5a19b42edfd1290be161a5"
+      name: "Component / rd/table/td-padding-vertical-bottom"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "11px"
+        css: "11px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "11px"
+  - token_id: "spacing_component_rd_table_td_padding_vertical_top"
+    semantic_name: "Component / rd/table/td-padding-vertical-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTableTdPaddingVerticalTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "a8d5c035824a0d5da00ea67032963f303362bbf3"
+      name: "Component / rd/table/td-padding-vertical-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "13px"
+        css: "13px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "13px"
   - token_id: "spacing_component_rd_tag_extra_large_horizontal_padding"
     semantic_name: "Component / rd/tag/extra-large/horizontal-padding"
     category: "spacing"
@@ -23847,34 +27616,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
-  - token_id: "spacing_component_rd_tag_extra_large_icon_size"
-    semantic_name: "Component / rd/tag/extra-large/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTagExtraLargeIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9dbf4d7194998efd5d3cd3fea9122183235bea6d"
-      name: "Component / rd/tag/extra-large/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
+      value: "16px"
   - token_id: "spacing_component_rd_tag_extra_large_vertical_padding"
     semantic_name: "Component / rd/tag/extra-large/vertical-padding"
     category: "spacing"
@@ -23889,13 +27638,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 9
+        value: "9px"
+        css: "9px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 9
+      value: "9px"
   - token_id: "spacing_component_rd_tag_large_horizontal_padding"
     semantic_name: "Component / rd/tag/large/horizontal-padding"
     category: "spacing"
@@ -23910,34 +27660,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 10
+        value: "10px"
+        css: "10px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 10
-  - token_id: "spacing_component_rd_tag_large_icon_size"
-    semantic_name: "Component / rd/tag/large/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTagLargeIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5d1e952964d7006b63564c245b0d592668f2d2d1"
-      name: "Component / rd/tag/large/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
+      value: "10px"
   - token_id: "spacing_component_rd_tag_large_vertical_padding"
     semantic_name: "Component / rd/tag/large/vertical-padding"
     category: "spacing"
@@ -23952,13 +27682,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 5
+        value: "5px"
+        css: "5px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 5
+      value: "5px"
   - token_id: "spacing_component_rd_tag_medium_horizontal_padding"
     semantic_name: "Component / rd/tag/medium/horizontal-padding"
     category: "spacing"
@@ -23973,34 +27704,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
-  - token_id: "spacing_component_rd_tag_medium_icon_size"
-    semantic_name: "Component / rd/tag/medium/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTagMediumIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0b7bc33b779f33af3250d628e8022739ce4928cf"
-      name: "Component / rd/tag/medium/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
+      value: "8px"
   - token_id: "spacing_component_rd_tag_medium_vertical_padding"
     semantic_name: "Component / rd/tag/medium/vertical-padding"
     category: "spacing"
@@ -24015,13 +27726,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 2
+        value: "2px"
+        css: "2px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
+      value: "2px"
   - token_id: "spacing_component_rd_tag_small_horizontal_padding"
     semantic_name: "Component / rd/tag/small/horizontal-padding"
     category: "spacing"
@@ -24036,34 +27748,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
-  - token_id: "spacing_component_rd_tag_small_icon_size"
-    semantic_name: "Component / rd/tag/small/icon-size"
-    category: "spacing"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTagSmallIconSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8625e6746d4ee1d6c5cb0b098fda4c665fee6bd9"
-      name: "Component / rd/tag/small/icon-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
+      value: "6px"
   - token_id: "spacing_component_rd_tag_small_vertical_padding"
     semantic_name: "Component / rd/tag/small/vertical-padding"
     category: "spacing"
@@ -24078,13 +27770,80 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 2
+        value: "2px"
+        css: "2px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
+      value: "2px"
+  - token_id: "spacing_component_rd_textarea_horizontal_padding"
+    semantic_name: "Component / rd/textarea/horizontal-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTextareaHorizontalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "b97f3a1cc29f3ee97cda919cd1671d7d2f6df2c8"
+      name: "Component / rd/textarea/horizontal-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
+  - token_id: "spacing_component_rd_textarea_indicator_text_padding_top"
+    semantic_name: "Component / rd/textarea/indicator-text-padding-top"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTextareaIndicatorTextPaddingTop"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "479a1e7da9b2ca1330aaa3bf5cdc26060c3e437e"
+      name: "Component / rd/textarea/indicator-text-padding-top"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "8px"
+        css: "8px"
+        source: "rd/spacer-3"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "8px"
+  - token_id: "spacing_component_rd_textarea_vertical_padding"
+    semantic_name: "Component / rd/textarea/vertical-padding"
+    category: "spacing"
+    runtime_source:
+      kind: generated_design_token
+      name: "rdComponentRdTextareaVerticalPadding"
+      path: "generated/figma-token-source.json"
+    figma_source:
+      kind: variable
+      key: "9cc9aed7fc2139e2a1825639ad89b00d323ccfd0"
+      name: "Component / rd/textarea/vertical-padding"
+    source_file: "2.0灵犀基础  Flutter版"
+    values_by_mode:
+      Value:
+        value: "16px"
+        css: "16px"
+        source: "direct"
+    notes:
+      []
+    fallback:
+      allowed: false
+      value: "16px"
   - token_id: "spacing_spacer_rd_spacer"
     semantic_name: "spacer / rd/spacer"
     category: "spacing"
@@ -24099,13 +27858,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 2
+        value: "2px"
+        css: "2px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 2
+      value: "2px"
   - token_id: "spacing_spacer_rd_spacer_1"
     semantic_name: "spacer / rd/spacer-1"
     category: "spacing"
@@ -24120,13 +27880,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 4
+        value: "4px"
+        css: "4px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 4
+      value: "4px"
   - token_id: "spacing_spacer_rd_spacer_2"
     semantic_name: "spacer / rd/spacer-2"
     category: "spacing"
@@ -24141,13 +27902,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 6
+        value: "6px"
+        css: "6px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 6
+      value: "6px"
   - token_id: "spacing_spacer_rd_spacer_3"
     semantic_name: "spacer / rd/spacer-3"
     category: "spacing"
@@ -24162,13 +27924,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 8
+        value: "8px"
+        css: "8px"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 8
+      value: "8px"
   - token_id: "spacing_spacer_rd_spacer_4"
     semantic_name: "spacer / rd/spacer-4"
     category: "spacing"
@@ -24183,13 +27946,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 12
+        value: "12px"
+        css: "12px"
         source: "direct"
     notes:
       - "间距-小-x"
     fallback:
       allowed: false
-      value: 12
+      value: "12px"
   - token_id: "spacing_spacer_rd_spacer_5"
     semantic_name: "spacer / rd/spacer-5"
     category: "spacing"
@@ -24204,13 +27968,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 16
+        value: "16px"
+        css: "16px"
         source: "direct"
     notes:
       - "间距-小"
     fallback:
       allowed: false
-      value: 16
+      value: "16px"
   - token_id: "spacing_spacer_rd_spacer_6"
     semantic_name: "spacer / rd/spacer-6"
     category: "spacing"
@@ -24225,13 +27990,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 24
+        value: "24px"
+        css: "24px"
         source: "direct"
     notes:
       - "间距-中"
     fallback:
       allowed: false
-      value: 24
+      value: "24px"
   - token_id: "spacing_spacer_rd_spacer_7"
     semantic_name: "spacer / rd/spacer-7"
     category: "spacing"
@@ -24246,13 +28012,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 32
+        value: "32px"
+        css: "32px"
         source: "direct"
     notes:
       - "间距-大"
     fallback:
       allowed: false
-      value: 32
+      value: "32px"
   - token_id: "spacing_spacer_rd_spacer_8"
     semantic_name: "spacer / rd/spacer-8"
     category: "spacing"
@@ -24267,13 +28034,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 48
+        value: "48px"
+        css: "48px"
         source: "direct"
     notes:
       - "间距-大-x"
     fallback:
       allowed: false
-      value: 48
+      value: "48px"
   - token_id: "spacing_spacer_rd_spacer_9"
     semantic_name: "spacer / rd/spacer-9"
     category: "spacing"
@@ -24288,13 +28056,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       spacer:
-        value: 80
+        value: "80px"
+        css: "80px"
         source: "direct"
     notes:
       - "间距-大-xx"
     fallback:
       allowed: false
-      value: 80
+      value: "80px"
   - token_id: "typography_component_rd_action_sheet_description_font"
     semantic_name: "Component / rd/action-sheet/description-font"
     category: "typography"
@@ -24309,97 +28078,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 14
+        value: "14"
+        css: "14"
         source: "rd/font-size/body-medium"
     notes:
       []
     fallback:
       allowed: false
-      value: 14
-  - token_id: "typography_component_rd_avatar_text_large_font_size"
-    semantic_name: "Component / rd/avatar/text/large-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarTextLargeFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "fb69c7a4be526465bd92d1d71f07f99074ebf535"
-      name: "Component / rd/avatar/text/large-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 20
-        source: "rd/font-size/xl -> rd/font-size/title-extraLarge"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "typography_component_rd_avatar_text_medium_font_size"
-    semantic_name: "Component / rd/avatar/text/medium-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarTextMediumFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2cb58b4a0e82213fc0a173cd89e1e9f56c8f5bd2"
-      name: "Component / rd/avatar/text/medium-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_avatar_text_small_font_size"
-    semantic_name: "Component / rd/avatar/text/small-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdAvatarTextSmallFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f795d29694e5da88a10dabae0946440dbd2ac15d"
-      name: "Component / rd/avatar/text/small-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_back_top_text_font_size"
-    semantic_name: "Component / rd/back-top/text/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdBackTopTextFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f57d4be42cc8414d103a2ec08c7201c1f50040ef"
-      name: "Component / rd/back-top/text/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 10
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 10
+      value: "14"
   - token_id: "typography_component_rd_badge_font"
     semantic_name: "Component / rd/badge/font"
     category: "typography"
@@ -24414,13 +28100,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 10
+        value: "10"
+        css: "10"
         source: "rd/font-size/mark-extraSmall"
     notes:
       []
     fallback:
       allowed: false
-      value: 10
+      value: "10"
   - token_id: "typography_component_rd_badge_large_font"
     semantic_name: "Component / rd/badge/large/font"
     category: "typography"
@@ -24435,34 +28122,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12"
+        css: "12"
         source: "rd/font-size/mark-small"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
-  - token_id: "typography_component_rd_button_extra_small_font_size"
-    semantic_name: "Component / rd/button/extra-small/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonExtraSmallFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "49728246751c0790bed062f9300cd8cdf743b4cb"
-      name: "Component / rd/button/extra-small/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
+      value: "12"
   - token_id: "typography_component_rd_button_font_weight"
     semantic_name: "Component / rd/button/font-weight"
     category: "typography"
@@ -24477,76 +28144,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 600
+        value: "600"
+        css: "600"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 600
-  - token_id: "typography_component_rd_button_large_font_size"
-    semantic_name: "Component / rd/button/large/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonLargeFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cd6c4f62f3bf64a356be5ff5724f8fe795c7f8d2"
-      name: "Component / rd/button/large/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_button_medium_font_size"
-    semantic_name: "Component / rd/button/medium/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonMediumFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6767fefeb727d35e0e660b422020502410b3d0d7"
-      name: "Component / rd/button/medium/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_button_small_font_size"
-    semantic_name: "Component / rd/button/small/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdButtonSmallFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4f22e61bafebfb4a63991f9486b714ad272c1afc"
-      name: "Component / rd/button/small/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
+      value: "600"
   - token_id: "typography_component_rd_calendar_title_font"
     semantic_name: "Component / rd/calendar/title-font"
     category: "typography"
@@ -24561,13 +28166,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 18
+        value: "18"
+        css: "18"
         source: "rd/font-size/title-large"
     notes:
       []
     fallback:
       allowed: false
-      value: 18
+      value: "18"
   - token_id: "typography_component_rd_cascader_title_font"
     semantic_name: "Component / rd/cascader/title-font"
     category: "typography"
@@ -24582,34 +28188,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 18
+        value: "18"
+        css: "18"
         source: "rd/font-size/title-large"
     notes:
       []
     fallback:
       allowed: false
-      value: 18
-  - token_id: "typography_component_rd_cell_group_title_font_size"
-    semantic_name: "Component / rd/cell-group/title/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCellGroupTitleFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "9e21e18d3b9826fe6f38ba924b98f2a2c983c49f"
-      name: "Component / rd/cell-group/title/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
+      value: "18"
   - token_id: "typography_component_rd_cell_note_font"
     semantic_name: "Component / rd/cell/note-font"
     category: "typography"
@@ -24624,13 +28210,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 14
+        value: "14"
+        css: "14"
         source: "rd/font-size/body-medium"
     notes:
       []
     fallback:
       allowed: false
-      value: 14
+      value: "14"
   - token_id: "typography_component_rd_cell_note_font_2"
     semantic_name: "Component / rd/cell/note-font 2"
     category: "typography"
@@ -24645,223 +28232,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16"
+        css: "16"
         source: "rd/font-size/body-large"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
-  - token_id: "typography_component_rd_countdown_large_default_font_size"
-    semantic_name: "Component / rd/countdown/large/default-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeDefaultFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "70f60d0f867932304f7394d402cdbe8feb4c5e61"
-      name: "Component / rd/countdown/large/default-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "typography_component_rd_countdown_large_no_unit_font_size"
-    semantic_name: "Component / rd/countdown/large/no-unit-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeNoUnitFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "aac2d9e9f80cc5c8acf73c9150c7ad04458e577a"
-      name: "Component / rd/countdown/large/no-unit-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "typography_component_rd_countdown_large_round_font_size"
-    semantic_name: "Component / rd/countdown/large/round-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeRoundFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "abba1e3c5ecf1f2ec794599126e5222f9aa51bdc"
-      name: "Component / rd/countdown/large/round-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_countdown_large_square_font_size"
-    semantic_name: "Component / rd/countdown/large/square-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeSquareFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1e6d65fcc2b8b255ec94b88d50bbfcef0152e27f"
-      name: "Component / rd/countdown/large/square-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_countdown_large_unit_font_size"
-    semantic_name: "Component / rd/countdown/large/unit-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownLargeUnitFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0463af0c996216b9758da22dd6ceb0295a2fb381"
-      name: "Component / rd/countdown/large/unit-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_countdown_medium_default_font_size"
-    semantic_name: "Component / rd/countdown/medium/default-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumDefaultFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6c5824e9ca75ba1edf4c3b0c6a876182563b2675"
-      name: "Component / rd/countdown/medium/default-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_countdown_medium_no_unit_font_size"
-    semantic_name: "Component / rd/countdown/medium/no-unit-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumNoUnitFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b48677e6d533b1fe2bb1116ce8e8474ed78f77e5"
-      name: "Component / rd/countdown/medium/no-unit-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_countdown_medium_round_font_size"
-    semantic_name: "Component / rd/countdown/medium/round-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumRoundFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "930c01de7d2461df241ec3c6aa2f085c6d129fea"
-      name: "Component / rd/countdown/medium/round-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_countdown_medium_square_font_size"
-    semantic_name: "Component / rd/countdown/medium/square-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumSquareFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "532112561450cb0804e94c5dc7149383c9fc832a"
-      name: "Component / rd/countdown/medium/square-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_countdown_medium_unit_font_size"
-    semantic_name: "Component / rd/countdown/medium/unit-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownMediumUnitFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4af12488d5c90a4d42eeb50d8e0f960e236b21ee"
-      name: "Component / rd/countdown/medium/unit-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/font-size/s -> rd/font-size/body-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
+      value: "16"
   - token_id: "typography_component_rd_countdown_number_font_family"
     semantic_name: "Component / rd/countdown/number-font-family"
     category: "typography"
@@ -24877,117 +28255,13 @@ token_entries:
     values_by_mode:
       Value:
         value: "TCloudNumber"
+        css: "TCloudNumber"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
       value: "TCloudNumber"
-  - token_id: "typography_component_rd_countdown_small_default_font_size"
-    semantic_name: "Component / rd/countdown/small/default-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallDefaultFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b0a299e9eafeeb2388f28324acbd72b7f321c181"
-      name: "Component / rd/countdown/small/default-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_countdown_small_no_unit_font_size"
-    semantic_name: "Component / rd/countdown/small/no-unit-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallNoUnitFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "34ecfeb8efb8c159dcc2c4d3a94bd387eff7b892"
-      name: "Component / rd/countdown/small/no-unit-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_countdown_small_round_font_size"
-    semantic_name: "Component / rd/countdown/small/round-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallRoundFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "fe54a0902382c36eaf70b4a314b9b758cd92edcb"
-      name: "Component / rd/countdown/small/round-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/font-size/s -> rd/font-size/body-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_component_rd_countdown_small_square_font_size"
-    semantic_name: "Component / rd/countdown/small/square-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallSquareFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0ff0abc9620cd4ef01cf56ab7ba385ee876e98a9"
-      name: "Component / rd/countdown/small/square-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "rd/font-size/s -> rd/font-size/body-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_component_rd_countdown_small_unit_font_size"
-    semantic_name: "Component / rd/countdown/small/unit-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdCountdownSmallUnitFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0bfa99b6615eabba7421119b908f4fb93a79df3b"
-      name: "Component / rd/countdown/small/unit-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 0
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 0
   - token_id: "typography_component_rd_dialog_title_font_weight"
     semantic_name: "Component / rd/dialog/title/font-weight"
     category: "typography"
@@ -25002,13 +28276,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 600
+        value: "600"
+        css: "600"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 600
+      value: "600"
   - token_id: "typography_component_rd_divider_content_font"
     semantic_name: "Component / rd/divider/content/font"
     category: "typography"
@@ -25023,34 +28298,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12"
+        css: "12"
         source: "rd/font-size/body-small"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
-  - token_id: "typography_component_rd_image_viewer_nav_index_font_size"
-    semantic_name: "Component / rd/image-viewer/nav/index-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdImageViewerNavIndexFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "fea0e9d3dcd095dc9a6d6453d1977bd09041f82b"
-      name: "Component / rd/image-viewer/nav/index-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "rd/font-size/base -> rd/font-size/title-small"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
+      value: "12"
   - token_id: "typography_component_rd_indexes_anchor_active_font_weight"
     semantic_name: "Component / rd/indexes/anchor/active-font-weight"
     category: "typography"
@@ -25065,13 +28320,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 600
+        value: "600"
+        css: "600"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 600
+      value: "600"
   - token_id: "typography_component_rd_input_label_text_font"
     semantic_name: "Component / rd/input/label/text-font"
     category: "typography"
@@ -25086,13 +28342,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16"
+        css: "16"
         source: "rd/font-size/body-large"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
+      value: "16"
   - token_id: "typography_component_rd_input_placeholder_text_font"
     semantic_name: "Component / rd/input/placeholder/text-font"
     category: "typography"
@@ -25107,76 +28364,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 16
+        value: "16"
+        css: "16"
         source: "rd/font-size/body-large"
     notes:
       []
     fallback:
       allowed: false
-      value: 16
-  - token_id: "typography_component_rd_link_icon_large_font_size"
-    semantic_name: "Component / rd/link/icon/large-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdLinkIconLargeFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d8883d5248a41c11c5774113ac1c85c08d772829"
-      name: "Component / rd/link/icon/large-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "typography_component_rd_link_icon_medium_font_size"
-    semantic_name: "Component / rd/link/icon/medium-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdLinkIconMediumFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c4fed33fbbc3d67905b73d4e64f782f2e865b9be"
-      name: "Component / rd/link/icon/medium-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_link_icon_small_font_size"
-    semantic_name: "Component / rd/link/icon/small-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdLinkIconSmallFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "bbff608444434c33e432f851e31f667ae5c3d73e"
-      name: "Component / rd/link/icon/small-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
+      value: "16"
   - token_id: "typography_component_rd_picker_item_active_font_weight"
     semantic_name: "Component / rd/picker/item/active-font-weight"
     category: "typography"
@@ -25191,34 +28386,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 600
+        value: "600"
+        css: "600"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 600
-  - token_id: "typography_component_rd_popover_content_font_size"
-    semantic_name: "Component / rd/popover/content-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdPopoverContentFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "47605fa0cf771bd72c3cfeb0611200a3ca694186"
-      name: "Component / rd/popover/content-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
+      value: "600"
   - token_id: "typography_component_rd_rate_text_active_font_weight"
     semantic_name: "Component / rd/rate/text/active-font-weight"
     category: "typography"
@@ -25233,160 +28408,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 600
+        value: "600"
+        css: "600"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
-      value: 600
-  - token_id: "typography_component_rd_rate_text_font_size"
-    semantic_name: "Component / rd/rate/text/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdRateTextFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "44e137e74da1df20d30f11b5561b8b900f7e8b8e"
-      name: "Component / rd/rate/text/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "rd/font-size/m -> rd/font-size/title-medium"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_stepper_large_font_size"
-    semantic_name: "Component / rd/stepper/large/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperLargeFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b40ad0051c8d3acdc066f96c9c44a23c7c76162f"
-      name: "Component / rd/stepper/large/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_stepper_medium_font_size"
-    semantic_name: "Component / rd/stepper/medium/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperMediumFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7b00674f4aee35c449afa5cacfd6a6623f39c471"
-      name: "Component / rd/stepper/medium/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_component_rd_stepper_small_font_size"
-    semantic_name: "Component / rd/stepper/small/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdStepperSmallFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6816bd8cba962fc30aedfc4a1ea9c2633ac65416"
-      name: "Component / rd/stepper/small/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 10
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 10
-  - token_id: "typography_component_rd_switch_label_font_size"
-    semantic_name: "Component / rd/switch/label-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLabelFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3e1c08f8284a74eeba70e998621ad32464318c73"
-      name: "Component / rd/switch/label-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_component_rd_switch_large_label_font_size"
-    semantic_name: "Component / rd/switch/large/label-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchLargeLabelFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "47f889f59a3cf7673d964f22e467dcf50f9dd79a"
-      name: "Component / rd/switch/large/label-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_component_rd_switch_small_label_font_size"
-    semantic_name: "Component / rd/switch/small/label-font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdSwitchSmallLabelFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "58dbb061f4f4daf9786895476da9e6283920d86b"
-      name: "Component / rd/switch/small/label-font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
+      value: "600"
   - token_id: "typography_component_rd_tag_extra_large_font"
     semantic_name: "Component / rd/tag/extra-large/font"
     category: "typography"
@@ -25401,13 +28430,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 14
+        value: "14"
+        css: "14"
         source: "rd/font-size/body-medium"
     notes:
       []
     fallback:
       allowed: false
-      value: 14
+      value: "14"
   - token_id: "typography_component_rd_tag_large_font"
     semantic_name: "Component / rd/tag/large/font"
     category: "typography"
@@ -25422,13 +28452,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 14
+        value: "14"
+        css: "14"
         source: "rd/font-size/body-medium"
     notes:
       []
     fallback:
       allowed: false
-      value: 14
+      value: "14"
   - token_id: "typography_component_rd_tag_medium_font"
     semantic_name: "Component / rd/tag/medium/font"
     category: "typography"
@@ -25443,13 +28474,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 12
+        value: "12"
+        css: "12"
         source: "rd/font-size/body-small"
     notes:
       []
     fallback:
       allowed: false
-      value: 12
+      value: "12"
   - token_id: "typography_component_rd_tag_small_font"
     semantic_name: "Component / rd/tag/small/font"
     category: "typography"
@@ -25464,34 +28496,14 @@ token_entries:
     source_file: "2.0灵犀基础  Flutter版"
     values_by_mode:
       Value:
-        value: 10
+        value: "10"
+        css: "10"
         source: "rd/font-size/body-extraSmall"
     notes:
       []
     fallback:
       allowed: false
-      value: 10
-  - token_id: "typography_component_rd_tree_item_font_size"
-    semantic_name: "Component / rd/tree/item/font-size"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdComponentRdTreeItemFontSize"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "008bd871309d846d6a3231906b12cc4dde0e7535"
-      name: "Component / rd/tree/item/font-size"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      Value:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
+      value: "10"
   - token_id: "typography_font_rd_font_family"
     semantic_name: "font / rd/font-family"
     category: "typography"
@@ -25507,6 +28519,7 @@ token_entries:
     values_by_mode:
       font:
         value: "PingFang SC"
+        css: "PingFang SC"
         source: "direct"
     notes:
       []
@@ -25528,999 +28541,13 @@ token_entries:
     values_by_mode:
       font:
         value: "PingFang SC"
+        css: "PingFang SC"
         source: "direct"
     notes:
       []
     fallback:
       allowed: false
       value: "PingFang SC"
-  - token_id: "typography_font_rd_font_size_base"
-    semantic_name: "font / rd/font-size/base"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeBase"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "21f196c2f08934a53f188052bf77b6fb3936397b"
-      name: "font / rd/font-size/base"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 14
-        source: "rd/font-size/title-small"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_font_rd_font_size_body_extrasmall"
-    semantic_name: "font / rd/font-size/body-extraSmall"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeBodyExtrasmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e2bf80e7e0f5ed20f000a46dcf32c08c1db39249"
-      name: "font / rd/font-size/body-extraSmall"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 10
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 10
-  - token_id: "typography_font_rd_font_size_body_large"
-    semantic_name: "font / rd/font-size/body-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeBodyLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ff55c6e2d9698e5336c3b4e289987c34ee8273c9"
-      name: "font / rd/font-size/body-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_font_size_body_medium"
-    semantic_name: "font / rd/font-size/body-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeBodyMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f1940dbd7efa70af4c53847a10698161e156a8da"
-      name: "font / rd/font-size/body-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_font_rd_font_size_body_small"
-    semantic_name: "font / rd/font-size/body-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeBodySmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d7233a6b11dc8b46f6091f4764dfd47e21b6bc45"
-      name: "font / rd/font-size/body-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_font_rd_font_size_display_large"
-    semantic_name: "font / rd/font-size/display-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeDisplayLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "3fbb94562b14e77b3268acf60e15dd602cf16018"
-      name: "font / rd/font-size/display-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 64
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 64
-  - token_id: "typography_font_rd_font_size_display_medium"
-    semantic_name: "font / rd/font-size/display-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeDisplayMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "e07571ee484ac4a051040164cb8f9bb9c88823a6"
-      name: "font / rd/font-size/display-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 48
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 48
-  - token_id: "typography_font_rd_font_size_headline_large"
-    semantic_name: "font / rd/font-size/headline-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeHeadlineLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6b9b2fb55536d151d3d0e506723c7ba81421836f"
-      name: "font / rd/font-size/headline-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 36
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 36
-  - token_id: "typography_font_rd_font_size_headline_medium"
-    semantic_name: "font / rd/font-size/headline-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeHeadlineMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d26cbc341a6b2dd170b796887148f64a34b08cd5"
-      name: "font / rd/font-size/headline-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "typography_font_rd_font_size_headline_small"
-    semantic_name: "font / rd/font-size/headline-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeHeadlineSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "033ed97a11450d173d384cd4c0f6423c45c235ad"
-      name: "font / rd/font-size/headline-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "typography_font_rd_font_size_l"
-    semantic_name: "font / rd/font-size/l"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeL"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "c227a2e13ecac98209476a5bd7ec5bf151a9cfb0"
-      name: "font / rd/font-size/l"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 18
-        source: "rd/font-size/title-large"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "typography_font_rd_font_size_link_large"
-    semantic_name: "font / rd/font-size/link-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeLinkLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "30b17318ac0c24545ce2c6969c2f3bccfbc42a69"
-      name: "font / rd/font-size/link-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_font_size_link_medium"
-    semantic_name: "font / rd/font-size/link-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeLinkMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "441fbb79acdc74b66544902f92713be4bb7f1c09"
-      name: "font / rd/font-size/link-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_font_rd_font_size_link_small"
-    semantic_name: "font / rd/font-size/link-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeLinkSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7d46bd65f9f24c8413f10667b4ed731e097b23fc"
-      name: "font / rd/font-size/link-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_font_rd_font_size_m"
-    semantic_name: "font / rd/font-size/m"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeM"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5fff3a9ca94dd64019cf767a74d6b353590a970a"
-      name: "font / rd/font-size/m"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "rd/font-size/title-medium"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_font_size_mark_extrasmall"
-    semantic_name: "font / rd/font-size/mark-extraSmall"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeMarkExtrasmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4a635bebbafd97bea14b4beb86ed7eebdd405231"
-      name: "font / rd/font-size/mark-extraSmall"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 10
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 10
-  - token_id: "typography_font_rd_font_size_mark_large"
-    semantic_name: "font / rd/font-size/mark-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeMarkLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "60042e29fd52e47d101cbf7e3dd76b414f5d854d"
-      name: "font / rd/font-size/mark-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_font_size_mark_medium"
-    semantic_name: "font / rd/font-size/mark-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeMarkMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b1f27cd742e46a64c1b05c80c3b21ae70c1d3eb2"
-      name: "font / rd/font-size/mark-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_font_rd_font_size_mark_small"
-    semantic_name: "font / rd/font-size/mark-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeMarkSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0425b1c453f0dd3e120441bfd35fb9bd85f6b8e1"
-      name: "font / rd/font-size/mark-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 12
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_font_rd_font_size_s"
-    semantic_name: "font / rd/font-size/s"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeS"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "cb00df340801f2e919c26eb3694cc2bfd57f22b3"
-      name: "font / rd/font-size/s"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 12
-        source: "rd/font-size/body-small"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 12
-  - token_id: "typography_font_rd_font_size_title_extralarge"
-    semantic_name: "font / rd/font-size/title-extraLarge"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeTitleExtralarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "765f82c191637c979b41c8f63957b4e56b5a3a7a"
-      name: "font / rd/font-size/title-extraLarge"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "typography_font_rd_font_size_title_large"
-    semantic_name: "font / rd/font-size/title-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeTitleLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "ff977a2be34b2a213fedb7d4f973a303b125b253"
-      name: "font / rd/font-size/title-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 18
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 18
-  - token_id: "typography_font_rd_font_size_title_medium"
-    semantic_name: "font / rd/font-size/title-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeTitleMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "2875d8de7561589e058c511b33209d83f8fca50a"
-      name: "font / rd/font-size/title-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_font_size_title_small"
-    semantic_name: "font / rd/font-size/title-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeTitleSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "fa8a0290d93b9a12945acfe0e906a12c5f3d881e"
-      name: "font / rd/font-size/title-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 14
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 14
-  - token_id: "typography_font_rd_font_size_xl"
-    semantic_name: "font / rd/font-size/xl"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeXl"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "b1433f9a1d199ba5a79cb6e1caf75145450ff36b"
-      name: "font / rd/font-size/xl"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 20
-        source: "rd/font-size/title-extraLarge"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "typography_font_rd_font_size_xs"
-    semantic_name: "font / rd/font-size/xs"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeXs"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5adf87d054cdcf123c3b47dccb2805fcb509ef31"
-      name: "font / rd/font-size/xs"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 10
-        source: "rd/font-size/body-extraSmall"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 10
-  - token_id: "typography_font_rd_font_size_xxl"
-    semantic_name: "font / rd/font-size/xxl"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdFontSizeXxl"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "332f345ef513fd8ffba77923e1ba989c3a93ea0b"
-      name: "font / rd/font-size/xxl"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 36
-        source: "rd/font-size/headline-large"
-    notes:
-      - "旧token，用于兼容"
-    fallback:
-      allowed: false
-      value: 36
-  - token_id: "typography_font_rd_line_height_body_extrasmall"
-    semantic_name: "font / rd/line-height/body-extraSmall"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightBodyExtrasmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4a704481514342df92167190d1276e83b85a07a3"
-      name: "font / rd/line-height/body-extraSmall"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_line_height_body_large"
-    semantic_name: "font / rd/line-height/body-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightBodyLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7ff94c5a06f8d331ae347b53494e7cf23439af03"
-      name: "font / rd/line-height/body-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "typography_font_rd_line_height_body_medium"
-    semantic_name: "font / rd/line-height/body-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightBodyMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6e264e0524a19869fd3993f0cd14c5ce32d1aa3f"
-      name: "font / rd/line-height/body-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "typography_font_rd_line_height_body_small"
-    semantic_name: "font / rd/line-height/body-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightBodySmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "8e8c412ebbf53f50801925a399c8289bd5884e15"
-      name: "font / rd/line-height/body-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "typography_font_rd_line_height_display_large"
-    semantic_name: "font / rd/line-height/display-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightDisplayLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "637dcb4bc59c943dc2f2fa16620a66caafd6e057"
-      name: "font / rd/line-height/display-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 72
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 72
-  - token_id: "typography_font_rd_line_height_display_medium"
-    semantic_name: "font / rd/line-height/display-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightDisplayMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7eecbda40cfb83d3ed1f91a18593ae99ac161bdb"
-      name: "font / rd/line-height/display-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 56
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 56
-  - token_id: "typography_font_rd_line_height_headline_large"
-    semantic_name: "font / rd/line-height/headline-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightHeadlineLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "7a674a6b6aa596570279209f90eebe88f56bb585"
-      name: "font / rd/line-height/headline-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 44
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 44
-  - token_id: "typography_font_rd_line_height_headline_medium"
-    semantic_name: "font / rd/line-height/headline-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightHeadlineMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "197eeba2f67c371188a4cec466f65ecab6f6d812"
-      name: "font / rd/line-height/headline-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 36
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 36
-  - token_id: "typography_font_rd_line_height_headline_small"
-    semantic_name: "font / rd/line-height/headline-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightHeadlineSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4b37718e308f3838f9a59182a0fb36a7797cdd11"
-      name: "font / rd/line-height/headline-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 32
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 32
-  - token_id: "typography_font_rd_line_height_link_large"
-    semantic_name: "font / rd/line-height/link-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightLinkLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1d38788d3499b0ce0f0560b1a36aa9cab76fbf9c"
-      name: "font / rd/line-height/link-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "typography_font_rd_line_height_link_medium"
-    semantic_name: "font / rd/line-height/link-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightLinkMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "1f36359489cf206c94305771172770307d2f35e0"
-      name: "font / rd/line-height/link-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "typography_font_rd_line_height_link_small"
-    semantic_name: "font / rd/line-height/link-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightLinkSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f5cedb1afe06d601e61159c8bc0fa6b3002a60f0"
-      name: "font / rd/line-height/link-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "typography_font_rd_line_height_mark_extrasmall"
-    semantic_name: "font / rd/line-height/mark-extraSmall"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightMarkExtrasmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "a2bd0f66e1f00f1114b1b9d7f8fe625c89f4c600"
-      name: "font / rd/line-height/mark-extraSmall"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 16
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 16
-  - token_id: "typography_font_rd_line_height_mark_large"
-    semantic_name: "font / rd/line-height/mark-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightMarkLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "f320f1693264d60b8cd23066c1f70327bf8f2ea2"
-      name: "font / rd/line-height/mark-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "typography_font_rd_line_height_mark_medium"
-    semantic_name: "font / rd/line-height/mark-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightMarkMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "4eef6d482a4ef851b553ea319467c39803395016"
-      name: "font / rd/line-height/mark-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
-  - token_id: "typography_font_rd_line_height_mark_small"
-    semantic_name: "font / rd/line-height/mark-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightMarkSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "0a899d7373dc122cba9aa7034897c9c5dba74f2b"
-      name: "font / rd/line-height/mark-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 20
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 20
-  - token_id: "typography_font_rd_line_height_title_extralarge"
-    semantic_name: "font / rd/line-height/title-extraLarge"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightTitleExtralarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "5060584899d7cb1ad39cf7d7a0d5d683ae1f3a4b"
-      name: "font / rd/line-height/title-extraLarge"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 28
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 28
-  - token_id: "typography_font_rd_line_height_title_large"
-    semantic_name: "font / rd/line-height/title-large"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightTitleLarge"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "64693a18896ba53781625bb630be9da728032ac8"
-      name: "font / rd/line-height/title-large"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 26
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 26
-  - token_id: "typography_font_rd_line_height_title_medium"
-    semantic_name: "font / rd/line-height/title-medium"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightTitleMedium"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "d2d733d4827e67b46b6d4e1ee9eb823d358c7810"
-      name: "font / rd/line-height/title-medium"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 24
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 24
-  - token_id: "typography_font_rd_line_height_title_small"
-    semantic_name: "font / rd/line-height/title-small"
-    category: "typography"
-    runtime_source:
-      kind: generated_design_token
-      name: "rdFontRdLineHeightTitleSmall"
-      path: "generated/figma-token-source.json"
-    figma_source:
-      kind: variable
-      key: "6c47b093de58ab0359141a08ec1285e6b7701d30"
-      name: "font / rd/line-height/title-small"
-    source_file: "2.0灵犀基础  Flutter版"
-    values_by_mode:
-      font:
-        value: 22
-        source: "direct"
-    notes:
-      []
-    fallback:
-      allowed: false
-      value: 22
 ```
 
 这节只回答：

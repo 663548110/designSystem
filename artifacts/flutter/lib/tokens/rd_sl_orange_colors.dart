@@ -88,6 +88,27 @@ const String rdSlOrangeLightJson = r'''
       "successFocusColor":    "#c6f3d7",
       "successDisabledColor": "#92dab2",
       "successLightColor":    "#c6f3d7"
+    },
+
+    "radius": {
+      "radiusSmall":      4,
+      "radiusDefault":    6,
+      "radiusLarge":      8,
+      "radiusExtraLarge": 12,
+      "radiusRound":      999
+    },
+
+    "margin": {
+      "spacer2":  2,
+      "spacer4":  4,
+      "spacer6":  6,
+      "spacer8":  8,
+      "spacer12": 12,
+      "spacer16": 16,
+      "spacer24": 24,
+      "spacer32": 32,
+      "spacer48": 48,
+      "spacer80": 80
     }
   }
 }
@@ -179,6 +200,27 @@ const String rdSlOrangeDarkJson = r'''
       "successFocusColor":    "#003314",
       "successDisabledColor": "#004d1e",
       "successLightColor":    "#003314"
+    },
+
+    "radius": {
+      "radiusSmall":      4,
+      "radiusDefault":    6,
+      "radiusLarge":      8,
+      "radiusExtraLarge": 12,
+      "radiusRound":      999
+    },
+
+    "margin": {
+      "spacer2":  2,
+      "spacer4":  4,
+      "spacer6":  6,
+      "spacer8":  8,
+      "spacer12": 12,
+      "spacer16": 16,
+      "spacer24": 24,
+      "spacer32": 32,
+      "spacer48": 48,
+      "spacer80": 80
     }
   }
 }

@@ -1,13 +1,13 @@
-// 品牌主色：#4830e7（2_0_flutter，对应 --rd-brand-color-7）
+// 品牌主色：#4830e7（default，对应 --rd-brand-color-7）
 // 色值来源：rdesign灵犀2.0，由 Figma Token Sync 生成
 // 最后更新：2026-04-24
 
-/// 2_0_flutter light 模式完整色值 JSON
+/// default light 模式完整色值 JSON
 ///
 /// 包含品牌色、功能色、中性色、语义色，与 CSS 文件 :root[theme-mode="light"] 完全对应。
-const String rd20FlutterLightJson = r'''
+const String rdDefaultLightJson = r'''
 {
-  "2_0_flutter": {
+  "default": {
     "color": {
       "brandColor1":  "#f3f6ff",
       "brandColor2":  "#e6ecff",
@@ -93,12 +93,12 @@ const String rd20FlutterLightJson = r'''
 }
 ''';
 
-/// 2_0_flutter dark 模式完整色值 JSON
+/// default dark 模式完整色值 JSON
 ///
 /// 与 CSS 文件 :root[theme-mode="dark"] 完全对应。
-const String rd20FlutterDarkJson = r'''
+const String rdDefaultDarkJson = r'''
 {
-  "2_0_flutterDark": {
+  "defaultDark": {
     "color": {
       "brandColor1":  "#00014d",
       "brandColor2":  "#0a0876",

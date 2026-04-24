@@ -1,6 +1,8 @@
-# Design System Source of Truth
+# RDesign Design System Source of Truth
 
-这个仓库用于维护一套可被 Figma 端、代码端和工具端共同消费的设计系统文档模板，并作为后续组件库文档体系的唯一数据源。
+这个仓库是 RDesign 在 Figma、AI、开发工具和组件库之间共享的设计系统事实源、生成产物源与服务协议层。
+
+它不是设计稿仓库，也不是 Flutter/React 组件库本体，也不承载 AI 客户端 skill；它负责沉淀权威事实、保存生成产物，并提供 parser / exporter / MCP 的服务边界。
 
 ## 目标
 
@@ -21,6 +23,23 @@
 3. 下游系统不得各自维护独立的组件映射、token 真相或使用说明
 4. 若代码实现与本文档不一致，应先更新本文档，再同步下游
 
+## 仓库定位
+
+```text
+Figma Variables / 组件信息
+  -> designSystem 事实源仓库
+  -> parser / exporters / MCP
+  -> AI 设计侧工具 / 开发侧工具 / Flutter 主题 / CSS 主题 / 文档站
+```
+
+本仓库分为三层：
+
+1. 事实源层：人工维护或被 Figma 同步更新的权威事实
+2. 生成产物层：由事实源派生，供不同消费方直接使用
+3. 解析与服务层：把 Markdown/YAML/JSON 变成统一快照、MCP 查询和导出能力
+
+AI skill、prompt、agent 工作流属于消费端，不放在本仓库；它们应通过本仓库的文件、parser 或 MCP 获取事实。
+
 ## 当前范围
 
 - 先维护模板和数据结构
@@ -30,22 +49,47 @@
 
 ## 目录结构
 
+### 事实源层
+
 - `rules.md`
   - 全局共享规则
   - 权威顺序
   - 下游消费契约
 - `tokens.md`
   - 设计 token 真相
-  - token 来源与映射模板
+  - 保留 `## Token Entries`，供 Figma 插件局部替换和 parser 读取
 - `components/README.md`
   - 组件文件导航
   - 组件维护约定
 - `components/_template.md`
   - 单组件详情模板
   - 包含使用场景、Figma 绑定、代码绑定、变体、代码片段、使用方式
-- `src/`
-  - TypeScript 解析器骨架
-  - 后续用于统一读取 `rules.md`、`tokens.md`、`components/*.md`
+
+### 生成产物层
+
+- `generated/`
+  - Figma 插件同步的全量原始数据源
+  - 默认文件：`generated/figma-token-source.json`
+- `artifacts/css/`
+  - Web/CSS 侧主题变量
+  - 默认文件：`artifacts/css/theme.css`
+- `artifacts/flutter/`
+  - Flutter/RDesign/TDesign 主题文件
+  - 默认文件：`artifacts/flutter/rd_${themeId}_theme.dart`
+
+### 解析与服务层
+
+- `src/parser/`
+  - 解析 `rules.md`、`tokens.md`、`components/*.md`
+- `src/exporters/`
+  - 后续放统一快照到 AI/CSS/Flutter/文档站等产物的导出逻辑
+- `src/mcp/`
+  - 后续放 DesignSystem MCP 工具定义和查询服务
+- `src/index.ts`
+  - 当前 TypeScript 包入口
+
+### 工程配置
+
 - `package.json` / `tsconfig.json`
   - 解析器和校验器的本地工程配置
 

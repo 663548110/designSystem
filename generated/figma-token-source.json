@@ -1,14 +1,13 @@
 {
   "schema_version": "figma-token-source/v2",
-  "generated_at": "2026-04-24T07:05:46.476Z",
+  "generated_at": "2026-04-24T08:55:35.941Z",
   "source_file": "rdesign灵犀2.0",
   "theme_id": "2_0_flutter",
   "generated_artifacts": {
     "token_entries_path": "tokens.md",
     "full_data_path": "generated/figma-token-source.json",
-    "ai_token_path": "tokens/ai/design-tokens.md",
-    "css_theme_path": "tokens/css/theme.css",
-    "flutter_theme_path": "tokens/flutter/rd_2_0_flutter_theme.dart"
+    "css_theme_path": "artifacts/css/theme.css",
+    "flutter_theme_path": "artifacts/flutter/lib/rdesign_theme_tokens.dart"
   },
   "mode_mappings": [
     {

@@ -1,14 +1,56 @@
 {
   "schema_version": "figma-token-source/v2",
-  "generated_at": "2026-04-24T09:18:06.535Z",
+  "generated_at": "2026-04-24T09:28:14.977Z",
   "source_file": "rdesign灵犀2.0",
-  "theme_id": "2_0_flutter",
+  "theme_id": "default",
   "generated_artifacts": {
     "token_entries_path": "tokens.md",
     "full_data_path": "generated/figma-token-source.json",
     "css_theme_path": "artifacts/css/theme.css",
     "flutter_theme_path": "artifacts/flutter/lib/rdesign_theme_tokens.dart"
   },
+  "flutter_themes": [
+    {
+      "theme_id": "default",
+      "light_modes": [
+        "Light"
+      ],
+      "dark_modes": [
+        "Dark"
+      ],
+      "selected": true
+    },
+    {
+      "theme_id": "sl",
+      "light_modes": [
+        "SL Light"
+      ],
+      "dark_modes": [
+        "SL Dark"
+      ],
+      "selected": true
+    },
+    {
+      "theme_id": "sl_orange",
+      "light_modes": [
+        "SL Orange Light"
+      ],
+      "dark_modes": [
+        "SL Orange Dark"
+      ],
+      "selected": true
+    },
+    {
+      "theme_id": "mrj",
+      "light_modes": [
+        "Mrj Light"
+      ],
+      "dark_modes": [
+        "Mrj Dark"
+      ],
+      "selected": true
+    }
+  ],
   "mode_mappings": [
     {
       "collectionId": "VariableCollectionId:19587:26084",

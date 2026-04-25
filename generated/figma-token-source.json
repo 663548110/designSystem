@@ -1,6 +1,6 @@
 {
   "schema_version": "figma-token-source/v2",
-  "generated_at": "2026-04-24T10:08:49.775Z",
+  "generated_at": "2026-04-25T03:04:00.290Z",
   "source_file": "rdesign灵犀2.0",
   "theme_id": "default",
   "generated_artifacts": {
@@ -14,10 +14,10 @@
     ],
     "flutter_theme_entry_path": "artifacts/flutter/lib/rdesign_theme_tokens.dart",
     "flutter_theme_paths": [
-      "artifacts/flutter/lib/tokens/rd_default_colors.dart",
-      "artifacts/flutter/lib/tokens/rd_sl_colors.dart",
-      "artifacts/flutter/lib/tokens/rd_sl_orange_colors.dart",
-      "artifacts/flutter/lib/tokens/rd_mrj_colors.dart"
+      "artifacts/flutter/lib/rd_default_colors.dart",
+      "artifacts/flutter/lib/rd_sl_colors.dart",
+      "artifacts/flutter/lib/rd_sl_orange_colors.dart",
+      "artifacts/flutter/lib/rd_mrj_colors.dart"
     ]
   },
   "themes": [

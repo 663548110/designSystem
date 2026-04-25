@@ -2,15 +2,15 @@
 // Source file: rdesign灵犀2.0
 // Generated at: 2026-04-25T03:04:00.290Z
 
-import 'rd_default_colors.dart';
-import 'rd_sl_colors.dart';
-import 'rd_sl_orange_colors.dart';
-import 'rd_mrj_colors.dart';
+import 'default_tokens.dart';
+import 'sl_tokens.dart';
+import 'sl_orange_tokens.dart';
+import 'mrj_tokens.dart';
 
-export 'rd_default_colors.dart';
-export 'rd_sl_colors.dart';
-export 'rd_sl_orange_colors.dart';
-export 'rd_mrj_colors.dart';
+export 'default_tokens.dart';
+export 'sl_tokens.dart';
+export 'sl_orange_tokens.dart';
+export 'mrj_tokens.dart';
 
 class RDThemeTokenSpec {
   const RDThemeTokenSpec({

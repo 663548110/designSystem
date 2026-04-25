@@ -1,0 +1,7 @@
+name: rdesign_theme_tokens
+description: Generated RDesign Flutter theme tokens from the designSystem repository.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
